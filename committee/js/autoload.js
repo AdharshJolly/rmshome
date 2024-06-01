@@ -4,9 +4,9 @@ fetch("/committee/resources/data.json").then((response) => {
     ls = data;
     content = "<ul>";
     for (let i = 0; i < Object.keys(ls).length; i++) {
-      content += `<li class="text-center"><a href="#${Object.keys(ls)[i]}">${
+      content += `<li class="text-center" style='font-size: large'><a href="#${
         Object.keys(ls)[i]
-      }</a></li>`;
+      }">${Object.keys(ls)[i]}</a></li>`;
     }
     document.querySelector("#committee_category").innerHTML = content + "</ul>";
     if (window.location.href.split("#").length > 1) {
