@@ -70,7 +70,7 @@
       "img": "https://kp.christuniversity.in/KnowledgePro/images/EmployeePhotos/E3266.jpg"
     },
     {
-      "name": "Dr. Fr. Shijin P J",
+      "name": "Fr. Shijin P J",
       "designation": "CHRIST (Deemed to be University), Bangalore",
       "img": "https://kp.christuniversity.in/KnowledgePro/images/EmployeePhotos/E6758.jpg"
     },
@@ -92,6 +92,11 @@
     {
       "name": "K.S. Charak",
       "designation": "Secretary, RMS, University of Jammu",
+      "img": "nodata.png"
+    },
+    {
+      "name": "Jaydeb Sarkar",
+      "designation": "ISI, Bangalore",
       "img": "nodata.png"
     },
     {
