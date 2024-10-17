@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      td,
+      th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+      }
+      tbody tr:nth-child(3n) {
+        background-color: #a1c3e7 !important;
+      }
+
+      tbody tr:nth-child(3n + 1) {
+        background-color: #d1e9fd !important;
+      }
+
+      tbody tr:nth-child(3n + 2) {
+        background-color: #bddaf5 !important;
+      }
+
+      body {
+        scroll-behavior: smooth;
+      }
+
+      thead tr {
+        background-color: #506c92 !important;
+        color: white;
+
+        th {
+          padding: 10px;
+        }
+      }
+
+      h2 {
+        color: #2f5179;
+      }
+
+      .links {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 4;
+
+        @media screen and (max-width: 600px) {
+          flex-direction: column;
+        }
+      }
+
+      .links h3 {
+        color: #506c92;
+        text-align: left;
+        a {
+          text-decoration: none;
+        }
+
+        @media screen and (max-width: 600px) {
+          font-size: larger;
+        }
+      }
+
+      h1 {
+        color: rgb(45, 45, 106);
+
+        @media screen and (max-width: 600px) {
+          font-size: xx-large;
+        }
+      }
+
+      .download-link {
+        color: #2e4f7c;
+        /* color: #12315c; */
+      }
+
+      .download-link i {
+        font-size: x-large;
+        padding-left: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div>
+        <h1 class="text-center">Contributory Talks</h1>
+        <br />
+        <div
+          style="
+            display: flex;
+            flex-direction: column;
+            padding-left: 10%;
+            padding-right: 10%;
+            align-items: center;
+          "
+        >
+          <div class="links">
+            <h3>| <a href="#algebra">Algebra</a></h3>
+            <h3>| <a href="#algebraic-geometry">Algebraic Geometry</a></h3>
+            <h3>| <a href="#complex-analysis">Complex Analysis</a></h3>
+            <h3>| <a href="#functional-analysis">Functional Analysis</a></h3>
+            <h3>
+              | <a href="#geometry-and-topology">Geometry and Topology</a>
+            </h3>
+            <h3>
+              |
+              <a href="#groups-and-their-representation"
+                >Groups and their Representations</a
+              >
+            </h3>
+            <h3>| <a href="#harmonic-analysis">Harmonic Analysis</a></h3>
+            <h3>
+              |
+              <a href="#partial-differential-equations"
+                >Partial Differential Equations</a
+              >
+            </h3>
+            <h3>| <a href="#probability-theory">Probability Theory</a></h3>
+            <h3>| <a href="#number-theory">Number Theory</a></h3>
+          </div>
+        </div>
+      </div>
+
+      <br />
+
+      <div id="algebra">
+        <br />
+        <br />
+        <h2 class="text-center">Algebra</h2>
+        <br />
+
+        <table
+          class="abstract-table"
+          style="width: 100%; border-collapse: collapse"
+        >
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Title of the Talk</th>
+              <th>Abstract Link</th>
+            </tr>
+          </thead>
+
+          <tbody id="data-output">
+            <!-- populated from the javascript file -->
+          </tbody>
+        </table>
+      </div>
+
+      <div id="algebraic-geometry">
+        <br />
+        <br />
+        <h2 class="text-center">Algebraic Geometry</h2>
+        <br />
+
+        <table
+          class="abstract-table"
+          style="width: 100%; border-collapse: collapse"
+        >
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Title of the Talk</th>
+              <th>Abstract Link</th>
+            </tr>
+          </thead>
+
+          <tbody id="data-output">
+            <!-- populated from the javascript file -->
+          </tbody>
+        </table>
+      </div>
+
+      <div id="complex-analysis">
+        <br />
+        <br />
+        <h2 class="text-center">Complex Analysis</h2>
+        <br />
+
+        <table
+          class="abstract-table"
+          style="width: 100%; border-collapse: collapse"
+        >
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Title of the Talk</th>
+              <th>Abstract Link</th>
+            </tr>
+          </thead>
+
+          <tbody id="data-output">
+            <!-- populated from the javascript file -->
+          </tbody>
+        </table>
+      </div>
+
+      <div id="functional-analysis">
+        <br />
+        <br />
+        <h2 class="text-center">Functional Analysis</h2>
+        <br />
+
+        <table
+          class="abstract-table"
+          style="width: 100%; border-collapse: collapse"
+        >
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Title of the Talk</th>
+              <th>Abstract Link</th>
+            </tr>
+          </thead>
+
+          <tbody id="data-output">
+            <!-- populated from the javascript file -->
+          </tbody>
+        </table>
+      </div>
+
+      <div id="geometry-and-topology">
+        <br />
+        <br />
+        <h2 class="text-center">Geometry and Topology</h2>
+        <br />
+
+        <table
+          class="abstract-table"
+          style="width: 100%; border-collapse: collapse"
+        >
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Title of the Talk</th>
+              <th>Abstract Link</th>
+            </tr>
+          </thead>
+
+          <tbody id="data-output">
+            <!-- populated from the javascript file -->
+          </tbody>
+        </table>
+      </div>
+
+      <div id="groups-and-their-representation">
+        <br />
+        <br />
+        <h2 class="text-center">Groups and their Representation</h2>
+        <br />
+
+        <table
+          class="abstract-table"
+          style="width: 100%; border-collapse: collapse"
+        >
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Title of the Talk</th>
+              <th>Abstract Link</th>
+            </tr>
+          </thead>
+
+          <tbody id="data-output">
+            <!-- populated from the javascript file -->
+          </tbody>
+        </table>
+      </div>
+
+      <div id="harmonic-analysis">
+        <br />
+        <br />
+        <h2 class="text-center">Harmonic Analysis</h2>
+        <br />
+
+        <table
+          class="abstract-table"
+          style="width: 100%; border-collapse: collapse"
+        >
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Title of the Talk</th>
+              <th>Abstract Link</th>
+            </tr>
+          </thead>
+
+          <tbody id="data-output">
+            <!-- populated from the javascript file -->
+          </tbody>
+        </table>
+      </div>
+
+      <div id="partial-differential-equations">
+        <br />
+        <br />
+        <h2 class="text-center">Partial Differential Equations</h2>
+        <br />
+
+        <table
+          class="abstract-table"
+          style="width: 100%; border-collapse: collapse"
+        >
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Title of the Talk</th>
+              <th>Abstract Link</th>
+            </tr>
+          </thead>
+
+          <tbody id="data-output">
+            <!-- populated from the javascript file -->
+          </tbody>
+        </table>
+      </div>
+
+      <div id="probability-theory">
+        <br />
+        <br />
+        <h2 class="text-center">Probability Theory</h2>
+        <br />
+
+        <table
+          class="abstract-table"
+          style="width: 100%; border-collapse: collapse"
+        >
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Title of the Talk</th>
+              <th>Abstract Link</th>
+            </tr>
+          </thead>
+
+          <tbody id="data-output">
+            <!-- populated from the javascript file -->
+          </tbody>
+        </table>
+      </div>
+
+      <div id="number-theory">
+        <br />
+        <br />
+        <h2 class="text-center">Number Theory</h2>
+        <br />
+
+        <table
+          class="abstract-table"
+          style="width: 100%; border-collapse: collapse"
+        >
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Title of the Talk</th>
+              <th>Abstract Link</th>
+            </tr>
+          </thead>
+
+          <tbody id="data-output">
+            <!-- populated from the javascript file -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </body>
+</html>
