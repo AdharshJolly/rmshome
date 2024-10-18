@@ -489,7 +489,7 @@
 
       <br /><br /><br /><br />
 
-      <div data-load="accommodation-text.html"></div>
+      <div data-load="registered_participants-text.html"></div>
 
       <br /><br />
 
@@ -658,7 +658,7 @@
     <script src="js/contributory_talks.js"></script>
 
     <script>
-      fetch("")
+      fetch("./data/participants.json")
         .then(function (response) {
           return response.json();
         })
@@ -669,11 +669,22 @@
             let count = 1;
 
             for (let item of items) {
-              if (item.name == "") continue;
-              out += `<tr>
-                  <td> ${item.name} </td>
-                  <td> ${item.category}</td> 
+              if (item.Names == "" || item.Names == null)
+                out += `<tr>
+                  <th></th>
+                  <th></th>
+                </tr>
+                <tr>
+                  <th>Name</th>
+                  <th>Institution</th>
+                  </tr>
+                `;
+              else {
+                out += `<tr>
+                  <td> ${item.Names} </td>
+                  <td> ${item.Institute}</td> 
                </tr>`;
+              }
             }
 
             placeholder.innerHTML = out;
