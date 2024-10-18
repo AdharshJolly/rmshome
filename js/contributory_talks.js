@@ -11,8 +11,6 @@ const categories = [
   "number-theory",
 ];
 
-// https://drive.google.com/file/d/1cVX_B367BSuVt31ocav1VeXM6O_440Gt/view?usp=sharing
-
 fetch("../data/abstract.json")
   .then(function (response) {
     return response.json();
@@ -26,20 +24,17 @@ fetch("../data/abstract.json")
 
       for (let item of items) {
         if (item.category == category) {
-          let link = item.link.split("/");
-          let id = link[5];
-
           out += `
                 <tr>
                     <td>${item.name}</td>
                     <td>${item.title}</td>
                     <td>
-                      <a class="download-link" href=${
-                        id
-                          ? `https://drive.google.com/uc?export=download&id=${id}`
-                          : ``
-                      }>
-                        ${id ? `<i class="fa-solid fa-download"></i>` : ``}
+                      <a class="download-link" href=${item.link}>
+                        ${
+                          item.link
+                            ? `<i class="fa-solid fa-download"></i>`
+                            : ``
+                        }
                       </a>
                     </td>
                 </tr>
