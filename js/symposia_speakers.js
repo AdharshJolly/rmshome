@@ -11,7 +11,7 @@ const categories = [
   "number-theory",
 ];
 
-fetch("/data/abstract.json")
+fetch("/data/symposium-speakers.json")
   .then(function (response) {
     return response.json();
   })
@@ -19,24 +19,15 @@ fetch("/data/abstract.json")
     for (category of categories) {
       let placeholder = document
         .querySelector(`#${category}`)
-        .querySelector("#data-output");
+        .querySelector("#speakers-data");
       let out = "";
 
       for (let item of items) {
         if (item.category == category) {
           out += `
                 <tr>
-                    <td>${item.name}</td>
-                    <td>${item.title}</td>
-                    <td>
-                      <a class="download-link" href=${item.link}>
-                        ${
-                          item.link
-                            ? `<i class="fa-solid fa-download"></i>`
-                            : ``
-                        }
-                      </a>
-                    </td>
+                    <td>${item.Name}</td>
+                    <td>${item.Institute}</td>
                 </tr>
             `;
         }
@@ -45,5 +36,3 @@ fetch("/data/abstract.json")
       placeholder.innerHTML = out;
     }
   });
-
-// <a class="download-link" href=${id? `https://drive.google.com/uc?export=download&id=${id}`: ``}><i class="fa-solid fa-download"></i> </a>

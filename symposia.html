@@ -646,5 +646,26 @@
     <!--mega menu -->
 
     <script src="js/owl.carousel.js"></script>
+
+    <script>
+      fetch("/data/symposium-organizers.json")
+        .then(function (response) {
+          return response.json();
+        })
+        .then(function (items) {
+          let placeholder = document.querySelector("#organizers-data");
+          let out = "";
+
+          for (let item of items) {
+            out += `<tr>
+                <td>${item.Category}</td>
+                  <td> ${item.Name} </td>
+                  <td> ${item.Institute}</td> 
+               </tr>`;
+          }
+
+          placeholder.innerHTML = out;
+        });
+    </script>
   </body>
 </html>

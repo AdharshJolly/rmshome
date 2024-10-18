@@ -20,6 +20,13 @@
       font-weight: 400;
       font-size: medium;
     }
+    .important-date tr:nth-child(2) {
+      background-color: #a1c3e7 !important;
+    }
+
+    .important-date tr:nth-child(1) {
+      background-color: #d1e9fd !important;
+    }
     .text-secondary {
       color: #6c757d;
     }
@@ -61,10 +68,17 @@
     h5::first-letter {
       font-size: 2rem;
     }
+
+    thead tr {
+      background-color: #506c92 !important;
+      color: white;
+      font-size: large;
+      font-weight: bold;
+    }
   </style>
   <body>
     <div class="card scheduleCard m-0 p-0">
-      <div class="card-body m-0">
+      <div class="card-body m-0" style="padding-left: 5%; padding-right: 5%">
         <h5 class="p-2 abot-txt-innr">
           <p>
             Interested Faculty members and Researchers from any institution of
@@ -108,7 +122,7 @@
                     </td>
                   </tr>
                 </thead>
-                <tbody>
+                <tbody class="important-date">
                   <tr>
                     <td>
                       Last date of Abstract Submission and Registration
@@ -160,7 +174,7 @@
                 </tr>
                 <tr>
                   <th scope="col" class="text-center w-25">Category</th>
-                  <th scope="col" class="text-center" style="width: 100px">
+                  <th scope="col" class="text-center w-45" style="width: 100px">
                     Fees
                   </th>
                   <th scope="col" class="text-center">Remarks</th>
@@ -168,14 +182,29 @@
               </thead>
               <tbody>
                 <tr>
-                  <td>With Accommodation</td>
-                  <td class="text-center fs-6">
-                    <span class="text-danger fw-bold"
+                  <td style="background-color: #d1e9fd !important">
+                    With Accommodation
+                  </td>
+                  <td
+                    style="
+                      background-color: #d1e9fd !important;
+                      width: fit-content;
+                    "
+                    class="text-center fs-6"
+                  >
+                    <span class="fw-bold" style="color: #f55401"
                       >&#8377; 5250 (Inclusive of GST)</span
                     >
                   </td>
                   <!-- <td>The registration fee includes breakfast, lunch, tea/coffee, and dinner for the three days of the conference.</td> -->
-                  <td rowspan="2">
+                  <td
+                    style="
+                      background-color: #a1c3e7 !important;
+                      text-align: center;
+                      align-content: center;
+                    "
+                    rowspan="2"
+                  >
                     Campus Accommodation (Guest House or Hostel as per
                     availability) is from
                     <strong class="text-danger"
@@ -192,10 +221,15 @@
                   </td>
                 </tr>
                 <tr>
-                  <td>Without Accommodation</td>
-                  <td class="text-center fs-6">
-                    <span class="text-danger fw-bold"
-                      >&#8377; 3150(Inclusive of GST)</span
+                  <td style="background-color: #bddaf5 !important">
+                    Without Accommodation
+                  </td>
+                  <td
+                    style="background-color: #bddaf5 !important"
+                    class="text-center fs-6"
+                  >
+                    <span class="fw-bold" style="color: #f55401"
+                      >&#8377; 3150 (Inclusive of GST)</span
                     >
                   </td>
 

@@ -64,6 +64,46 @@
     h5::first-letter {
       font-size: 2rem;
     }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    tbody tr {
+      font-size: large;
+
+      @media screen and (max-width: 600px) {
+        font-size: medium;
+        font-weight: 500;
+      }
+    }
+
+    tbody tr td {
+      width: 33%;
+    }
+
+    tbody tr:nth-child(3n) {
+      background-color: #a1c3e7 !important;
+    }
+
+    tbody tr:nth-child(3n + 1) {
+      background-color: #d1e9fd !important;
+    }
+
+    tbody tr:nth-child(3n + 2) {
+      background-color: #bddaf5 !important;
+    }
+
+    thead tr {
+      background-color: #506c92 !important;
+      color: white;
+
+      th {
+        padding: 10px;
+        font-size: larger;
+      }
+    }
   </style>
   <body>
     <div class="card scheduleCard m-0 p-0">
@@ -77,14 +117,27 @@
             display: flex;
             flex-direction: column;
             padding-left: 10%;
-            padding-right: 55%;
+            padding-right: 10%;
           "
         >
-          <div style="display: flex; justify-content: space-between">
-            <h4>Public Lecture: B. Sury</h4>
-            <h4>ISI Bangalore</h4>
-          </div>
+          <table>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Institution</th>
+              </tr>
+            </thead>
+
+            <tbody>
+              <tr>
+                <td>B. Sury</td>
+                <td>ISI Bangalore</td>
+              </tr>
+            </tbody>
+          </table>
         </div>
+        <br />
+        <br />
         <br />
         <h1 class="text-center">Plenary Speakers</h1>
         <br />
@@ -93,25 +146,36 @@
             display: flex;
             flex-direction: column;
             padding-left: 10%;
-            padding-right: 55%;
+            padding-right: 10%;
           "
         >
-          <div style="display: flex; justify-content: space-between">
-            <h4>Plenary 1: Nikita Agarwal</h4>
-            <h4>IISER Bhopal</h4>
-          </div>
-          <div style="display: flex; justify-content: space-between">
-            <h4>Plenary 2: Anish Ghosh</h4>
-            <h4>TIFR</h4>
-          </div>
-          <div style="display: flex; justify-content: space-between">
-            <h4>Plenary 3: Maithilly Ramaswamy</h4>
-            <h4>TIFR CAM</h4>
-          </div>
-          <div style="display: flex; justify-content: space-between">
-            <h4>Plenary 4: Harish Seshadri</h4>
-            <h4>IISc</h4>
-          </div>
+          <table>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Institution</th>
+              </tr>
+            </thead>
+
+            <tbody>
+              <tr>
+                <td>Nikita Agarwal</td>
+                <td>IISER Bhopal</td>
+              </tr>
+              <tr>
+                <td>Anish Ghosh</td>
+                <td>TIFR</td>
+              </tr>
+              <tr>
+                <td>Maithilly Ramaswamy</td>
+                <td>TIFR CAM</td>
+              </tr>
+              <tr>
+                <td>Harish Seshadri</td>
+                <td>IISc</td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </div>
     </div>

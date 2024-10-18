@@ -12,7 +12,7 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>RMS2024 | Contributory Talks</title>
+    <title>RMS2024 | Registered Participants</title>
     <link
       rel="stylesheet"
       type="text/css"
@@ -658,26 +658,24 @@
     <script src="js/contributory_talks.js"></script>
 
     <script>
-      fetch("./data/participants.json")
+      fetch("/data/participants.json")
         .then(function (response) {
           return response.json();
         })
         .then(function (items) {
-          for (category of categories) {
-            let placeholder = document.querySelector("#participants-data");
-            let out = "";
-            let count = 1;
+          let placeholder = document.querySelector("#participants-data");
+          let out = "";
+          let count = 1;
 
-            for (let item of items) {
-              if (item.Names == "" || item.Names == null) continue;
-              out += `<tr>
+          for (let item of items) {
+            if (item.Names == "" || item.Names == null) continue;
+            out += `<tr>
                   <td> ${item.Names} </td>
                   <td> ${item.Institute}</td> 
                </tr>`;
-            }
-
-            placeholder.innerHTML = out;
           }
+
+          placeholder.innerHTML = out;
         });
     </script>
   </body>
