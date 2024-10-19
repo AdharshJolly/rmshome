@@ -25,15 +25,29 @@
 
     tbody tr {
       font-size: large;
-
-      @media screen and (max-width: 600px) {
-        font-size: medium;
-        font-weight: 500;
-      }
+      font-weight: 500;
     }
 
-    tbody tr td {
-      width: 33%;
+    .table-div {
+      display: flex;
+      flex-direction: column;
+      padding-left: 10%;
+      padding-right: 10%;
+    }
+
+    @media screen and (max-width: 600px) {
+      .table-div {
+        padding-left: 5%;
+        padding-right: 5%;
+      }
+
+      tbody tr {
+        font-size: small;
+      }
+
+      h1 {
+        font-size: xx-large;
+      }
     }
 
     tbody tr:nth-child(3n) {
@@ -62,14 +76,7 @@
     <div class="">
       <h1 class="text-center">Symposia Organizers</h1>
       <br />
-      <div
-        style="
-          display: flex;
-          flex-direction: column;
-          padding-left: 10%;
-          padding-right: 10%;
-        "
-      >
+      <div class="table-div">
         <table>
           <thead>
             <tr>
