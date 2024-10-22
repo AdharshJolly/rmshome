@@ -246,7 +246,7 @@
   },
   {
     "Name": "Deepak Gothwal",
-    "Institute": "SRF, ISIK",
+    "Institute": "ISIK",
     "category": "functional-analysis"
   },
   {
@@ -261,7 +261,7 @@
   },
   {
     "Name": "Gayathri P",
-    "Institute": "SRF, NIT Trichy",
+    "Institute": "NIT Trichy",
     "category": "functional-analysis"
   },
   {
@@ -291,7 +291,7 @@
   },
   {
     "Name": "Soumitra Daptari",
-    "Institute": "Postdoc, Shiv Nadar",
+    "Institute": "Shiv Nadar",
     "category": "functional-analysis"
   },
   {
@@ -301,7 +301,7 @@
   },
   {
     "Name": "Susmita Seal",
-    "Institute": "SRF, RKMVERI",
+    "Institute": "RKMVERI",
     "category": "functional-analysis"
   },
   {
@@ -470,6 +470,11 @@
     "category": "groups-and-their-representation"
   },
   {
+    "Name": "Amit Samanta",
+    "Institute": "RKMVERI",
+    "category": "harmonic-analysis"
+  },
+  {
     "Name": "Jotsaroop Kaur",
     "Institute": "IISER Mohali",
     "category": "harmonic-analysis"
@@ -517,11 +522,6 @@
   {
     "Name": "Sanjay Parui",
     "Institute": "NISER Bhubaneswar",
-    "category": "harmonic-analysis"
-  },
-  {
-    "Name": "Sanjoy Pusti",
-    "Institute": "IIT Bombay",
     "category": "harmonic-analysis"
   },
   {
@@ -705,11 +705,6 @@
     "category": "probability-theory"
   },
   {
-    "Name": "Anilatmaja Aryasomayajula",
-    "Institute": "IISER Tirupati",
-    "category": "number-theory"
-  },
-  {
     "Name": "Anupam Saikia",
     "Institute": "IIT Guwahati",
     "category": "number-theory"
@@ -735,13 +730,13 @@
     "category": "number-theory"
   },
   {
-    "Name": "Ekata Saha",
-    "Institute": "IIT Delhi",
+    "Name": "Divyum Sharma",
+    "Institute": "BITS Pilani",
     "category": "number-theory"
   },
   {
-    "Name": "Jaitra Chattopadhyay",
-    "Institute": "Visva Bharati University",
+    "Name": "Ekata Saha",
+    "Institute": "IIT Delhi",
     "category": "number-theory"
   },
   {
@@ -752,6 +747,11 @@
   {
     "Name": "Keshav Agrawal",
     "Institute": "IIT Bombay",
+    "category": "number-theory"
+  },
+  {
+    "Name": "Mihir Sheth",
+    "Institute": "IISc Bangalore",
     "category": "number-theory"
   },
   {
