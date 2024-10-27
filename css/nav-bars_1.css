@@ -12,7 +12,7 @@
   position: relative;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-  box-sizing: border-box;  
+  box-sizing: border-box;
 }
 #cssmenu:after,
 #cssmenu > ul:after {
@@ -27,11 +27,10 @@
   display: none;
 }
 #cssmenu {
-	margin: 14px auto;
+  margin: 14px auto;
 }
 #cssmenu > ul > li {
-    float: left;
-
+  float: left;
 }
 #cssmenu.align-center > ul {
   font-size: 0;
@@ -48,15 +47,15 @@
   float: right;
 }
 #cssmenu > ul > li > a {
-    padding: 16px 13px;
-    text-decoration: none;
-    color: #0B3F64;
-    border-bottom: 0px solid #f4f4f4;
-    font-size: 15px;
+  padding: 16px 13px;
+  text-decoration: none;
+  color: #0b3f64;
+  border-bottom: 0px solid #f4f4f4;
+  font-size: 15px;
 }
 #cssmenu > ul > li:hover > a {
-	color:#076EF9;
-	background: #f4f4f4;
+  color: #076ef9;
+  background: #f4f4f4;
 }
 #cssmenu > ul > li.has-sub > a {
   padding-right: 30px;
@@ -69,7 +68,7 @@
   height: 2px;
   display: block;
   background: #333;
-  content: '';
+  content: "";
 }
 #cssmenu > ul > li.has-sub > a:before {
   position: absolute;
@@ -79,12 +78,12 @@
   width: 2px;
   height: 8px;
   background: #333;
-  content: '';
-  -webkit-transition: all .25s ease;
-  -moz-transition: all .25s ease;
-  -ms-transition: all .25s ease;
-  -o-transition: all .25s ease;
-  transition: all .25s ease;
+  content: "";
+  -webkit-transition: all 0.25s ease;
+  -moz-transition: all 0.25s ease;
+  -ms-transition: all 0.25s ease;
+  -o-transition: all 0.25s ease;
+  transition: all 0.25s ease;
 }
 #cssmenu > ul > li.has-sub:hover > a:before {
   top: 23px;
@@ -99,11 +98,11 @@
 }
 #cssmenu ul ul li {
   height: 0;
-  -webkit-transition: all .25s ease;
-  -moz-transition: all .25s ease;
-  -ms-transition: all .25s ease;
-  -o-transition: all .25s ease;
-  transition: all .25s ease;
+  -webkit-transition: all 0.25s ease;
+  -moz-transition: all 0.25s ease;
+  -ms-transition: all 0.25s ease;
+  -o-transition: all 0.25s ease;
+  transition: all 0.25s ease;
 }
 #cssmenu li:hover > ul {
   left: auto;
@@ -140,7 +139,7 @@
 }
 #cssmenu ul ul li:hover > a,
 #cssmenu ul ul li a:hover {
-  color: #fff ;
+  color: #fff;
 }
 #cssmenu ul ul li.has-sub > a:after {
   position: absolute;
@@ -150,7 +149,7 @@
   height: 2px;
   display: block;
   background: #dddddd;
-  content: '';
+  content: "";
 }
 #cssmenu.align-right ul ul li.has-sub > a:after {
   right: auto;
@@ -164,12 +163,12 @@
   width: 2px;
   height: 8px;
   background: #dddddd;
-  content: '';
-  -webkit-transition: all .25s ease;
-  -moz-transition: all .25s ease;
-  -ms-transition: all .25s ease;
-  -o-transition: all .25s ease;
-  transition: all .25s ease;
+  content: "";
+  -webkit-transition: all 0.25s ease;
+  -moz-transition: all 0.25s ease;
+  -ms-transition: all 0.25s ease;
+  -o-transition: all 0.25s ease;
+  transition: all 0.25s ease;
 }
 #cssmenu.align-right ul ul li.has-sub > a:before {
   right: auto;
@@ -180,17 +179,20 @@
   height: 0;
 }
 #cssmenu ul li a .fa {
-	/*color:#0B3F64;*/
-	padding-right: 7px;
-	}
-
-
+  /*color:#0B3F64;*/
+  padding-right: 7px;
+}
 
 /*.cmnu {float:right;}*/
-@media all and (max-width: 768px), only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1024px), only screen and (min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min-resolution: 192dpi) and (max-width: 1024px), only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
+@media all and (max-width: 768px),
+  only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1024px),
+  only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1024px),
+  only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1024px),
+  only screen and (min-device-pixel-ratio: 2) and (max-width: 1024px),
+  only screen and (min-resolution: 192dpi) and (max-width: 1024px),
+  only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
   #cssmenu {
     width: 100%;
-	
   }
   #cssmenu ul {
     width: 100%;
@@ -201,9 +203,9 @@
   }
   #cssmenu ul li {
     width: 100%;
-	border-top: 1px solid rgba(120, 120, 120, 0.14);
-	border-right: none;
-	padding: 4px 0;
+    border-top: 1px solid rgba(120, 120, 120, 0.14);
+    border-right: none;
+    padding: 4px 0;
   }
   #cssmenu ul ul li,
   #cssmenu li:hover > ul > li {
@@ -213,7 +215,7 @@
   #cssmenu ul ul li a {
     width: 100%;
     border-bottom: 0;
-	padding: 9px 13px;
+    padding: 9px 13px;
   }
   #cssmenu > ul > li {
     float: none;
@@ -265,7 +267,7 @@
     width: 20px;
     border-top: 2px solid #333;
     border-bottom: 2px solid #333;
-    content: '';
+    content: "";
   }
   #cssmenu #menu-button:before {
     position: absolute;
@@ -275,7 +277,7 @@
     height: 2px;
     width: 20px;
     background: #333;
-    content: '';
+    content: "";
   }
   #cssmenu #menu-button.menu-opened:after {
     top: 23px;
@@ -325,7 +327,7 @@
     height: 2px;
     display: block;
     background: #dddddd;
-    content: '';
+    content: "";
   }
   #cssmenu ul ul .submenu-button:after {
     top: 15px;
@@ -342,7 +344,7 @@
     width: 2px;
     height: 8px;
     background: #dddddd;
-    content: '';
+    content: "";
   }
   #cssmenu ul ul .submenu-button:before {
     top: 12px;

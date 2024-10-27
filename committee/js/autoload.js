@@ -51,6 +51,7 @@ const load_committee = (category) => {
     min-width: 0;
     word-wrap: break-word; background-clip: border-box;
     border: 1px solid rgba(0,0,0,.125);">
+    
         <div class="card-content" style="background-color: transparent;
         padding: 1.5rem;">
             <div class="media" style="align-items: flex-start;
