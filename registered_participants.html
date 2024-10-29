@@ -668,10 +668,10 @@
           let count = 1;
 
           for (let item of items) {
-            if (item.Names == "" || item.Names == null) continue;
+            if (item.name == "" || item.name == null) continue;
             out += `<tr>
-                  <td> ${item.Names} </td>
-                  <td> ${item.Institute}</td> 
+                  <td> ${item.name} </td>
+                  <td> ${item.institute}</td> 
                </tr>`;
           }
 

@@ -1,630 +1,858 @@
 [
   {
-    "Names": "Abraham Dinesh R",
-    "Institute": "Rathinam College of Arts and Science"
+    "name": "Abraham Dinesh R",
+    "institute": "Rathinam College of Arts and Science"
   },
   {
-    "Names": "Aditya Kumar Yadav",
-    "Institute": "Tezpur University"
+    "name": "Aditya Kumar Yadav",
+    "institute": "Tezpur University"
   },
   {
-    "Names": "Aditya Subramaniam",
-    "Institute": "Manipal Institute of Technology"
+    "name": "Aditya Subramaniam",
+    "institute": "Manipal Institute of Technology"
   },
   {
-    "Names": "Akanksha",
-    "Institute": "IIT Delhi"
+    "name": "Aishwarya Jaiswal",
+    "institute": "IIT BHU"
   },
   {
-    "Names": "Ambily A A",
-    "Institute": "Cochin University of Science and Technology"
+    "name": "Akanksha",
+    "institute": "IIT Delhi"
   },
   {
-    "Names": "Amrita Ghosh",
-    "Institute": "HRI, Prayagraj"
+    "name": "Ambily A A",
+    "institute": "Cochin University of Science and Technology"
   },
   {
-    "Names": "Anand Deo",
-    "Institute": "Indian Institute of Management, Bangalore"
+    "name": "Amit Samanta",
+    "institute": "RKMVERI"
   },
   {
-    "Names": "Anil Kumar Karn",
-    "Institute": "NISER Bhubaneswar"
+    "name": "Amrita Ghosh",
+    "institute": "HRI, Prayagraj"
   },
   {
-    "Names": "Aninda Banerjee",
-    "Institute": "TCG CREST"
+    "name": "Anand Deo",
+    "institute": "Indian Institute of Management, Bangalore"
   },
   {
-    "Names": "Aniruddha Deshmukh",
-    "Institute": "Indian Institute of Technology Indore"
+    "name": "Anil Kumar Karn",
+    "institute": "NISER Bhubaneswar"
   },
   {
-    "Names": "Ankit",
-    "Institute": "Indian Institute of Technology Delhi"
+    "name": "Aninda Banerjee",
+    "institute": "TCG CREST"
   },
   {
-    "Names": "Ankit Kumar",
-    "Institute": "Punjab Engineering College (Deemed to be University)"
+    "name": "Aniruddha Deshmukh",
+    "institute": "Indian Institute of Technology Indore"
   },
   {
-    "Names": "Anoop Singh",
-    "Institute": "IIT(BHU) Varanasi"
+    "name": "Ankit Kumar",
+    "institute": "Punjab Engineering College (Deemed to be University)"
   },
   {
-    "Names": "Anu Dhochak",
-    "Institute": "Shiv Nadar Institution of Eminence Deemed to be University"
+    "name": "Ankit Yadav",
+    "institute": "Indian Institute of Technology Delhi"
   },
   {
-    "Names": "Anuj Kumar Bhagat",
-    "Institute": "IIT Delhi"
+    "name": "Anoop Singh",
+    "institute": "IIT(BHU) Varanasi"
   },
   {
-    "Names": "Anup Biswas",
-    "Institute": "IISER Pune"
+    "name": "Anu Dhochak",
+    "institute": "Shiv Nadar Institution of Eminence Deemed to be University"
   },
   {
-    "Names": "Anupma",
-    "Institute": "BITS Pilani, Pilani Campus"
+    "name": "Anuj Kumar Bhagat",
+    "institute": "IIT Delhi"
   },
   {
-    "Names": "Anusree R",
-    "Institute": "IIT Hyderabad"
+    "name": "Anup Biswas",
+    "institute": "IISER Pune"
   },
   {
-    "Names": "Aprameyo Pal",
-    "Institute": "Harish-Chandra Research Institute"
+    "name": "Anupam Saikia",
+    "institute": "IIT Guwahati"
   },
   {
-    "Names": "Arijit Dey",
-    "Institute": "IIT Madras"
+    "name": "Anupma Arora",
+    "institute": "BITS Pilani, Pilani Campus"
   },
   {
-    "Names": "Arijit Mukherjee",
-    "Institute": "IIT Madras"
+    "name": "Anuradha Sharma",
+    "institute": "IIIT Delhi"
   },
   {
-    "Names": "Arindam Mandal",
-    "Institute": "Nationnal Institute of Science Education and Research"
+    "name": "Anusree R",
+    "institute": "IIT Hyderabad"
   },
   {
-    "Names": "Arnab Chowdhury",
-    "Institute": "TIFR CAM"
+    "name": "Aprameyo Pal",
+    "institute": "Harish-Chandra Research Institute"
   },
   {
-    "Names": "Arpita Mal",
-    "Institute": "Dhirubhai Ambani Institute of Information and Communication Technology"
+    "name": "Archana S Morye",
+    "institute": "University of Hyderabad"
   },
   {
-    "Names": "Arvish Dabra",
-    "Institute": "Indian Institute of Technology Delhi"
+    "name": "Arijit Dey",
+    "institute": "IIT Madras"
   },
   {
-    "Names": "Aryaman Sensarma",
-    "Institute": "National Institute of Technology Silchar"
+    "name": "Arijit Mukherjee",
+    "institute": "IIT Madras"
   },
   {
-    "Names": "Ashish Kumar Pandey",
-    "Institute": "University of Allahabad"
+    "name": "Arindam Mandal",
+    "institute": "Nationnal Institute of Science Education and Research"
   },
   {
-    "Names": "Astha Agrawal",
-    "Institute": "Indian Institute of Science Bangalore"
+    "name": "Arnab Chowdhury",
+    "institute": "TIFR CAM"
   },
   {
-    "Names": "Atanu Manna",
-    "Institute": "Indian Institute of Technology Hyderabad"
+    "name": "Arpan Kabiraj",
+    "institute": "IIT Palakkad"
   },
   {
-    "Names": "Atreyee Bhattacharya",
-    "Institute": "IISER Bhopal"
+    "name": "Arpita Mal",
+    "institute": "Dhirubhai Ambani Institute of Information and Communication Technology"
   },
   {
-    "Names": "Atul Shekhar",
-    "Institute": "TIFR-CAM"
+    "name": "Arvish Dabra",
+    "institute": "Indian Institute of Technology Delhi"
   },
   {
-    "Names": "B. Sury",
-    "Institute": "Indian Statistical Institute Bangalore"
+    "name": "Aryaman Sensarma",
+    "institute": "National Institute of Technology Silchar"
   },
   {
-    "Names": "Balakrishnan K P",
-    "Institute": "Madras Christian College"
+    "name": "Ashima Bansal",
+    "institute": "IISER Tirupati"
   },
   {
-    "Names": "Balesh Kumar",
-    "Institute": "IIT Ropar"
+    "name": "Ashish Kumar Pandey",
+    "institute": "University of Allahabad"
   },
   {
-    "Names": "Bappaditya Bhowmik",
-    "Institute": "IIT Kharagpur"
+    "name": "Ashish Mishra",
+    "institute": "LNMIIT Jaipur"
   },
   {
-    "Names": "Bhargab Das",
-    "Institute": "Harish-Chandra Research Institute"
+    "name": "Astha Agrawal",
+    "institute": "Indian Institute of Science Bangalore"
   },
   {
-    "Names": "Bhaskar Paul",
-    "Institute": "IIT Bhilai"
+    "name": "Aswin G S",
+    "institute": "IISER Berhampur"
   },
   {
-    "Names": "Bhawini Prasad",
-    "Institute": "IIT Madras"
+    "name": "Atanu Manna",
+    "institute": "Indian Institute of Technology Hyderabad"
   },
   {
-    "Names": "Bhola Nath Saha",
-    "Institute": "Indian Institute of Technology Kanpur"
+    "name": "Atreyee Bhattacharya",
+    "institute": "IISER Bhopal"
   },
   {
-    "Names": "Bidisha Roy",
-    "Institute": "Indian Institute Of Technology Tirupati"
+    "name": "Atul Shekhar",
+    "institute": "TIFR-CAM"
   },
   {
-    "Names": "Bidyabati Thangjam",
-    "Institute": "Mizoram University"
+    "name": "Ayan Bhattacharya",
+    "institute": "IIT, Bombay"
   },
   {
-    "Names": "Biswajyoti Saha",
-    "Institute": "IIT Delhi"
+    "name": "B. Sury",
+    "institute": "Indian Statistical Institute Bangalore"
   },
   {
-    "Names": "Bivas Khan",
-    "Institute": "Chennai Mathematical Institute"
+    "name": "Balakrishnan K P",
+    "institute": "Madras Christian College"
   },
   {
-    "Names": "Brundaban Sahu",
-    "Institute": "NISER Bhubaneswar"
+    "name": "Balesh Kumar",
+    "institute": "IIT Ropar"
   },
   {
-    "Names": "C.Infantina Sharmi",
-    "Institute": "Madras Christian College"
+    "name": "Bankteshwar Tiwari",
+    "institute": "Banaras Hindu University, Varanasi"
   },
   {
-    "Names": "Chaithra B J",
-    "Institute": "Manipal Institute of Technology"
+    "name": "Bappaditya Bhowmik",
+    "institute": "IIT Kharagpur"
   },
   {
-    "Names": "Chaithra B J",
-    "Institute": "Manipal Institute of Technology"
+    "name": "Bhargab Das",
+    "institute": "Harish-Chandra Research Institute"
   },
   {
-    "Names": "Chaman Kumar",
-    "Institute": "Indian Institute of Technology Roorkee"
+    "name": "Bhaskar Paul",
+    "institute": "IIT Bhilai"
   },
   {
-    "Names": "Chetan D. Pahlajani",
-    "Institute": "IIT Gandhinagar"
+    "name": "Bhawini Prasad",
+    "institute": "IIT Madras"
   },
   {
-    "Names": "Debabrata Karmakar",
-    "Institute": "TIFR CAM"
+    "name": "Bhola Nath Saha",
+    "institute": "Indian Institute of Technology Kanpur"
   },
   {
-    "Names": "Debamita Chatterjee",
-    "Institute": "Jawaharlal Nehru University"
+    "name": "Bidisha Roy",
+    "institute": "Indian Institute Of Technology Tirupati"
   },
   {
-    "Names": "Debdip Ganguly",
-    "Institute": "Indian Institute of Technology Delhi"
+    "name": "Bidyabati Thangjam",
+    "institute": "Mizoram University"
   },
   {
-    "Names": "Deepak Gothwal",
-    "Institute": "Indian Statistical Institute, Kolkata"
+    "name": "Biswajyoti Saha",
+    "institute": "IIT Delhi"
   },
   {
-    "Names": "Dev Karan Singh",
-    "Institute": "MNNIT Allahabad"
+    "name": "Bivas Khan",
+    "institute": "Chennai Mathematical Institute"
   },
   {
-    "Names": "Divyang Bhimani",
-    "Institute": "Indian Institute of Scinence Education and Reserch, Pune"
+    "name": "Brundaban Sahu",
+    "institute": "NISER Bhubaneswar"
   },
   {
-    "Names": "Dushyant Kumar Sengar",
-    "Institute": "Shiv Nadar Institution of Eminence"
+    "name": "C.Infantina Sharmi",
+    "institute": "Madras Christian College"
   },
   {
-    "Names": "E K Narayanan",
-    "Institute": "Indian Institute of Science"
+    "name": "Chaithra B J",
+    "institute": "Manipal Institute of Technology"
   },
   {
-    "Names": "Gayathry Pradeep",
-    "Institute": "Cochin University of Science And Technology"
+    "name": "Chaman Kumar",
+    "institute": "Indian Institute of Technology Roorkee"
   },
   {
-    "Names": "Gopinath",
-    "Institute": "Tata Institute of Fundamental Research, Mumbai"
+    "name": "Chetan D. Pahlajani",
+    "institute": "IIT Gandhinagar"
   },
   {
-    "Names": "Gugan Chandrashekhar Mallika Thoppe",
-    "Institute": "Indian Institute of Science"
+    "name": "Chetan Singh",
+    "institute": "IIT Delhi"
   },
   {
-    "Names": "Gurleen Kaur",
-    "Institute": "IIT Ropar"
+    "name": "Chudamani Pranesachar Anil Kumar",
+    "institute": "KREA University"
   },
   {
-    "Names": "Himanshu Chandrakar",
-    "Institute": "IIT Bhilai"
+    "name": "Debabrata Karmakar",
+    "institute": "TIFR CAM"
   },
   {
-    "Names": "J. Deivanai",
-    "Institute": "Shiv Nadar University"
+    "name": "Debamita Chatterjee",
+    "institute": "Jawaharlal Nehru University"
   },
   {
-    "Names": "Jasbir Parashar",
-    "Institute": "IIT Ropar"
+    "name": "Debanjan Nandi",
+    "institute": "IISc Bengaluru"
   },
   {
-    "Names": "Jaydeb Sarkar",
-    "Institute": "Indian Statistical Institute"
+    "name": "Debdip Ganguly",
+    "institute": "Indian Institute of Technology Delhi"
   },
   {
-    "Names": "Jebasingh R",
-    "Institute": "IISER Kolkata"
+    "name": "Debleena Thacker",
+    "institute": "University of Durham"
   },
   {
-    "Names": "Jitender",
-    "Institute": "Motilal Nehru National Institute of Technology Allahabad"
+    "name": "Deepak Gothwal",
+    "institute": "Indian Statistical Institute, Kolkata"
   },
   {
-    "Names": "Jitender Sharma",
-    "Institute": "Indian Institute of Science Education and Research Kolkata"
+    "name": "Dev Karan Singh",
+    "institute": "MNNIT Allahabad"
   },
   {
-    "Names": "Jocelyn Johnson",
-    "Institute": "Madras Christian College"
+    "name": "Dipankar Ghosh",
+    "institute": "IIT Kharagpur"
   },
   {
-    "Names": "Joydwip Singh",
-    "Institute": "Indian Institute of Science Education and Research Kolkata"
+    "name": "Divyang Bhimani",
+    "institute": "Indian Institute of Scinence Education and Reserch, Pune"
   },
   {
-    "Names": "Jyoti Dasgupta",
-    "Institute": "Indian Institute of Technology (Indian School of Mines) Dhanbad"
+    "name": "Dushyant Kumar Sengar",
+    "institute": "Shiv Nadar Institution of Eminence"
   },
   {
-    "Names": "K. Srinivas",
-    "Institute": "IMSc, Chennai"
+    "name": "E K Narayanan",
+    "institute": "Indian Institute of Science"
   },
   {
-    "Names": "Kamleshkumar Ratilal Baleviya",
-    "Institute": "Sardar Patel University"
+    "name": "Ekata Saha",
+    "institute": "IIT Delhi"
   },
   {
-    "Names": "Kartika Verma",
-    "Institute": "Madras Christian College"
+    "name": "Elanchearan R S",
+    "institute": "IIT Madras"
   },
   {
-    "Names": "Keshav Aggarwal",
-    "Institute": "IIT Bombay"
+    "name": "Gayathri P",
+    "institute": "NIT Trichy"
   },
   {
-    "Names": "Kuldeep Saha",
-    "Institute": "TCG CREST Kolkata"
+    "name": "Gayathry Pradeep",
+    "institute": "Cochin University of Science And Technology"
   },
   {
-    "Names": "Kushal Bhowmick",
-    "Institute": "Harish-Chandra Research Institute"
+    "name": "Gopinath Sahoo",
+    "institute": "Tata Institute of Fundamental Research, Mumbai"
   },
   {
-    "Names": "Madeti Prabhakar",
-    "Institute": "Indian Institute of Technology Ropar"
+    "name": "Gugan Chandrashekhar Mallika Thoppe",
+    "institute": "Indian Institute of Science"
   },
   {
-    "Names": "Mainak Poddar",
-    "Institute": "IISER Pune"
+    "name": "Gurleen Kaur",
+    "institute": "IIT Ropar"
   },
   {
-    "Names": "Manish Kumar",
-    "Institute": "KU Leuven"
+    "name": "Himanshu Chandrakar",
+    "institute": "IIT Bhilai"
   },
   {
-    "Names": "Manju Khan",
-    "Institute": "Indian Institute of Technology Ropar"
+    "name": "Himanshu Kumar Dwivedi",
+    "institute": "IIT BHU"
   },
   {
-    "Names": "Manjunatha M R",
-    "Institute": "IIT Indore"
+    "name": "J. Deivanai",
+    "institute": "Shiv Nadar University"
   },
   {
-    "Names": "Manoj Prajapati",
-    "Institute": "Charotar University of Science and Technology"
+    "name": "Jagdish Ashruba Nanware",
+    "institute": "Shrikrishna Mahavidyalaya, Gunjoti"
   },
   {
-    "Names": "Manu Rohilla",
-    "Institute": "J.C. Bose University of Science and Technology"
+    "name": "Jasbir Parashar",
+    "institute": "IIT Ropar"
   },
   {
-    "Names": "Mihir Sheth",
-    "Institute": "IISc"
+    "name": "Javadekar Omkar Deepak",
+    "institute": "IIT Bombay"
   },
   {
-    "Names": "Mousomi Bhakta",
-    "Institute": "IISER Pune"
+    "name": "Jayanta Sarkar",
+    "institute": "IISER Kolkata"
   },
   {
-    "Names": "Muna Naik",
-    "Institute": "Indian Institute of Science"
+    "name": "Jaydeb Sarkar",
+    "institute": "Indian Statistical Institute"
   },
   {
-    "Names": "Nabajit Talukdar",
-    "Institute": "Cotton University"
+    "name": "Jebasingh R",
+    "institute": "IISER Kolkata"
   },
   {
-    "Names": "Navnath Daundkar",
-    "Institute": "Indian Institute of Science Eduaction and Research Pune"
+    "name": "Jitender",
+    "institute": "Motilal Nehru National Institute of Technology Allahabad"
   },
   {
-    "Names": "Nayan Adhikary",
-    "Institute": "Indian Institute of Technology, Delhi"
+    "name": "Jitender Sharma",
+    "institute": "Indian Institute of Science Education and Research Kolkata"
   },
   {
-    "Names": "Neeru Bala",
-    "Institute": "IIT (ISM) Dhanbad"
+    "name": "Jocelyn Johnson",
+    "institute": "Madras Christian College"
   },
   {
-    "Names": "Nikita Agarwal",
-    "Institute": "IISER Bhopal"
+    "name": "Joydwip Singh",
+    "institute": "Indian Institute of Science Education and Research Kolkata"
   },
   {
-    "Names": "Nishta Garg",
-    "Institute": "IISER Bhopal"
+    "name": "Jyoti Dasgupta",
+    "institute": "Indian Institute of Technology (Indian School of Mines) Dhanbad"
   },
   {
-    "Names": "Nupur Patanker",
-    "Institute": "Indian Institute of Science Bangalore"
+    "name": "K Ashok Kumar",
+    "institute": "TIFR-CAM Bengaluru"
   },
   {
-    "Names": "Parvez Rasul",
-    "Institute": "IIT Bombay"
+    "name": "K. Srinivas",
+    "institute": "IMSc, Chennai"
   },
   {
-    "Names": "Pavan Adroja",
-    "Institute": "IIT Gandhinagar"
+    "name": "Kamleshkumar Ratilal Baleviya",
+    "institute": "Sardar Patel University"
   },
   {
-    "Names": "Poornapushkala Narayanan",
-    "Institute": "Madras School of Economics"
+    "name": "Kanupriya",
+    "institute": "IIT Delhi"
   },
   {
-    "Names": "Prateep Chakraborty",
-    "Institute": "IIT Kharagpur"
+    "name": "Kartika Verma",
+    "institute": "Madras Christian College"
   },
   {
-    "Names": "Prativa Biswas",
-    "Institute": "Indian Institute of Technology Kharagpur"
+    "name": "Keshav Aggarwal",
+    "institute": "IIT Bombay"
   },
   {
-    "Names": "Praveen Manju",
-    "Institute": "Indian Institute of Technology Delhi"
+    "name": "Kuldeep Saha",
+    "institute": "TCG CREST Kolkata"
   },
   {
-    "Names": "Prerna Gulia",
-    "Institute": "Indian Institute of Technology Delhi"
+    "name": "Kumarjit Saha",
+    "institute": "Ashoka University"
   },
   {
-    "Names": "Pritam Dahal",
-    "Institute": "Tezpur University"
+    "name": "Kushal Bhowmick",
+    "institute": "Harish-Chandra Research Institute"
   },
   {
-    "Names": "Pritam Roy",
-    "Institute": "IIT Kharagpur"
+    "name": "Lalit Mohan",
+    "institute": "IIT Delhi"
   },
   {
-    "Names": "Priyanka Priyadarshini Behera",
-    "Institute": "Indian Institute of Technology Kharagpur"
+    "name": "M A. Sofi",
+    "institute": "Kashmir University"
   },
   {
-    "Names": "Rajesh Kumar Srivastava",
-    "Institute": "Dept of Naths, IIT Guwahati"
+    "name": "M. Sundari",
+    "institute": "CMI"
   },
   {
-    "Names": "Raju Kumar Gupta",
-    "Institute": "Indian Institute of Technology Delhi"
+    "name": "Madeti Prabhakar",
+    "institute": "Indian Institute of Technology Ropar"
   },
   {
-    "Names": "Raju Kumar Gupta",
-    "Institute": "Indian Institute of Technology Delhi"
+    "name": "Mainak Poddar",
+    "institute": "IISER Pune"
   },
   {
-    "Names": "Ramesh Kumar",
-    "Institute": "University of Delhi"
+    "name": "Manish Kumar",
+    "institute": "KU Leuven"
   },
   {
-    "Names": "Ramesh Manna",
-    "Institute": "National institute of science education and research"
+    "name": "Manju Khan",
+    "institute": "Indian Institute of Technology Ropar"
   },
   {
-    "Names": "Rattan Lal",
-    "Institute": "Punjab Engineering college (Deemed to be University)"
+    "name": "Manjunatha M R",
+    "institute": "IIT Indore"
   },
   {
-    "Names": "Ravi Prakash",
-    "Institute": "Jawaharlal Nehru University"
+    "name": "Manoj Prajapati",
+    "institute": "Charotar University of Science and Technology"
   },
   {
-    "Names": "Ravi Singh Chauhan",
-    "Institute": "University of Allahabad"
+    "name": "Manu Rohilla",
+    "institute": "J.C. Bose University of Science and Technology"
   },
   {
-    "Names": "Rekha Bali",
-    "Institute": "Harcourt Butler Technical University, Kanpur"
+    "name": "Mihir Sheth",
+    "institute": "IISc"
   },
   {
-    "Names": "Ritesh Kumar Pandey",
-    "Institute": "IIT Kanpur"
+    "name": "Mousomi Bhakta",
+    "institute": "IISER Pune"
   },
   {
-    "Names": "Ritika Singhal",
-    "Institute": "Indian Institue of Technology Delhi"
+    "name": "Mousumi Mandal",
+    "institute": "IIT Kharagpur"
   },
   {
-    "Names": "Rivu Bardhan",
-    "Institute": "Shiv Nadar Institute of Eminence"
+    "name": "Mrinal Kanti Das",
+    "institute": "ISI, Kolkata"
   },
   {
-    "Names": "Rohit Nageshwar",
-    "Institute": "University of Delhi"
+    "name": "Muna Naik",
+    "institute": "Indian Institute of Science"
   },
   {
-    "Names": "S. Sunil Varma",
-    "Institute": "Madras Christian College"
+    "name": "N N Dattatreya",
+    "institute": "IIT Kanpur"
   },
   {
-    "Names": "Sabyasachi Dhar",
-    "Institute": "Indian Institute of Technology Kanpur"
+    "name": "Nabajit Talukdar",
+    "institute": "Cotton University"
   },
   {
-    "Names": "Sai Rasmi Ranjan Mohanty",
-    "Institute": "Shiv Nadar Institution of Eminence (Deemed to be University)"
+    "name": "Navnath Daundkar",
+    "institute": "Indian Institute of Science Eduaction and Research Pune"
   },
   {
-    "Names": "Sajin Vincent A.W.",
-    "Institute": "IIT Indore"
+    "name": "Nayan Adhikary",
+    "institute": "Indian Institute of Technology, Delhi"
   },
   {
-    "Names": "Samarendra Sahoo",
-    "Institute": "IIT Bombay"
+    "name": "Neeraja Sahasrabudhe",
+    "institute": "IISER Mohali"
   },
   {
-    "Names": "Santosh Singh Negi",
-    "Institute": "Shiv Nadar Institution of Eminence"
+    "name": "Neeru Bala",
+    "institute": "IIT (ISM) Dhanbad"
   },
   {
-    "Names": "Sayoojya Prakash",
-    "Institute": "IISER Bhopal"
+    "name": "Nikesh Prakash Dudhabhate",
+    "institute": "Shrikrishna Mahavidyalaya, Gunjoti"
   },
   {
-    "Names": "Senthil Raani Ks",
-    "Institute": "IISER Berhampur"
+    "name": "Nikita Agarwal",
+    "institute": "IISER Bhopal"
   },
   {
-    "Names": "Shankey Kumar",
-    "Institute": "IIT Madras"
+    "name": "Nishta Garg",
+    "institute": "IISER Bhopal"
   },
   {
-    "Names": "Shilpa",
-    "Institute": "IIT Kanpur"
+    "name": "Nupur Patanker",
+    "institute": "Indian Institute of Science Bangalore"
   },
   {
-    "Names": "Shrabanika Boruah",
-    "Institute": "Mizoram University"
+    "name": "Om Prakash",
+    "institute": "IIT Bombay"
   },
   {
-    "Names": "Shraddha Srivastava",
-    "Institute": "IIT Dharwad"
+    "name": "Parangama Sarkar",
+    "institute": "IIT Palakkad"
   },
   {
-    "Names": "Shruti Priya",
-    "Institute": "Indian Institute of Technology Kharagpur"
+    "name": "Parvez Rasul",
+    "institute": "IIT Bombay"
   },
   {
-    "Names": "Shubhankar Ghosh",
-    "Institute": "University of Calcutta"
+    "name": "Pavan Adroja",
+    "institute": "IIT Gandhinagar"
   },
   {
-    "Names": "Shyam Swarup Mondal",
-    "Institute": "ISI Kolkata"
+    "name": "Poornapushkala Narayanan",
+    "institute": "Madras School of Economics"
   },
   {
-    "Names": "Srinivasa Rao Pentyala",
-    "Institute": "Indian Institute of Technology Dhanbad"
+    "name": "Pradipta Bandyopadhyay",
+    "institute": "ISI Bangalore"
   },
   {
-    "Names": "Stuti Das",
-    "Institute": "Indian Institute of Technology Kanpur"
+    "name": "Prateep Chakraborty",
+    "institute": "IIT Kharagpur"
   },
   {
-    "Names": "Subhamay Saha",
-    "Institute": "Indian Institute of Technology Guwahati"
+    "name": "Prativa Biswas",
+    "institute": "Indian Institute of Technology Kharagpur"
   },
   {
-    "Names": "Sudarshan Gurjar",
-    "Institute": "IIT Bombay"
+    "name": "Praveen Manju",
+    "institute": "Indian Institute of Technology Delhi"
   },
   {
-    "Names": "Sudhir Kumar",
-    "Institute": "Sardar Patel University"
+    "name": "Prerna Gulia",
+    "institute": "Indian Institute of Technology Delhi"
   },
   {
-    "Names": "Suman Kanungo",
-    "Institute": "Indian Institute of Technology Bhilai"
+    "name": "Pritam Dahal",
+    "institute": "Tezpur University"
   },
   {
-    "Names": "Sumit Kumar",
-    "Institute": "Jawaharlal Nehru University"
+    "name": "Pritam Roy",
+    "institute": "IIT Kharagpur"
   },
   {
-    "Names": "Suprio Bhar",
-    "Institute": "Indian Institute of Technology Kanpur"
+    "name": "Priyanka",
+    "institute": "IIT BHU"
   },
   {
-    "Names": "Supriya Pisolkar",
-    "Institute": "IISER-Pune"
+    "name": "Priyanka Priyadarshini Behera",
+    "institute": "Indian Institute of Technology Kharagpur"
   },
   {
-    "Names": "Suraj Kumar",
-    "Institute": "Indian Institute of Technology, Delhi"
+    "name": "Rajesh Kumar Srivastava",
+    "institute": "Dept of Naths, IIT Guwahati"
   },
   {
-    "Names": "Susmita Seal",
-    "Institute": "Ramakrishna Mission Vivekananda Educational and Research Institute"
+    "name": "Rajib Dutta",
+    "institute": "IISER Kolkata"
   },
   {
-    "Names": "Swarup Kumar Das",
-    "Institute": "TCG CREST"
+    "name": "Raju Kumar Gupta",
+    "institute": "Indian Institute of Technology Delhi"
   },
   {
-    "Names": "Theophilus Gera",
-    "Institute": "Sardar Vallabhbhai National Institute of Technology"
+    "name": "Ramesh Kumar",
+    "institute": "University of Delhi"
   },
   {
-    "Names": "Tuhin Ghosh",
-    "Institute": "Harish-Chandra Research Institute"
+    "name": "Ramesh Manna",
+    "institute": "National institute of science education and research"
   },
   {
-    "Names": "Tushar Singh",
-    "Institute": "M.N.N.I.T Allahabad"
+    "name": "Rattan Lal",
+    "institute": "Punjab Engineering college (Deemed to be University)"
   },
   {
-    "Names": "Uday Shankar Chakraborty",
-    "Institute": "Assam University"
+    "name": "Ravi Prakash",
+    "institute": "Jawaharlal Nehru University"
   },
   {
-    "Names": "Vamsinadh Thota",
-    "Institute": "NIT Tiruchirappalli"
+    "name": "Ravi Singh Chauhan",
+    "institute": "University of Allahabad"
   },
   {
-    "Names": "Veekesh Kumar",
-    "Institute": "IIT Dharwad"
+    "name": "Rekha Bali",
+    "institute": "Harcourt Butler Technical University, Kanpur"
   },
   {
-    "Names": "Veeraruna Kavitha",
-    "Institute": "IIT Bombay"
+    "name": "Richa Singh",
+    "institute": "IIT BHU"
   },
   {
-    "Names": "Vibhuti Arora",
-    "Institute": "National Institute of Technology Calicut"
+    "name": "Ritesh Kumar Pandey",
+    "institute": "IIT Kanpur"
   },
   {
-    "Names": "Vikas Kashinath Wakode",
-    "Institute": "Shrikrishna Mahavidyalaya, Gunjoti"
+    "name": "Ritika Singhal",
+    "institute": "Indian Institue of Technology Delhi"
   },
   {
-    "Names": "Vikram Yallapa Naik",
-    "Institute": "Birla Institute of Technology and Science Pilani"
+    "name": "Rivu Bardhan",
+    "institute": "Shiv Nadar Institute of Eminence"
   },
   {
-    "Names": "Vivek Bhabani Lama",
-    "Institute": "Indian Institute of Technology Kharagpur"
+    "name": "Rohit Nageshwar",
+    "institute": "University of Delhi"
   },
   {
-    "Names": "Vrikshavardhana Hebbar N",
-    "Institute": "The National Institute of Engineering"
+    "name": "S Ponnusamy",
+    "institute": "IIT Madras"
   },
   {
-    "Names": "Yeshvandhini  Kumar",
-    "Institute": "Shiv Nadar University"
+    "name": "S. Lalithambigai",
+    "institute": "Madurai Kamaraj University"
+  },
+  {
+    "name": "S. Sunil Varma",
+    "institute": "Madras Christian College"
+  },
+  {
+    "name": "Sabyasachi Dhar",
+    "institute": "Indian Institute of Technology Kanpur"
+  },
+  {
+    "name": "Sai Rasmi Ranjan Mohanty",
+    "institute": "Shiv Nadar Institution of Eminence (Deemed to be University)"
+  },
+  {
+    "name": "Sajin Vincent A.W.",
+    "institute": "IIT Indore"
+  },
+  {
+    "name": "Samarendra Sahoo",
+    "institute": "IIT Bombay"
+  },
+  {
+    "name": "Sanjay Parui",
+    "institute": "NISER Bhubaneswar"
+  },
+  {
+    "name": "Santosh Singh Negi",
+    "institute": "Shiv Nadar Institution of Eminence"
+  },
+  {
+    "name": "Sayan Bagchi",
+    "institute": "IISER, Kolkata"
+  },
+  {
+    "name": "Sayoojya Prakash",
+    "institute": "IISER Bhopal"
+  },
+  {
+    "name": "Senthil Raani Ks",
+    "institute": "IISER Berhampur"
+  },
+  {
+    "name": "Shakyodan Shankarrao Bharshankar",
+    "institute": "Shrikrishna Mahavidyalaya, Gunjoti Omerga Dharashivv"
+  },
+  {
+    "name": "Shalini Bhattacharya",
+    "institute": "University of Hyderabad"
+  },
+  {
+    "name": "Shankey Kumar",
+    "institute": "IIT Madras"
+  },
+  {
+    "name": "Shashi Ranjan Sinha",
+    "institute": "IIT Hyderabad"
+  },
+  {
+    "name": "Shilpa Gupta",
+    "institute": "IIT Kanpur"
+  },
+  {
+    "name": "Shrabanika Boruah",
+    "institute": "Mizoram University"
+  },
+  {
+    "name": "Shraddha Srivastava",
+    "institute": "IIT Dharwad"
+  },
+  {
+    "name": "Shreedevi Masuti",
+    "institute": "IIT Dharwad"
+  },
+  {
+    "name": "Shruti Priya",
+    "institute": "Indian Institute of Technology Kharagpur"
+  },
+  {
+    "name": "Shubhabrata Das",
+    "institute": "Presidency University, Kolkata"
+  },
+  {
+    "name": "Shubhankar Ghosh",
+    "institute": "University of Calcutta"
+  },
+  {
+    "name": "Shyam Swarup Mondal",
+    "institute": "ISI Kolkata"
+  },
+  {
+    "name": "Soma Maity",
+    "institute": "IISER Mohali"
+  },
+  {
+    "name": "Somnath Gandal",
+    "institute": "IIT Bombay"
+  },
+  {
+    "name": "Soumitra Daptari",
+    "institute": "Shiv Nadar"
+  },
+  {
+    "name": "Soumya Dey",
+    "institute": "KREA University"
+  },
+  {
+    "name": "Sreenanda S B",
+    "institute": "UoH"
+  },
+  {
+    "name": "Stuti Das",
+    "institute": "Indian Institute of Technology Kanpur"
+  },
+  {
+    "name": "Subhamay Saha",
+    "institute": "Indian Institute of Technology Guwahati"
+  },
+  {
+    "name": "Sudarshan Gurjar",
+    "institute": "IIT Bombay"
+  },
+  {
+    "name": "Sudeshna Basu",
+    "institute": "Loyola University Baltimore"
+  },
+  {
+    "name": "Sudhir Kumar",
+    "institute": "Sardar Patel University"
+  },
+  {
+    "name": "Sudipa Mondal",
+    "institute": "IIT Madras"
+  },
+  {
+    "name": "Suman Kanungo",
+    "institute": "Indian Institute of Technology Bhilai"
+  },
+  {
+    "name": "Sumit Kumar",
+    "institute": "Jawaharlal Nehru University"
+  },
+  {
+    "name": "Sundaram Thangavelu",
+    "institute": "IISc Bangalore"
+  },
+  {
+    "name": "Suparna Sen",
+    "institute": "University of Kolkata"
+  },
+  {
+    "name": "Suprio Bhar",
+    "institute": "Indian Institute of Technology Kanpur"
+  },
+  {
+    "name": "Supriya Pisolkar",
+    "institute": "IISER-Pune"
+  },
+  {
+    "name": "Suraj Kumar",
+    "institute": "Indian Institute of Technology, Delhi"
+  },
+  {
+    "name": "Susmita Seal",
+    "institute": "Ramakrishna Mission Vivekananda Educational and Research Institute"
+  },
+  {
+    "name": "Swarup Kumar Das",
+    "institute": "TCG CREST"
+  },
+  {
+    "name": "T S S R K Rao",
+    "institute": "Shiv Nadar Institute of Eminence"
+  },
+  {
+    "name": "Theophilus Gera",
+    "institute": "Sardar Vallabhbhai National Institute of Technology"
+  },
+  {
+    "name": "Tuhin Ghosh",
+    "institute": "Harish-Chandra Research Institute"
+  },
+  {
+    "name": "Tushar Singh",
+    "institute": "M.N.N.I.T Allahabad"
+  },
+  {
+    "name": "Uday Shankar Chakraborty",
+    "institute": "Assam University"
+  },
+  {
+    "name": "Vamsinadh Thota",
+    "institute": "NIT Tiruchirappalli"
+  },
+  {
+    "name": "Veekesh Kumar",
+    "institute": "IIT Dharwad"
+  },
+  {
+    "name": "Veeraruna Kavitha",
+    "institute": "IIT Bombay"
+  },
+  {
+    "name": "Vibhuti Arora",
+    "institute": "National Institute of Technology Calicut"
+  },
+  {
+    "name": "Vikas Kashinath Wakode",
+    "institute": "Shrikrishna Mahavidyalaya, Gunjoti"
+  },
+  {
+    "name": "Vikram Yallapa Naik",
+    "institute": "Birla Institute of Technology and Science Pilani"
+  },
+  {
+    "name": "Vivek Bhabani Lama",
+    "institute": "Indian Institute of Technology Kharagpur"
+  },
+  {
+    "name": "Vrikshavardhana Hebbar N",
+    "institute": "The National Institute of Engineering"
+  },
+  {
+    "name": "Yerrapati Venkata Subbaiah",
+    "institute": "Sardar Vallabhbhai National Institute of Technology"
+  },
+  {
+    "name": "Yeshvandhini  Kumar",
+    "institute": "Shiv Nadar University"
   }
 ]

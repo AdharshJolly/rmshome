@@ -26,8 +26,8 @@ fetch("/data/symposium-speakers.json")
         if (item.category == category) {
           out += `
                 <tr>
-                    <td>${item.Name}</td>
-                    <td>${item.Institute}</td>
+                    <td>${item.name}</td>
+                    <td>${item.institute}</td>
                 </tr>
             `;
         }

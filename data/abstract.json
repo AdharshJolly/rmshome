@@ -60,6 +60,18 @@
     "link": "https://drive.google.com/file/d/18GxI1S54YbLjbsIvAEOQxdZgZtFDB2yB/view?usp=drive_link"
   },
   {
+    "name": "Nupur Patanker",
+    "category": "algebra",
+    "title": "Next-to-minimal weight of Toric codes defined over hypersimplices",
+    "link": "https://drive.google.com/file/d/1FoHqbkjUwLgYmdlT0GC1OQDgA2K23Gca/view?usp=drive_link"
+  },
+  {
+    "name": "Om Prakash",
+    "category": "algebra",
+    "title": "Type of finite-complement submonoids of an affine cone",
+    "link": "https://drive.google.com/file/d/1c8evs2faZckQJhFrBBNUU5u17DpBI1o2/view?usp=drive_link"
+  },
+  {
     "name": "Prativa Biswas",
     "category": "algebra",
     "title": "Asymptotic behaviour and stability index of v-numbers of graded ideals",
@@ -82,6 +94,12 @@
     "category": "algebra",
     "title": "Quasi-pure resolutions and some lower bounds of Hilbert coefficients of Cohen-Macaulay modules",
     "link": "https://drive.google.com/file/d/1SpavnSDF0nI-iR6bE8slpiw1x_pfyB1A/view?usp=drive_link"
+  },
+  {
+    "name": "Shashi Ranjan Sinha",
+    "category": "algebra",
+    "title": "On a relative dependency formula",
+    "link": "https://drive.google.com/file/d/1Zk3xWSQ11A1W35Ot_0JigGXKTg-rjSVk/view?usp=drive_link"
   },
   {
     "name": "Shruti Priya",
@@ -108,22 +126,16 @@
     "link": "https://drive.google.com/file/d/1hOoy6aFzhnsNqbJWYC0fbCQs7SoowHXy/view?usp=drive_link"
   },
   {
-    "name": "",
-    "category": "",
-    "title": "",
-    "link": ""
+    "name": "Javadekar Omkar Deepak",
+    "category": "algebra",
+    "title": "Linear Quotients of Connected Ideals of Graphs",
+    "link": "https://drive.google.com/file/d/1PJm6ouzaXfOLB0j0hqBqve8NJfFakLmY/view?usp=drive_link"
   },
   {
     "name": "Aditya Subramaniam",
     "category": "algebraic-geometry",
     "title": "Algebraic properties of binomial edge ideals of Levi graphs associated with curve arrangements",
     "link": "https://drive.google.com/file/d/1K1DsRlDPNs7RpzvoFMyxPAbaVUXGM4gx/view?usp=sharing"
-  },
-  {
-    "name": "",
-    "category": "",
-    "title": "",
-    "link": ""
   },
   {
     "name": "Abraham Dinesh R",
@@ -172,12 +184,6 @@
     "category": "complex-analysis",
     "title": "Revisit of multi-dimensional bohr radius",
     "link": "https://drive.google.com/file/d/1V45Yrc79_a5xoVhxAdKbIFIaff05Gvbu/view?usp=drive_link"
-  },
-  {
-    "name": "",
-    "category": "",
-    "title": "",
-    "link": ""
   },
   {
     "name": "Ankit Kumar",
@@ -240,10 +246,10 @@
     "link": "https://drive.google.com/file/d/1-_C69X6dfby5qqaHdkNAmxvhZiayyRKn/view?usp=drive_link"
   },
   {
-    "name": "",
-    "category": "",
-    "title": "",
-    "link": ""
+    "name": "Aninda Banerjee",
+    "category": "geometry-and-topology",
+    "title": "Spanning tree model for Chromatic homology",
+    "link": "https://drive.google.com/file/d/17IRysv1EC-mI8l_rOGqO7c7MIzXooMP9/view?usp=drive_link"
   },
   {
     "name": "Anu Dhochak",
@@ -280,6 +286,12 @@
     "category": "geometry-and-topology",
     "title": "Expansive actions of automorphisms of locally compact groups on the space of closed subgroups",
     "link": "https://drive.google.com/file/d/1LhM7Jq-VP_TiT7-6RVxs_Ol83wV1Dmcw/view?usp=drive_link"
+  },
+  {
+    "name": "Navnath Daundkar",
+    "category": "geometry-and-topology",
+    "title": "Equivariant parametrized topological complexity",
+    "link": "https://drive.google.com/file/d/1Vl3p6VL6LriaFHuqXf4vKpMSo2YPxy0L/view?usp=drive_link"
   },
   {
     "name": "Nayan Adhikary",
@@ -324,16 +336,16 @@
     "link": "https://drive.google.com/file/d/1D9QHm0kWlzOHrNTkcRwe28gqVokqu2WN/view?usp=drive_link"
   },
   {
-    "name": "",
-    "category": "",
-    "title": "",
-    "link": ""
+    "name": "Swarup Kumar Das",
+    "category": "geometry-and-topology",
+    "title": "Khovanov homology and exotic discs",
+    "link": "https://drive.google.com/file/d/1egb_yzkDfi0BM3cVYQRnICcmBa5tCm6c/view?usp=drive_link"
   },
   {
-    "name": "",
-    "category": "",
-    "title": "",
-    "link": ""
+    "name": "Gurleen Kaur",
+    "category": "groups-and-their-representation",
+    "title": "Representation dimension of p-groups",
+    "link": "https://drive.google.com/file/d/1u1FSnfXWz6_djpnfEGPDxH6W-ZCG5zxH/view?usp=drive_link"
   },
   {
     "name": "Nabajit Talukdar",
@@ -346,12 +358,6 @@
     "category": "groups-and-their-representation",
     "title": "Compatibility of Kazhdan and Brauer homomorphism",
     "link": "https://drive.google.com/file/d/13IDd2VdNOrG1uclssMGThITE8tJP1hhM/view?usp=drive_link"
-  },
-  {
-    "name": "",
-    "category": "",
-    "title": "",
-    "link": ""
   },
   {
     "name": "Arvish Dabra",
@@ -414,12 +420,6 @@
     "link": "https://drive.google.com/file/d/1835PDBjIievEJiHbp5RJrV09MWpKJltF/view?usp=drive_link"
   },
   {
-    "name": "",
-    "category": "",
-    "title": "",
-    "link": ""
-  },
-  {
     "name": "Aishwarya Jaiswal",
     "category": "partial-differential-equations",
     "title": "A computationally efficient approach for a system of singularly perturbed semilinear convection diffusion differential equations",
@@ -450,6 +450,24 @@
     "link": "https://drive.google.com/file/d/17h_lr8aPNvLugQa9UyUtPdwWigmuInxS/view?usp=drive_link"
   },
   {
+    "name": "Himanshu Kumar Dwivedi",
+    "category": "partial-differential-equations",
+    "title": "A novel fast second order approach with high-order compact difference scheme and its analysis for the tempered fractional Burgers equation",
+    "link": "https://drive.google.com/file/d/1tVDtUkFI4RVbJ3u-lDCs8DjTvwJwBBzQ/view?usp=drive_link"
+  },
+  {
+    "name": "K Ashok Kumar",
+    "category": "partial-differential-equations",
+    "title": "Strict monotonicity of the first q-eigenvalue of the fractional p-Laplace operator over annuli",
+    "link": "https://drive.google.com/file/d/1sxgs15YNKVcG80ZAjdeluCW33Hg6Nwc3/view?usp=drive_link"
+  },
+  {
+    "name": "N N Dattatreya",
+    "category": "partial-differential-equations",
+    "title": "On boundary blow up solution to p-Laplace equation on infinite cylinders",
+    "link": "https://drive.google.com/file/d/1x4pcOn59GvodwCxx60r7vaiAUPVyrG_9/view?usp=drive_link"
+  },
+  {
     "name": "Rekha Bali",
     "category": "partial-differential-equations",
     "title": "Effect of transport of nanoparticles on diffusive flux and filtration efficiency in capillary - tissue exchange system: A mathematical model",
@@ -472,6 +490,12 @@
     "category": "partial-differential-equations",
     "title": "Effect of magnetic parameter on the reflected waves in generalized magneto micropolar thermoelastic materials",
     "link": "https://drive.google.com/file/d/1WtPSgqhJeefe1Nu-ydILUuFC-KIQBLO4/view?usp=drive_link"
+  },
+  {
+    "name": "Somnath Gandal",
+    "category": "partial-differential-equations",
+    "title": "Multiplicity of solutions to a class of degenerate elliptic problems",
+    "link": "https://drive.google.com/file/d/1FZ1ZljaaR2tqBctwe6O93WrZBP3xdApC/view?usp=drive_link"
   },
   {
     "name": "Stuti Das",
@@ -498,10 +522,10 @@
     "link": "https://drive.google.com/file/d/1BMb5aTzBlzuLOxHalSwMeQY8z-RgbQxi/view?usp=drive_link"
   },
   {
-    "name": "",
-    "category": "",
-    "title": "",
-    "link": ""
+    "name": "Chetan Singh",
+    "category": "partial-differential-equations",
+    "title": "Entropy Stable Finite Difference Schemes for Chew, Gold Berger and low Anisotropic Plasma Flow Equations",
+    "link": "https://drive.google.com/file/d/1vrbcSTSzugWeQkiTFT5LsEBObEwmRqN0/view?usp=drive_link"
   },
   {
     "name": "Aditya Kumar Yadav",
@@ -528,12 +552,6 @@
     "link": "https://drive.google.com/file/d/1mxl46inzdXEL5AUPz2Zlt9TjHEZoLYHF/view?usp=drive_link"
   },
   {
-    "name": "",
-    "category": "",
-    "title": "",
-    "link": ""
-  },
-  {
     "name": "Ashish Kumar Pandey",
     "category": "number-theory",
     "title": "On inequalities related to the Jordan totient function and some Lucas sequences",
@@ -550,6 +568,12 @@
     "category": "number-theory",
     "title": "The size of 2-Selmer groups for the π/3 -congruent number problem",
     "link": "https://drive.google.com/file/d/1lCucg9OIvS99eqf0lF0gqkB-qMhNkJuM/view?usp=drive_link"
+  },
+  {
+    "name": "Manjunatha M R",
+    "category": "number-theory",
+    "title": "Partition of quadratic residues and non-residues in Zₚ* for an odd prime p",
+    "link": "https://drive.google.com/file/d/1NAlLZuNhFnuaRTl04Oruwa3zgCSXp0gN/view?usp=drive_link"
   },
   {
     "name": "Vrikshavardhana Hebbar N",
