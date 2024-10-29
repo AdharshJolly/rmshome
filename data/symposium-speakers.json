@@ -25,32 +25,17 @@
     "category": "algebra"
   },
   {
-    "name": "Dinesh Khurana",
-    "institute": "Punjab University, Chandigarh",
-    "category": "algebra"
-  },
-  {
     "name": "Dipankar Ghosh",
     "institute": "IIT Kharagpur",
     "category": "algebra"
   },
   {
-    "name": "Joydip Saha",
-    "institute": "Barasat College, West Bengal",
+    "name": "Gurmeet K. Bakshi",
+    "institute": "Punjab University",
     "category": "algebra"
   },
   {
-    "name": "Manoj Kummini",
-    "institute": "CMI",
-    "category": "algebra"
-  },
-  {
-    "name": "Md. Ali Jinnah",
-    "institute": "IISER Kolkata",
-    "category": "algebra"
-  },
-  {
-    "name": "Mousumi Mandal",
+    "name": "Mousomi Mandal",
     "institute": "IIT Kharagpur",
     "category": "algebra"
   },
@@ -60,13 +45,13 @@
     "category": "algebra"
   },
   {
-    "name": "Neena Gupta",
-    "institute": "ISI Kolkata",
+    "name": "Parangama Sarkar",
+    "institute": "IIT Palakkad",
     "category": "algebra"
   },
   {
-    "name": "Parangama Sarkar",
-    "institute": "IIT Palakkad",
+    "name": "Prosenjit Das",
+    "institute": "Indian Institute of Space Science and Technology, Trivandrum",
     "category": "algebra"
   },
   {
@@ -85,7 +70,7 @@
     "category": "algebra"
   },
   {
-    "name": "Vivek Mukundan",
+    "name": "Surjeet Kour",
     "institute": "IIT Delhi",
     "category": "algebra"
   },
@@ -260,6 +245,11 @@
     "category": "functional-analysis"
   },
   {
+    "name": "C R Jayanarayanan",
+    "institute": "IIT Palakkad",
+    "category": "functional-analysis"
+  },
+  {
     "name": "Deepak Gothwal",
     "institute": "ISIK",
     "category": "functional-analysis"
@@ -267,21 +257,6 @@
   {
     "name": "Gargi Ghosh",
     "institute": "IIT Roorkee",
-    "category": "functional-analysis"
-  },
-  {
-    "name": "Gayathri P",
-    "institute": "NIT Trichy",
-    "category": "functional-analysis"
-  },
-  {
-    "name": "Jayanarayanan C R",
-    "institute": "IIT Palakkad",
-    "category": "functional-analysis"
-  },
-  {
-    "name": "S. Lalithambigai",
-    "institute": "Madurai Kamaraj University",
     "category": "functional-analysis"
   },
   {
@@ -295,8 +270,18 @@
     "category": "functional-analysis"
   },
   {
+    "name": "P Gayathri",
+    "institute": "NIT Trichy",
+    "category": "functional-analysis"
+  },
+  {
     "name": "Priyanka Grover",
     "institute": "Shiv Nadar",
+    "category": "functional-analysis"
+  },
+  {
+    "name": "S. Lalithambigai",
+    "institute": "Madurai Kamaraj University",
     "category": "functional-analysis"
   },
   {
@@ -507,6 +492,11 @@
   {
     "name": "Pradeep Boggarapu",
     "institute": "BITS Goa",
+    "category": "harmonic-analysis"
+  },
+  {
+    "name": "Pradeep Boggarapu",
+    "institute": "BITS Pilani, Goa",
     "category": "harmonic-analysis"
   },
   {
