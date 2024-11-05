@@ -18,777 +18,431 @@
     />
   </head>
   <style>
-    .abot-txt-innr {
-      font-family: "Roboto", sans-serif;
-      font-weight: 400;
-      font-size: medium;
+    h1 {
+      text-align: center;
+      color: #26327a;
     }
-    .text-secondary {
-      color: #6c757d;
+
+    .organizer {
+      text-align: center;
+      color: rgb(54, 52, 52);
     }
-    .m-0 {
-      margin: 0;
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
     }
-    .mt-2 {
-      margin-top: 0.5rem;
+
+    tbody tr {
+      font-size: large;
     }
-    .mt-4 {
-      margin-top: 1.5rem;
+
+    tbody tr td:nth-child(1) {
+      width: 45%;
+
+      @media screen and (max-width: 600px) {
+        font-size: medium;
+        font-weight: 500;
+      }
     }
-    .p-0 {
-      padding: 0;
+
+    tbody tr td:nth-child(2) {
+      width: 45%;
+
+      @media screen and (max-width: 600px) {
+        font-size: medium;
+        font-weight: 500;
+      }
     }
-    h6,
-    .h6,
-    h5,
-    .h5,
-    h4,
-    .h4,
-    h3,
-    .h3,
-    h2,
-    .h2,
-    h1,
-    .h1 {
-      margin-top: 0;
-      margin-bottom: 0.5rem;
-      line-height: 1.2;
+
+    tbody tr:nth-child(3n) {
+      background-color: #a1c3e7 !important;
     }
-    .card-body {
-      flex: 1 1 auto;
-      padding: 1rem 1rem;
+
+    tbody tr:nth-child(3n + 1) {
+      background-color: #d1e9fd !important;
     }
-    .card-body > h5 {
-      text-align: justify;
+
+    tbody tr:nth-child(3n + 2) {
+      background-color: #bddaf5 !important;
     }
-    h5::first-letter {
-      font-size: 2rem;
+
+    thead tr {
+      background-color: #506c92 !important;
+      color: white;
+
+      th {
+        padding: 10px;
+        font-size: larger;
+      }
+    }
+
+    .temp-table {
+      align-content: center;
+      justify-content: center;
+      text-align: center;
     }
   </style>
   <body>
-    <div class="card scheduleCard m-0 p-0">
-      <div
-        class="card-body m-0 d-flex flex-column align-items-center justify-content-start"
-      >
-        <style>
-          .containerCustom {
-            padding-left: 10%;
-            padding-right: 55%;
-          }
-          .list-itemCustom {
-            display: flex;
-            justify-content: space-between;
-          }
-          .titleCustom {
-            text-align: center;
-            color: #26327a;
-          }
-          .organizer {
-            text-align: center;
-            color: grey;
-          }
-        </style>
-        <h1 class="titleCustom">1. Algebra</h1>
-        <h4 class="organizer">
+    <div class="container">
+      <div id="algebra">
+        <h1>1. Algebra</h1>
+        <h3 class="organizer">
           Organizer: Indranath Sengupta (IIT Gandhinagar)
-        </h4>
+        </h3>
+
         <br />
-        <div class="containerCustom">
-          <div class="list-itemCustom">
-            <h4>1. Ambili</h4>
-            <h4>CUSAT</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>2. Arindam Banerjee</h4>
-            <h4>IIT Kharagpur</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>3. Sudhir Ghorpade</h4>
-            <h4>IIT Bombay</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>4. Neena Gupta</h4>
-            <h4>ISI Kolkata</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>5. Ananthnarayan Hariharan</h4>
-            <h4>IIT Bombay</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>6. A.V. Jayanthan</h4>
-            <h4>IIT Madras</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>7. Md. Ali Jinnah</h4>
-            <h4>IISER Kolkata</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>8. Dinesh Khurana</h4>
-            <h4>Punjab University, Chandigarh</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>9. Rajiv Kumar</h4>
-            <h4>IIT Jammu</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>10. Manoj Kummini</h4>
-            <h4>CMI</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>11. Mousomi Mandal</h4>
-            <h4>IIT Kharagpur</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>12. Sridevi Masuti</h4>
-            <h4>IIT Dharwad</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>13. Vivek Mukundan</h4>
-            <h4>IIT Delhi</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>14. Joydip Saha</h4>
-            <h4>Barasat College, West Bengal</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>15. Parangama Sarkar</h4>
-            <h4>IIT Palakkad</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>16. Anuradha Sharma</h4>
-            <h4>IIIT Delhi</h4>
-          </div>
+
+        <div
+          style="
+            display: flex;
+            padding-left: 5%;
+            padding-right: 5%;
+            align-items: center;
+            justify-content: center;
+          "
+        >
+          <table>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Institution</th>
+              </tr>
+            </thead>
+
+            <tbody id="speakers-data">
+              <tr>
+                <td colspan="3" class="temp-table">
+                  Please wait while the data is loading.......
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
-        <br />
-        <h1 class="titleCustom">2. Algebraic Geometry</h1>
-        <h4 class="organizer">
+      </div>
+
+      <div id="algebraic-geometry">
+        <br /><br />
+        <h1>2. Algebraic Geometry</h1>
+        <h3 class="organizer">
           Organizer: Archana S Morye (University of Hyderabad)
-        </h4>
+        </h3>
+
         <br />
-        <div class="containerCustom">
-          <div class="list-itemCustom">
-            <h4>1. Pavan Adroja</h4>
-            <h4>IIT Gandhinagar</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>2. Sreenanda S B</h4>
-            <h4>UoH</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>3. Ashima Bansal</h4>
-            <h4>IISER Tirupati</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>4. Jyoti Dasgupta</h4>
-            <h4>IIT Dhanbad</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>5. Sudarsha Gurjar</h4>
-            <h4>IIT Bombay</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>6. Bivas Khan</h4>
-            <h4>CMI</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>7. Mandira Mondal</h4>
-            <h4>UoH</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>8. Arijit Mukherjee</h4>
-            <h4>IIT Madras</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>9. Poornapushkala Narayanan</h4>
-            <h4>Madras School of Economics</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>10. Pranav Pandit</h4>
-            <h4>ICTS</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>11. Mainak Poddar</h4>
-            <h4>IISER Pune</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>12. Parves Rasul</h4>
-            <h4>IIT Bombay</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>13. Samarpita Ray</h4>
-            <h4>ISI Bangalore</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>14. Gopinath Sahoo</h4>
-            <h4>TIFR</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>15. Anoop Singh</h4>
-            <h4>IIT BHU</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>16. V. Uma</h4>
-            <h4>IIT Madras</h4>
-          </div>
+
+        <div
+          style="
+            display: flex;
+            padding-left: 5%;
+            padding-right: 5%;
+            align-items: center;
+            justify-content: center;
+          "
+        >
+          <table>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Institution</th>
+              </tr>
+            </thead>
+
+            <tbody id="speakers-data">
+              <tr>
+                <td colspan="3" class="temp-table">
+                  Please wait while the data is loading.......
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
-        <br />
-        <h1 class="titleCustom">3. Complex Analysis</h1>
-        <h4 class="organizer">
+      </div>
+
+      <div id="complex-analysis">
+        <br /><br />
+        <h1>3. Complex Analysis</h1>
+        <h3 class="organizer">
           Organizer: Vasudeva Rao Allu (IIT Bhubaneswar)
-        </h4>
+        </h3>
+
         <br />
-        <div class="containerCustom">
-          <div class="list-itemCustom">
-            <h4>1. Md. Firoz Ali</h4>
-            <h4>NIT Durgapur</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>2. Vasudeva Rao Allu</h4>
-            <h4>IIT Bhubaneswar</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>3. Vibhuti Arora</h4>
-            <h4>NIT Calicut</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>4. Gautam Bharali</h4>
-            <h4>IISc Bangalore</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>5. Bappaditya Bhowmik</h4>
-            <h4>IIT Kharagpur</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>6. Vikramjeet Singh Chandel</h4>
-            <h4>IIT Kanpur</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>7. Sushil Gorai</h4>
-            <h4>IISER Kolkata</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>8. Purvi Gupta</h4>
-            <h4>IISc Bangalore</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>9. Muthukumar</h4>
-            <h4>IIT Kanpur</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>10. Tarakanta Nayak</h4>
-            <h4>IIT Bhubaneswar</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>11. Ratna Pal</h4>
-            <h4>IISER Mohali</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>12. Sivaguru R</h4>
-            <h4>TIFR-CAM, Bangalore</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>13. Amar Deep Sarkar</h4>
-            <h4>IIT Bhubaneswar</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>14. Sanjeev Singh</h4>
-            <h4>IIT Indore</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>15. Kaushal Verma</h4>
-            <h4>IISc Bangalore</h4>
-          </div>
+
+        <div
+          style="
+            display: flex;
+            padding-left: 5%;
+            padding-right: 5%;
+            align-items: center;
+            justify-content: center;
+          "
+        >
+          <table>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Institution</th>
+              </tr>
+            </thead>
+
+            <tbody id="speakers-data">
+              <tr>
+                <td colspan="3" class="temp-table">
+                  Please wait while the data is loading.......
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
-        <br />
-        <h1 class="titleCustom">4. Functional Analysis</h1>
-        <h4 class="organizer">
+      </div>
+
+      <div id="functional-analysis">
+        <br /><br />
+        <h1>4. Functional Analysis</h1>
+        <h3 class="organizer">
           Organizer: Pradipta Bandyopadhyay (ISI Kolkata)
-        </h4>
+        </h3>
+
         <br />
-        <div class="containerCustom">
-          <div class="list-itemCustom">
-            <h4>1. Sofi M A</h4>
-            <h4>Kashmir University</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>2. Abdullah Bin Abu Baker</h4>
-            <h4>IIIT Allahabad</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>3. Neeru Bala</h4>
-            <h4>IIT Dhanbad</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>4. Sudeshna Basu</h4>
-            <h4>Loyola University Baltimore</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>5. Jayanarayanan C R</h4>
-            <h4>IIT Palakkad</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>6. Uday Shankar Chakraborty</h4>
-            <h4>Assam University Silchar</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>7. Soumitra Daptari</h4>
-            <h4>Postdoc, Shiv Nadar</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>8. Gargi Ghosh</h4>
-            <h4>IIT Roorkee</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>9. Priyanka Grover</h4>
-            <h4>Shiv Nadar</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>10. Deepak Gothwal</h4>
-            <h4>SRF, ISIK</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>11. Anil Karn</h4>
-            <h4>NISER</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>12. Divya Khurana</h4>
-            <h4>IIM Ranchi</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>13. Arpita Mal</h4>
-            <h4>DA-IICT Gandhinagar</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>14. Gayathri P</h4>
-            <h4>SRF, NIT Trichy</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>15. Lalithambigai S</h4>
-            <h4>Madurai Kamaraj University</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>16. Susmita Seal</h4>
-            <h4>SRF, RKMVERI</h4>
-          </div>
+
+        <div
+          style="
+            display: flex;
+            padding-left: 5%;
+            padding-right: 5%;
+            align-items: center;
+            justify-content: center;
+          "
+        >
+          <table>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Institution</th>
+              </tr>
+            </thead>
+
+            <tbody id="speakers-data">
+              <tr>
+                <td colspan="3" class="temp-table">
+                  Please wait while the data is loading.......
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
+      </div>
+
+      <div id="geometry-and-topology">
+        <br /><br />
+        <h1>5. Geometry and Topology</h1>
+        <h3 class="organizer">Organizer: Soumya Dey (KREA University)</h3>
+
         <br />
-        <h1 class="titleCustom">5. Geometry and Topology</h1>
-        <h4 class="organizer">Organizer: Soumya Dey (KREA University)</h4>
-        <br />
-        <div class="containerCustom">
-          <div class="list-itemCustom">
-            <h4>1. Subhash B</h4>
-            <h4>IISER Tirupati</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>2. Sushil Bhunia</h4>
-            <h4>BITS Pilani Hyderabad</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>3. Gautam Bharali</h4>
-            <h4>IISc, Bengaluru</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>4. Atreyee Bhattacharya</h4>
-            <h4>IISER Bhopal</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>5. Prateep Chakraborty</h4>
-            <h4>IIT Kharagpur</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>6. Pratulananda Das</h4>
-            <h4>Jadavpur University, Kolkata</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>7. Shubhabrata Das</h4>
-            <h4>Presidency University, Kolkata</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>8. Sourav Ghosh</h4>
-            <h4>Ashoka University</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>9. Arpan Kabiraj</h4>
-            <h4>IIT Palakkad</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>10. C P Anil Kumar</h4>
-            <h4>Krea University</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>11. Soma Maity</h4>
-            <h4>IISER Mohali</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>12. Madeti Prabhakar</h4>
-            <h4>IIT Ropar</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>13. Kuldeep Saha</h4>
-            <h4>TCG CREST, Kolkata</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>14. Gangotryi Sorcar</h4>
-            <h4>Karlsruhe Institute of Technology</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>15. Ajay Singh Thakur</h4>
-            <h4>IIT Kanpur</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>16. Bankteshwar Tiwari</h4>
-            <h4>Banaras Hindu University, Varanasi</h4>
-          </div>
+
+        <div
+          style="
+            display: flex;
+            padding-left: 5%;
+            padding-right: 5%;
+            align-items: center;
+            justify-content: center;
+          "
+        >
+          <table>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Institution</th>
+              </tr>
+            </thead>
+
+            <tbody id="speakers-data">
+              <tr>
+                <td colspan="3" class="temp-table">
+                  Please wait while the data is loading.......
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
+      </div>
+
+      <div id="groups-and-their-representation">
+        <br /><br />
+        <h1>6. Groups and their Representations</h1>
+        <h3 class="organizer">Organizer: Pooja Singla (IIT Kanpur)</h3>
+
         <br />
-        <h1 class="titleCustom">6. Groups and their Representations</h1>
-        <h4 class="organizer">Organizer: Pooja Singla (IIT Kanpur)</h4>
-        <br />
-        <div class="containerCustom">
-          <div class="list-itemCustom">
-            <h4>1. Sury B.</h4>
-            <h4>ISI Bangalore</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>2. Venketasubramanian C G</h4>
-            <h4>IIT Tirupati</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>3. Radhika Ganapathy</h4>
-            <h4>IISc Bangalore</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>4. Krishnendu Gongopadhyay</h4>
-            <h4>IISER Mohali</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>5. Raghavan K. N.</h4>
-            <h4>IMSc, Chennai</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>6. Surinder Kaur</h4>
-            <h4>SRM University, AP</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>7. Manju Khan</h4>
-            <h4>IIT Ropar</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>8. Sugandha Maheshwari</h4>
-            <h4>IIT Kharagpur</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>9. Ashish Mishra</h4>
-            <h4>LNMIIT, Jaipur</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>10. Santosh Nadimpalli</h4>
-            <h4>IIT Kanpur</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>11. Sunil Prajapati</h4>
-            <h4>IIT Bhubaneswar</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>12. Shiv Prakash Patel</h4>
-            <h4>IIT Delhi</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>13. Anupam Kumar Singh</h4>
-            <h4>IISER Pune</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>14. Sandip Singh</h4>
-            <h4>IIT Bombay</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>15. Shraddha Srivastava</h4>
-            <h4>IIT Dharwad</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>16. Manoj Kumar Yadav</h4>
-            <h4>HRI, Allahabad</h4>
-          </div>
+
+        <div
+          style="
+            display: flex;
+            padding-left: 5%;
+            padding-right: 5%;
+            align-items: center;
+            justify-content: center;
+          "
+        >
+          <table>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Institution</th>
+              </tr>
+            </thead>
+
+            <tbody id="speakers-data">
+              <tr>
+                <td colspan="3" class="temp-table">
+                  Please wait while the data is loading.......
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
-        <br />
-        <h1 class="titleCustom">7. Harmonic Analysis</h1>
-        <h4 class="organizer">
+      </div>
+
+      <div id="harmonic-analysis">
+        <br /><br />
+        <h1>7. Harmonic Analysis</h1>
+        <h3 class="organizer">
           Organizer: Suparna Sen (University of Calcutta)
-        </h4>
+        </h3>
+
         <br />
-        <div class="containerCustom">
-          <div class="list-itemCustom">
-            <h4>1. Sayan Bagchi</h4>
-            <h4>IISER Kolkata</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>2. Pradeep Boggarapu</h4>
-            <h4>BITS Goa</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>3. Rahul Garg</h4>
-            <h4>IISER Bhopal</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>4. Narayanan E. K.</h4>
-            <h4>IISc Bangalore</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>5. Senthil Raani KS</h4>
-            <h4>IISER Berhampur</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>6. Jotsaroop Kaur</h4>
-            <h4>IISER Mohali</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>7. Pratyoosh Kumar</h4>
-            <h4>IIT Guwahati</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>8. Sundari M.</h4>
-            <h4>CMI</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>9. Ramesh Manna</h4>
-            <h4>NISER Bhubaneswar</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>10. Muna Naik</h4>
-            <h4>IISc Bangalore</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>11. Sanjay Parui</h4>
-            <h4>NISER Bhubaneswar</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>12. Sanjoy Pusti</h4>
-            <h4>IIT Bombay</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>13. Thangavelu S.</h4>
-            <h4>IISc Bangalore</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>14. Rudra Sarkar</h4>
-            <h4>ISI Kolkata</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>15. Suparna Sen</h4>
-            <h4>University of Kolkata</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>16. Rajesh Srivastava</h4>
-            <h4>IIT Guwahati</h4>
-          </div>
+
+        <div
+          style="
+            display: flex;
+            padding-left: 5%;
+            padding-right: 5%;
+            align-items: center;
+            justify-content: center;
+          "
+        >
+          <table>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Institution</th>
+              </tr>
+            </thead>
+
+            <tbody id="speakers-data">
+              <tr>
+                <td colspan="3" class="temp-table">
+                  Please wait while the data is loading.......
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
+      </div>
+
+      <div id="partial-differential-equations">
+        <br /><br />
+        <h1>8. Partial Differential Equations</h1>
+        <h3 class="organizer">Organizer: Debdip Ganguly (IIT Delhi)</h3>
+
         <br />
-        <h1 class="titleCustom">8. Partial Differential Equations</h1>
-        <h4 class="organizer">Organizer: Debdip Ganguly (IIT Delhi)</h4>
-        <br />
-        <div class="containerCustom">
-          <div class="list-itemCustom">
-            <h4>1. Mousomi Bhakta</h4>
-            <h4>IISER Pune</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>2. Divyang Bhimani</h4>
-            <h4>IISER Pune</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>3. Anup Biswas</h4>
-            <h4>IISER Pune</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>4. Shirshendu Chowdhury</h4>
-            <h4>IISER Kolkata</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>5. Rajib Dutta</h4>
-            <h4>IISER Kolkata</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>6. Prasanta Garain</h4>
-            <h4>IISER Berhampur</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>7. Amrita Ghosh</h4>
-            <h4>HRI, Allahabad</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>8. Tuhin Ghosh</h4>
-            <h4>HRI, Allahabad</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>9. Ali Hyder</h4>
-            <h4>TIFR-CAM, Bangalore</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>10. Debabrata Karmakar</h4>
-            <h4>TIFR-CAM, Bangalore</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>11. Jotsaroop Kaur</h4>
-            <h4>IISER Mohali</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>12. Debayan Maity</h4>
-            <h4>TIFR-CAM, Bangalore</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>13. Arka Mallick</h4>
-            <h4>IISc Bangalore</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>14. Mayukh Mukherjee</h4>
-            <h4>IIT Bombay</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>15. Debanjan Nandi (Inspire Faculty)</h4>
-            <h4>IISc, Bangalore</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>16. Dhanya Rajendran</h4>
-            <h4>IISER TVM</h4>
-          </div>
+
+        <div
+          style="
+            display: flex;
+            padding-left: 5%;
+            padding-right: 5%;
+            align-items: center;
+            justify-content: center;
+          "
+        >
+          <table>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Institution</th>
+              </tr>
+            </thead>
+
+            <tbody id="speakers-data">
+              <tr>
+                <td colspan="3" class="temp-table">
+                  Please wait while the data is loading.......
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
-        <br />
-        <h1 class="titleCustom">9. Probability Theory</h1>
-        <h4 class="organizer">
+      </div>
+
+      <div id="probability-theory">
+        <br /><br />
+        <h1>9. Probability Theory</h1>
+        <h3 class="organizer">
           Organizer: Neeraja Sahasrabudhe (IISER Mohali)
-        </h4>
+        </h3>
+
         <br />
-        <div class="containerCustom">
-          <div class="list-itemCustom">
-            <h4>1. Suprio Bhar</h4>
-            <h4>IIT Kanpur</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>2. Ayan Bhattacharya</h4>
-            <h4>IIT Bombay</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>3. Nishant Chandgotia</h4>
-            <h4>TIFR-CAM</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>4. Chaman Kumar</h4>
-            <h4>IIT Roorkee</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>5. Ananya Lahiri</h4>
-            <h4>IIT Tirupati</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>6. Chetan Pahlajani</h4>
-            <h4>IIT Gandhinagar</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>7. Souvik Roy</h4>
-            <h4>ISI Kolkata</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>8. Kumarjit Saha</h4>
-            <h4>Ashoka University</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>9. Subhamay Saha</h4>
-            <h4>IIT Guwahati</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>10. Atul Shekhar</h4>
-            <h4>TIFR-CAM</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>11. Somya Singh</h4>
-            <h4>UC Louvain</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>12. Debleena Thacker</h4>
-            <h4>University of Durham</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>13. Anand Deo</h4>
-            <h4>IIM Bangalore</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>14. Veeraruna Kavitha</h4>
-            <h4>IIT Bombay</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>15. Gugan Thoppe</h4>
-            <h4>IISc Bangalore</h4>
-          </div>
+
+        <div
+          style="
+            display: flex;
+            padding-left: 5%;
+            padding-right: 5%;
+            align-items: center;
+            justify-content: center;
+          "
+        >
+          <table>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Institution</th>
+              </tr>
+            </thead>
+
+            <tbody id="speakers-data">
+              <tr>
+                <td colspan="3" class="temp-table">
+                  Please wait while the data is loading.......
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
+      </div>
+
+      <div id="number-theory">
+        <br /><br />
+        <h1>10. Number Theory</h1>
+        <h3 class="organizer">Organizer: Aprameyo Pal (HRI)</h3>
+
         <br />
-        <h1 class="titleCustom">10. Number Theory</h1>
-        <h4 class="organizer">Organizer: Aprameyo Pal (HRI)</h4>
-        <br />
-        <div class="containerCustom">
-          <div class="list-itemCustom">
-            <h4>1. Keshav Agrawal</h4>
-            <h4>IIT Bombay</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>2. Anilatmaja Aryasomayajula</h4>
-            <h4>IISER Tirupati</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>3. Shalini Bhattacharya</h4>
-            <h4>University of Hyderabad</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>4. Jaitra Chattopadhyay</h4>
-            <h4>Visva Bharati University</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>5. Shaunak Deo</h4>
-            <h4>IISc, Bengaluru</h4>
-          </div>
-          <div class="list-itemCustom">
-            <h4>6. Kasi Viswanadham G</h4>
-            <h4>IISER Bhubaneswar</h4>
-          </div>
-          <div class="list-itemCustom"></div>
-          <h4>7. Somnath Jha</h4>
-          <h4>IIT Kanpur</h4>
-        </div>
-        <div class="list-itemCustom">
-          <h4>8. Balesh Kumar</h4>
-          <h4>IIT Ropar</h4>
-        </div>
-        <div class="list-itemCustom">
-          <h4>9. Veekesh Kumar</h4>
-          <h4>IIT Dharwad</h4>
-        </div>
-        <div class="list-itemCustom">
-          <h4>10. Ramdin Mawia</h4>
-          <h4>ISI Bangalore</h4>
-        </div>
-        <div class="list-itemCustom">
-          <h4>11. Supriya Pisolkar</h4>
-          <h4>IISER Pune</h4>
-        </div>
-        <div class="list-itemCustom">
-          <h4>12. Bidisha Roy</h4>
-          <h4>IIT Tirupati</h4>
-        </div>
-        <div class="list-itemCustom">
-          <h4>13. Ekata Saha</h4>
-          <h4>IIT Delhi</h4>
-        </div>
-        <div class="list-itemCustom">
-          <h4>14. Biswajyoti Saha</h4>
-          <h4>IIT Delhi</h4>
-        </div>
-        <div class="list-itemCustom">
-          <h4>15. Brundaban Sahu</h4>
-          <h4>NISER Bhubaneswar</h4>
-        </div>
-        <div class="list-itemCustom">
-          <h4>16. Anupam Saikia</h4>
-          <h4>IIT Guwahati</h4>
+
+        <div
+          style="
+            display: flex;
+            padding-left: 5%;
+            padding-right: 5%;
+            align-items: center;
+            justify-content: center;
+          "
+        >
+          <table>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Institution</th>
+              </tr>
+            </thead>
+
+            <tbody id="speakers-data">
+              <tr>
+                <td colspan="3" class="temp-table">
+                  Please wait while the data is loading.......
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </div>
     </div>

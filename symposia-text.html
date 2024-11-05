@@ -18,109 +18,88 @@
     />
   </head>
   <style>
-    .abot-txt-innr {
-      font-family: "Roboto", sans-serif;
-      font-weight: 400;
-      font-size: medium;
+    table {
+      width: 100%;
+      border-collapse: collapse;
     }
-    .text-secondary {
-      color: #6c757d;
+
+    tbody tr {
+      font-size: large;
+      font-weight: 500;
     }
-    .m-0 {
-      margin: 0;
+
+    .table-div {
+      display: flex;
+      flex-direction: column;
+      padding-left: 10%;
+      padding-right: 10%;
     }
-    .mt-2 {
-      margin-top: 0.5rem;
+
+    @media screen and (max-width: 600px) {
+      .table-div {
+        padding-left: 5%;
+        padding-right: 5%;
+      }
+
+      tbody tr {
+        font-size: small;
+      }
+
+      h1 {
+        font-size: xx-large;
+      }
     }
-    .mt-4 {
-      margin-top: 1.5rem;
+
+    tbody tr:nth-child(3n) {
+      background-color: #a1c3e7 !important;
     }
-    .p-0 {
-      padding: 0;
+
+    tbody tr:nth-child(3n + 1) {
+      background-color: #d1e9fd !important;
     }
-    h6,
-    .h6,
-    h5,
-    .h5,
-    h4,
-    .h4,
-    h3,
-    .h3,
-    h2,
-    .h2,
-    h1,
-    .h1 {
-      margin-top: 0;
-      margin-bottom: 0.5rem;
-      line-height: 1.2;
+
+    tbody tr:nth-child(3n + 2) {
+      background-color: #bddaf5 !important;
     }
-    .card-body {
-      flex: 1 1 auto;
-      padding: 1rem 1rem;
+
+    thead tr {
+      background-color: #506c92 !important;
+      color: white;
+
+      th {
+        padding: 10px;
+        font-size: larger;
+      }
     }
-    .card-body > h5 {
-      text-align: justify;
-    }
-    h5::first-letter {
-      font-size: 2rem;
+
+    .temp-table {
+      align-content: center;
+      justify-content: center;
+      text-align: center;
     }
   </style>
   <body>
-    <div class="card scheduleCard m-0 p-0">
-      <div
-        class="card-body m-0 d-flex flex-column align-items-center justify-content-start"
-      >
-        <h1 class="text-center">Symposia Organizers</h1>
-        <br />
-        <div
-          style="
-            display: flex;
-            flex-direction: column;
-            padding-left: 10%;
-            padding-right: 40%;
-          "
-        >
-          <div style="display: flex; justify-content: space-between">
-            <h4>1. Algebra:</h4>
-            <h4>Indranath Sengupta (IIT Gandhinagar)</h4>
-          </div>
-          <div style="display: flex; justify-content: space-between">
-            <h4>2. Algebraic Geometry:</h4>
-            <h4>Archana S Morye (University of Hyderabad)</h4>
-          </div>
-          <div style="display: flex; justify-content: space-between">
-            <h4>3. Complex Analysis:</h4>
-            <h4>Vasudeva Rao Allu (IIT Bhubaneswar)</h4>
-          </div>
-          <div style="display: flex; justify-content: space-between">
-            <h4>4. Functional Analysis:</h4>
-            <h4>Pradipta Bandyopadhyay (ISI Kolkata)</h4>
-          </div>
-          <div style="display: flex; justify-content: space-between">
-            <h4>5. Geometry and Topology:</h4>
-            <h4>Soumya Dey (KREA University)</h4>
-          </div>
-          <div style="display: flex; justify-content: space-between">
-            <h4>6. Groups and their Representations:</h4>
-            <h4>Pooja Singla (IIT Kanpur)</h4>
-          </div>
-          <div style="display: flex; justify-content: space-between">
-            <h4>7. Harmonic Analysis:</h4>
-            <h4>Suparna Sen (University of Calcutta)</h4>
-          </div>
-          <div style="display: flex; justify-content: space-between">
-            <h4>8. Partial Differential Equations:</h4>
-            <h4>Debdip Ganguly (IIT Delhi)</h4>
-          </div>
-          <div style="display: flex; justify-content: space-between">
-            <h4>9. Probability Theory:</h4>
-            <h4>Neeraja Sahasrabudhe (IISER Mohali)</h4>
-          </div>
-          <div style="display: flex; justify-content: space-between">
-            <h4>10. Number Theory:</h4>
-            <h4>Aprameyo Pal (HRI)</h4>
-          </div>
-        </div>
+    <div class="">
+      <h1 class="text-center">Symposia Organizers</h1>
+      <br />
+      <div class="table-div">
+        <table>
+          <thead>
+            <tr>
+              <td>Category</td>
+              <td>Name</td>
+              <td>Institute</td>
+            </tr>
+          </thead>
+
+          <tbody id="organizers-data">
+            <tr>
+              <td colspan="3" class="temp-table">
+                Please wait while the data is loading.......
+              </td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </div>
   </body>

@@ -1,0 +1,52 @@
+[
+  {
+    "Category": "Algebra",
+    "Name": "Indranath Sengupta",
+    "Institute": "IIT Gandhinagar"
+  },
+  {
+    "Category": "Algebraic Geometry",
+    "Name": "Archana S Morye",
+    "Institute": "University of Hyderabad"
+  },
+  {
+    "Category": "Complex Analysis",
+    "Name": "Vasudeva Rao Allu",
+    "Institute": "IIT Bhubaneswar"
+  },
+  {
+    "Category": "Functional Analysis",
+    "Name": "Pradipta Bandyopadhyay",
+    "Institute": "ISI Kolkata"
+  },
+  {
+    "Category": "Geometry and Topology",
+    "Name": "Soumya Dey",
+    "Institute": "KREA University"
+  },
+  {
+    "Category": "Groups and their Representations",
+    "Name": "Pooja Singla",
+    "Institute": "IIT Kanpur"
+  },
+  {
+    "Category": "Harmonic Analysis",
+    "Name": "Suparna Sen",
+    "Institute": "University of Calcutta"
+  },
+  {
+    "Category": "Partial Differential Equations",
+    "Name": "Debdip Ganguly",
+    "Institute": "IIT Delhi"
+  },
+  {
+    "Category": "Probability Theory",
+    "Name": "Neeraja Sahasrabudhe",
+    "Institute": "IISER Mohali"
+  },
+  {
+    "Category": "Number Theory",
+    "Name": "Aprameyo Pal",
+    "Institute": "HRI"
+  }
+]

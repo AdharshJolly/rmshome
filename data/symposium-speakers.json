@@ -1,0 +1,787 @@
+[
+  {
+    "name": "A.V. Jayanthan",
+    "institute": "IIT Madras",
+    "category": "algebra"
+  },
+  {
+    "name": "Ambili",
+    "institute": "CUSAT",
+    "category": "algebra"
+  },
+  {
+    "name": "Ananthnarayan Hariharan",
+    "institute": "IIT Bombay",
+    "category": "algebra"
+  },
+  {
+    "name": "Anuradha Sharma",
+    "institute": "IIIT Delhi",
+    "category": "algebra"
+  },
+  {
+    "name": "Arindam Banerjee",
+    "institute": "IIT Kharagpur",
+    "category": "algebra"
+  },
+  {
+    "name": "Dipankar Ghosh",
+    "institute": "IIT Kharagpur",
+    "category": "algebra"
+  },
+  {
+    "name": "Gurmeet K. Bakshi",
+    "institute": "Punjab University",
+    "category": "algebra"
+  },
+  {
+    "name": "Mousomi Mandal",
+    "institute": "IIT Kharagpur",
+    "category": "algebra"
+  },
+  {
+    "name": "Mrinal Kanti Das",
+    "institute": "ISI, Kolkata",
+    "category": "algebra"
+  },
+  {
+    "name": "Parangama Sarkar",
+    "institute": "IIT Palakkad",
+    "category": "algebra"
+  },
+  {
+    "name": "Prosenjit Das",
+    "institute": "Indian Institute of Space Science and Technology, Trivandrum",
+    "category": "algebra"
+  },
+  {
+    "name": "Rajiv Kumar",
+    "institute": "IIT Jammu",
+    "category": "algebra"
+  },
+  {
+    "name": "Shreedevi Masuti",
+    "institute": "IIT Dharwad",
+    "category": "algebra"
+  },
+  {
+    "name": "Sudhir Ghorpade",
+    "institute": "IIT Bombay",
+    "category": "algebra"
+  },
+  {
+    "name": "Surjeet Kour",
+    "institute": "IIT Delhi",
+    "category": "algebra"
+  },
+  {
+    "name": "Anoop Singh",
+    "institute": "IIT BHU",
+    "category": "algebraic-geometry"
+  },
+  {
+    "name": "Arijit Dey",
+    "institute": "IIT Madras",
+    "category": "algebraic-geometry"
+  },
+  {
+    "name": "Arijit Mukherjee",
+    "institute": "IIT Madras",
+    "category": "algebraic-geometry"
+  },
+  {
+    "name": "Ashima Bansal",
+    "institute": "IISER Tirupati",
+    "category": "algebraic-geometry"
+  },
+  {
+    "name": "Bivas Khan",
+    "institute": "CMI",
+    "category": "algebraic-geometry"
+  },
+  {
+    "name": "Gopinath Sahoo",
+    "institute": "TIFR",
+    "category": "algebraic-geometry"
+  },
+  {
+    "name": "Jyoti Dasgupta",
+    "institute": "IIT Dhanbad",
+    "category": "algebraic-geometry"
+  },
+  {
+    "name": "Mainak Poddar",
+    "institute": "IISER Pune",
+    "category": "algebraic-geometry"
+  },
+  {
+    "name": "Mandira Mondal",
+    "institute": "UoH",
+    "category": "algebraic-geometry"
+  },
+  {
+    "name": "Parves Rasul",
+    "institute": "IIT Bombay",
+    "category": "algebraic-geometry"
+  },
+  {
+    "name": "Pavan Adroja",
+    "institute": "IIT Gandhinagar",
+    "category": "algebraic-geometry"
+  },
+  {
+    "name": "Poornapushkala Narayanan",
+    "institute": "Madras School of Economics",
+    "category": "algebraic-geometry"
+  },
+  {
+    "name": "Pranav Pandit",
+    "institute": "ICTS",
+    "category": "algebraic-geometry"
+  },
+  {
+    "name": "Samarpita Ray",
+    "institute": "ISI Bangalore",
+    "category": "algebraic-geometry"
+  },
+  {
+    "name": "Sreenanda S B",
+    "institute": "UoH",
+    "category": "algebraic-geometry"
+  },
+  {
+    "name": "Sudarsha Gurjar",
+    "institute": "IIT Bombay",
+    "category": "algebraic-geometry"
+  },
+  {
+    "name": "Amar Deep Sarkar",
+    "institute": "IIT Bhubaneswar",
+    "category": "complex-analysis"
+  },
+  {
+    "name": "Bappaditya Bhowmik",
+    "institute": "IIT Kharagpur",
+    "category": "complex-analysis"
+  },
+  {
+    "name": "Gautam Bharali",
+    "institute": "IISc Bangalore",
+    "category": "complex-analysis"
+  },
+  {
+    "name": "Kaushal Verma",
+    "institute": "IISc Bangalore",
+    "category": "complex-analysis"
+  },
+  {
+    "name": "Md. Firoz Ali",
+    "institute": "NIT Durgapur",
+    "category": "complex-analysis"
+  },
+  {
+    "name": "Muthukumar",
+    "institute": "IIT Kanpur",
+    "category": "complex-analysis"
+  },
+  {
+    "name": "Purvi Gupta",
+    "institute": "IISc Bangalore",
+    "category": "complex-analysis"
+  },
+  {
+    "name": "Ratna Pal",
+    "institute": "IISER Mohali",
+    "category": "complex-analysis"
+  },
+  {
+    "name": "Sanjeev Singh",
+    "institute": "IIT Indore",
+    "category": "complex-analysis"
+  },
+  {
+    "name": "Sivaguru R",
+    "institute": "TIFR-CAM, Bangalore",
+    "category": "complex-analysis"
+  },
+  {
+    "name": "Sushil Gorai",
+    "institute": "IISER Kolkata",
+    "category": "complex-analysis"
+  },
+  {
+    "name": "Tarakanta Nayak",
+    "institute": "IIT Bhubaneswar",
+    "category": "complex-analysis"
+  },
+  {
+    "name": "Vibhuti Arora",
+    "institute": "NIT Calicut",
+    "category": "complex-analysis"
+  },
+  {
+    "name": "Vikramjeet Singh Chandel",
+    "institute": "IIT Kanpur",
+    "category": "complex-analysis"
+  },
+  {
+    "name": "Abdullah Bin Abu Baker",
+    "institute": "IIIT Allahabad",
+    "category": "functional-analysis"
+  },
+  {
+    "name": "Anil Kumar Karn",
+    "institute": "NISER",
+    "category": "functional-analysis"
+  },
+  {
+    "name": "Arpita Mal",
+    "institute": "DA-IICT Gandhinagar",
+    "category": "functional-analysis"
+  },
+  {
+    "name": "Aryaman Sensarma",
+    "institute": "NIT Silchar",
+    "category": "functional-analysis"
+  },
+  {
+    "name": "C R Jayanarayanan",
+    "institute": "IIT Palakkad",
+    "category": "functional-analysis"
+  },
+  {
+    "name": "Deepak Gothwal",
+    "institute": "ISIK",
+    "category": "functional-analysis"
+  },
+  {
+    "name": "Gargi Ghosh",
+    "institute": "IIT Roorkee",
+    "category": "functional-analysis"
+  },
+  {
+    "name": "M. A. Sofi",
+    "institute": "Kashmir University",
+    "category": "functional-analysis"
+  },
+  {
+    "name": "Neeru Bala",
+    "institute": "IIT Dhanbad",
+    "category": "functional-analysis"
+  },
+  {
+    "name": "P Gayathri",
+    "institute": "NIT Trichy",
+    "category": "functional-analysis"
+  },
+  {
+    "name": "Priyanka Grover",
+    "institute": "Shiv Nadar",
+    "category": "functional-analysis"
+  },
+  {
+    "name": "S. Lalithambigai",
+    "institute": "Madurai Kamaraj University",
+    "category": "functional-analysis"
+  },
+  {
+    "name": "Soumitra Daptari",
+    "institute": "Shiv Nadar",
+    "category": "functional-analysis"
+  },
+  {
+    "name": "Sudeshna Basu",
+    "institute": "Loyola University Baltimore",
+    "category": "functional-analysis"
+  },
+  {
+    "name": "Susmita Seal",
+    "institute": "RKMVERI",
+    "category": "functional-analysis"
+  },
+  {
+    "name": "Uday Shankar Chakraborty",
+    "institute": "Assam University Silchar",
+    "category": "functional-analysis"
+  },
+  {
+    "name": "Ajay Singh Thakur",
+    "institute": "IIT Kanpur",
+    "category": "geometry-and-topology"
+  },
+  {
+    "name": "Arpan Kabiraj",
+    "institute": "IIT Palakkad",
+    "category": "geometry-and-topology"
+  },
+  {
+    "name": "Atreyee Bhattacharya",
+    "institute": "IISER Bhopal",
+    "category": "geometry-and-topology"
+  },
+  {
+    "name": "Bankteshwar Tiwari",
+    "institute": "Banaras Hindu University, Varanasi",
+    "category": "geometry-and-topology"
+  },
+  {
+    "name": "Chudamani Pranesachar Anil Kumar",
+    "institute": "Krea University",
+    "category": "geometry-and-topology"
+  },
+  {
+    "name": "Gangotryi Sorcar",
+    "institute": "Karlsruhe Institute of Technology",
+    "category": "geometry-and-topology"
+  },
+  {
+    "name": "Gautam Bharali",
+    "institute": "IISc, Bengaluru",
+    "category": "geometry-and-topology"
+  },
+  {
+    "name": "Kuldeep Saha",
+    "institute": "TCG CREST, Kolkata",
+    "category": "geometry-and-topology"
+  },
+  {
+    "name": "Madeti Prabhakar",
+    "institute": "IIT Ropar",
+    "category": "geometry-and-topology"
+  },
+  {
+    "name": "Prateep Chakraborty",
+    "institute": "IIT Kharagpur",
+    "category": "geometry-and-topology"
+  },
+  {
+    "name": "Pratulananda Das",
+    "institute": "Jadavpur University, Kolkata",
+    "category": "geometry-and-topology"
+  },
+  {
+    "name": "Shubhabrata Das",
+    "institute": "Presidency University, Kolkata",
+    "category": "geometry-and-topology"
+  },
+  {
+    "name": "Soma Maity",
+    "institute": "IISER Mohali",
+    "category": "geometry-and-topology"
+  },
+  {
+    "name": "Sourav Ghosh",
+    "institute": "Ashoka University",
+    "category": "geometry-and-topology"
+  },
+  {
+    "name": "Subhash B",
+    "institute": "IISER Tirupati",
+    "category": "geometry-and-topology"
+  },
+  {
+    "name": "Sushil Bhunia",
+    "institute": "BITS Pilani Hyderabad",
+    "category": "geometry-and-topology"
+  },
+  {
+    "name": "Anupam Kumar Singh",
+    "institute": "IISER Pune",
+    "category": "groups-and-their-representation"
+  },
+  {
+    "name": "Ashish Mishra",
+    "institute": "LNMIIT, Jaipur",
+    "category": "groups-and-their-representation"
+  },
+  {
+    "name": "Krishnendu Gongopadhyay",
+    "institute": "IISER Mohali",
+    "category": "groups-and-their-representation"
+  },
+  {
+    "name": "Manju Khan",
+    "institute": "IIT Ropar",
+    "category": "groups-and-their-representation"
+  },
+  {
+    "name": "Manoj Kumar Yadav",
+    "institute": "HRI, Allahabad",
+    "category": "groups-and-their-representation"
+  },
+  {
+    "name": "Radhika Ganapathy",
+    "institute": "IISc Bangalore",
+    "category": "groups-and-their-representation"
+  },
+  {
+    "name": "Raghavan K. N.",
+    "institute": "IMSc, Chennai",
+    "category": "groups-and-their-representation"
+  },
+  {
+    "name": "Sandip Singh",
+    "institute": "IIT Bombay",
+    "category": "groups-and-their-representation"
+  },
+  {
+    "name": "Santosh Nadimpalli",
+    "institute": "IIT Kanpur",
+    "category": "groups-and-their-representation"
+  },
+  {
+    "name": "Shiv Prakash Patel",
+    "institute": "IIT Delhi",
+    "category": "groups-and-their-representation"
+  },
+  {
+    "name": "Shraddha Srivastava",
+    "institute": "IIT Dharwad",
+    "category": "groups-and-their-representation"
+  },
+  {
+    "name": "Sugandha Maheshwari",
+    "institute": "IIT Kharagpur",
+    "category": "groups-and-their-representation"
+  },
+  {
+    "name": "Sunil Prajapati",
+    "institute": "IIT Bhubaneswar",
+    "category": "groups-and-their-representation"
+  },
+  {
+    "name": "Surinder Kaur",
+    "institute": "SRM University, AP",
+    "category": "groups-and-their-representation"
+  },
+  {
+    "name": "Sury B.",
+    "institute": "ISI Bangalore",
+    "category": "groups-and-their-representation"
+  },
+  {
+    "name": "Venketasubramanian C G",
+    "institute": "IIT Tirupati",
+    "category": "groups-and-their-representation"
+  },
+  {
+    "name": "Amit Samanta",
+    "institute": "RKMVERI",
+    "category": "harmonic-analysis"
+  },
+  {
+    "name": "Jotsaroop Kaur",
+    "institute": "IISER Mohali",
+    "category": "harmonic-analysis"
+  },
+  {
+    "name": "M. Sundari",
+    "institute": "CMI",
+    "category": "harmonic-analysis"
+  },
+  {
+    "name": "Muna Naik",
+    "institute": "IISc Bangalore",
+    "category": "harmonic-analysis"
+  },
+  {
+    "name": "Narayanan E. K.",
+    "institute": "IISc Bangalore",
+    "category": "harmonic-analysis"
+  },
+  {
+    "name": "Pradeep Boggarapu",
+    "institute": "BITS Goa",
+    "category": "harmonic-analysis"
+  },
+  {
+    "name": "Pradeep Boggarapu",
+    "institute": "BITS Pilani, Goa",
+    "category": "harmonic-analysis"
+  },
+  {
+    "name": "Pratyoosh Kumar",
+    "institute": "IIT Guwahati",
+    "category": "harmonic-analysis"
+  },
+  {
+    "name": "Rahul Garg",
+    "institute": "IISER Bhopal",
+    "category": "harmonic-analysis"
+  },
+  {
+    "name": "Ramesh Manna",
+    "institute": "NISER Bhubaneswar",
+    "category": "harmonic-analysis"
+  },
+  {
+    "name": "Rudra Sarkar",
+    "institute": "ISI Kolkata",
+    "category": "harmonic-analysis"
+  },
+  {
+    "name": "Sanjay Parui",
+    "institute": "NISER Bhubaneswar",
+    "category": "harmonic-analysis"
+  },
+  {
+    "name": "Sayan Bagchi",
+    "institute": "IISER Kolkata",
+    "category": "harmonic-analysis"
+  },
+  {
+    "name": "Senthil Raani KS",
+    "institute": "IISER Berhampur",
+    "category": "harmonic-analysis"
+  },
+  {
+    "name": "Sundaram Thangavelu",
+    "institute": "IISc Bangalore",
+    "category": "harmonic-analysis"
+  },
+  {
+    "name": "Suparna Sen",
+    "institute": "University of Kolkata",
+    "category": "harmonic-analysis"
+  },
+  {
+    "name": "Ali Hyder",
+    "institute": "TIFR-CAM, Bangalore",
+    "category": "partial-differential-equations"
+  },
+  {
+    "name": "Amrita Ghosh",
+    "institute": "HRI, Allahabad",
+    "category": "partial-differential-equations"
+  },
+  {
+    "name": "Anup Biswas",
+    "institute": "IISER Pune",
+    "category": "partial-differential-equations"
+  },
+  {
+    "name": "Arka Mallick",
+    "institute": "IISc Bangalore",
+    "category": "partial-differential-equations"
+  },
+  {
+    "name": "Debabrata Karmakar",
+    "institute": "TIFR-CAM, Bangalore",
+    "category": "partial-differential-equations"
+  },
+  {
+    "name": "Debanjan Nandi (Inspire Faculty)",
+    "institute": "IISc, Bangalore",
+    "category": "partial-differential-equations"
+  },
+  {
+    "name": "Debayan Maity",
+    "institute": "TIFR-CAM, Bangalore",
+    "category": "partial-differential-equations"
+  },
+  {
+    "name": "Dhanya Rajendran",
+    "institute": "IISER TVM",
+    "category": "partial-differential-equations"
+  },
+  {
+    "name": "Divyang Bhimani",
+    "institute": "IISER Pune",
+    "category": "partial-differential-equations"
+  },
+  {
+    "name": "Jotsaroop Kaur",
+    "institute": "IISER Mohali",
+    "category": "partial-differential-equations"
+  },
+  {
+    "name": "Mayukh Mukherjee",
+    "institute": "IIT Bombay",
+    "category": "partial-differential-equations"
+  },
+  {
+    "name": "Mousomi Bhakta",
+    "institute": "IISER Pune",
+    "category": "partial-differential-equations"
+  },
+  {
+    "name": "Prasanta Garain",
+    "institute": "IISER Berhampur",
+    "category": "partial-differential-equations"
+  },
+  {
+    "name": "Rajib Dutta",
+    "institute": "IISER Kolkata",
+    "category": "partial-differential-equations"
+  },
+  {
+    "name": "Shirshendu Chowdhury",
+    "institute": "IISER Kolkata",
+    "category": "partial-differential-equations"
+  },
+  {
+    "name": "Tuhin Ghosh",
+    "institute": "HRI, Allahabad",
+    "category": "partial-differential-equations"
+  },
+  {
+    "name": "Anand Deo",
+    "institute": "IIM Bangalore",
+    "category": "probability-theory"
+  },
+  {
+    "name": "Ananya Lahiri",
+    "institute": "IIT Tirupati",
+    "category": "probability-theory"
+  },
+  {
+    "name": "Atul Shekhar",
+    "institute": "TIFR-CAM",
+    "category": "probability-theory"
+  },
+  {
+    "name": "Ayan Bhattacharya",
+    "institute": "IIT Bombay",
+    "category": "probability-theory"
+  },
+  {
+    "name": "Chaman Kumar",
+    "institute": "IIT Roorkee",
+    "category": "probability-theory"
+  },
+  {
+    "name": "Chetan D. Pahlajani",
+    "institute": "IIT Gandhinagar",
+    "category": "probability-theory"
+  },
+  {
+    "name": "Debleena Thacker",
+    "institute": "University of Durham",
+    "category": "probability-theory"
+  },
+  {
+    "name": "Gugan Chandrashekhar Mallika Thoppe",
+    "institute": "IISc Bangalore",
+    "category": "probability-theory"
+  },
+  {
+    "name": "Kumarjit Saha",
+    "institute": "Ashoka University",
+    "category": "probability-theory"
+  },
+  {
+    "name": "Nishant Chandgotia",
+    "institute": "TIFR-CAM",
+    "category": "probability-theory"
+  },
+  {
+    "name": "Somya Singh",
+    "institute": "UC Louvain",
+    "category": "probability-theory"
+  },
+  {
+    "name": "Souvik Roy",
+    "institute": "ISI Kolkata",
+    "category": "probability-theory"
+  },
+  {
+    "name": "Subhamay Saha",
+    "institute": "IIT Guwahati",
+    "category": "probability-theory"
+  },
+  {
+    "name": "Suprio Bhar",
+    "institute": "IIT Kanpur",
+    "category": "probability-theory"
+  },
+  {
+    "name": "Veeraruna Kavitha",
+    "institute": "IIT Bombay",
+    "category": "probability-theory"
+  },
+  {
+    "name": "Anupam Saikia",
+    "institute": "IIT Guwahati",
+    "category": "number-theory"
+  },
+  {
+    "name": "Balesh Kumar",
+    "institute": "IIT Ropar",
+    "category": "number-theory"
+  },
+  {
+    "name": "Bidisha Roy",
+    "institute": "IIT Tirupati",
+    "category": "number-theory"
+  },
+  {
+    "name": "Biswajyoti Saha",
+    "institute": "IIT Delhi",
+    "category": "number-theory"
+  },
+  {
+    "name": "Brundaban Sahu",
+    "institute": "NISER Bhubaneswar",
+    "category": "number-theory"
+  },
+  {
+    "name": "Divyum Sharma",
+    "institute": "BITS Pilani",
+    "category": "number-theory"
+  },
+  {
+    "name": "Ekata Saha",
+    "institute": "IIT Delhi",
+    "category": "number-theory"
+  },
+  {
+    "name": "Kasi Viswanadham G",
+    "institute": "IISER Bhubaneswar",
+    "category": "number-theory"
+  },
+  {
+    "name": "Keshav Agrawal",
+    "institute": "IIT Bombay",
+    "category": "number-theory"
+  },
+  {
+    "name": "Mihir Sheth",
+    "institute": "IISc Bangalore",
+    "category": "number-theory"
+  },
+  {
+    "name": "Ramdin Mawia",
+    "institute": "ISI Bangalore",
+    "category": "number-theory"
+  },
+  {
+    "name": "Shalini Bhattacharya",
+    "institute": "University of Hyderabad",
+    "category": "number-theory"
+  },
+  {
+    "name": "Shaunak Deo",
+    "institute": "IISc, Bengaluru",
+    "category": "number-theory"
+  },
+  {
+    "name": "Somnath Jha",
+    "institute": "IIT Kanpur",
+    "category": "number-theory"
+  },
+  {
+    "name": "Sudipa Mondal",
+    "institute": "IIT Madras",
+    "category": "number-theory"
+  },
+  {
+    "name": "Supriya Pisolkar",
+    "institute": "IISER Pune",
+    "category": "number-theory"
+  },
+  {
+    "name": "Veekesh Kumar",
+    "institute": "IIT Dharwad",
+    "category": "number-theory"
+  }
+]

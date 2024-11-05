@@ -12,7 +12,7 @@
   position: relative;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-  box-sizing: border-box;  
+  box-sizing: border-box;
 }
 #cssmenu2:after,
 #cssmenu2 > ul:after {
@@ -30,8 +30,8 @@
 }
 /*2-17-2021*/
 #cssmenu2 > ul > li {
-    float: left;
-	margin: auto 7px;
+  float: left;
+  margin: auto 7px;
 }
 /*2-17-2021*/
 #cssmenu2.align-center > ul {
@@ -49,27 +49,27 @@
   float: right;
 }
 #cssmenu2 > ul > li > a {
-    padding: 15px 22px;
-    text-decoration: none;
-    color: #fff;
-    border-top: 10px solid #283891;
-    font-size: 15px;
-    text-transform: uppercase;
-	/*17-2-2021*/
-	line-height: 21px;
-	/*17-2-2021*/
+  padding: 15px 22px;
+  text-decoration: none;
+  color: #fff;
+  border-top: 10px solid #283891;
+  font-size: 15px;
+  text-transform: uppercase;
+  /*17-2-2021*/
+  line-height: 21px;
+  /*17-2-2021*/
 }
-.home-icon .fa{
-	font-size:25px;
-	color:#fff;
-	}
+.home-icon .fa {
+  font-size: 25px;
+  color: #fff;
+}
 .home-icon {
-    padding: 9px 13px !important;
+  padding: 9px 13px !important;
 }
 #cssmenu2 > ul > li:hover > a {
-    color: #fff;
-    background: none;
-    border-top: 10px solid #076EF9;
+  color: #fff;
+  background: none;
+  border-top: 10px solid #076ef9;
 }
 #cssmenu2 > ul > li.has-sub > a {
   padding-right: 30px;
@@ -82,7 +82,7 @@
   height: 2px;
   display: block;
   background: #333;
-  content: '';
+  content: "";
 }
 #cssmenu2 > ul > li.has-sub > a:before {
   position: absolute;
@@ -92,12 +92,12 @@
   width: 2px;
   height: 8px;
   background: #333;
-  content: '';
-  -webkit-transition: all .25s ease;
-  -moz-transition: all .25s ease;
-  -ms-transition: all .25s ease;
-  -o-transition: all .25s ease;
-  transition: all .25s ease;
+  content: "";
+  -webkit-transition: all 0.25s ease;
+  -moz-transition: all 0.25s ease;
+  -ms-transition: all 0.25s ease;
+  -o-transition: all 0.25s ease;
+  transition: all 0.25s ease;
 }
 #cssmenu2 > ul > li.has-sub:hover > a:before {
   top: 23px;
@@ -112,11 +112,11 @@
 }
 #cssmenu2 ul ul li {
   height: 0;
-  -webkit-transition: all .25s ease;
-  -moz-transition: all .25s ease;
-  -ms-transition: all .25s ease;
-  -o-transition: all .25s ease;
-  transition: all .25s ease;
+  -webkit-transition: all 0.25s ease;
+  -moz-transition: all 0.25s ease;
+  -ms-transition: all 0.25s ease;
+  -o-transition: all 0.25s ease;
+  transition: all 0.25s ease;
 }
 #cssmenu2 li:hover > ul {
   left: auto;
@@ -138,15 +138,15 @@
   margin-right: 100%;
 }
 #cssmenu2 ul ul li a {
-    border-bottom: 1px solid rgba(150, 150, 150, 0.15);
-    padding: 11px 15px;
-    width: 265px !important;
-    font-size: 13px;
-    text-decoration: none;
-    color: #dddddd;
-    font-weight: 400;
-    background: #015e93;
-    line-height: 21px;
+  border-bottom: 1px solid rgba(150, 150, 150, 0.15);
+  padding: 11px 15px;
+  width: 265px !important;
+  font-size: 13px;
+  text-decoration: none;
+  color: #dddddd;
+  font-weight: 400;
+  background: #015e93;
+  line-height: 21px;
 }
 #cssmenu2 ul ul li:last-child > a,
 #cssmenu2 ul ul li.last-item > a {
@@ -154,7 +154,7 @@
 }
 #cssmenu2 ul ul li:hover > a,
 #cssmenu2 ul ul li a:hover {
-  color: #fff ;
+  color: #fff;
 }
 #cssmenu2 ul ul li.has-sub > a:after {
   position: absolute;
@@ -164,7 +164,7 @@
   height: 2px;
   display: block;
   background: #dddddd;
-  content: '';
+  content: "";
 }
 #cssmenu2.align-right ul ul li.has-sub > a:after {
   right: auto;
@@ -178,12 +178,12 @@
   width: 2px;
   height: 8px;
   background: #dddddd;
-  content: '';
-  -webkit-transition: all .25s ease;
-  -moz-transition: all .25s ease;
-  -ms-transition: all .25s ease;
-  -o-transition: all .25s ease;
-  transition: all .25s ease;
+  content: "";
+  -webkit-transition: all 0.25s ease;
+  -moz-transition: all 0.25s ease;
+  -ms-transition: all 0.25s ease;
+  -o-transition: all 0.25s ease;
+  transition: all 0.25s ease;
 }
 #cssmenu2.align-right ul ul li.has-sub > a:before {
   right: auto;
@@ -194,27 +194,30 @@
   height: 0;
 }
 #cssmenu2 ul li a .fa {
-	
-	padding-right: 7px;
-	}
+  padding-right: 7px;
+}
 #cssmenu2 > ul > li > .active {
-    padding: 15px 13px;
-    text-decoration: none;
-    color: #fff;
-    border-top: 10px solid #076EF9;
-    font-size: 15px;
-    text-transform: uppercase;
+  padding: 15px 13px;
+  text-decoration: none;
+  color: #fff;
+  border-top: 10px solid #076ef9;
+  font-size: 15px;
+  text-transform: uppercase;
 }
 
-
 /*.cmnu {float:right;}*/
-@media all and (max-width: 768px), only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1024px), only screen and (min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min-resolution: 192dpi) and (max-width: 1024px), only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
+@media all and (max-width: 768px),
+  only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1024px),
+  only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1024px),
+  only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1024px),
+  only screen and (min-device-pixel-ratio: 2) and (max-width: 1024px),
+  only screen and (min-resolution: 192dpi) and (max-width: 1024px),
+  only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
   #tlec-menu-bar #cssmenu2 {
     position: static;
   }
   #cssmenu2 {
     width: 100%;
-	
   }
   #cssmenu2 ul {
     width: 100%;
@@ -225,9 +228,9 @@
   }
   #cssmenu2 ul li {
     width: 100%;
-	border-top: 1px solid rgba(120, 120, 120, 0.14);
-	border-right: none;
-	padding: 4px 0;
+    border-top: 1px solid rgba(120, 120, 120, 0.14);
+    border-right: none;
+    padding: 4px 0;
   }
   #cssmenu2 ul ul li,
   #cssmenu2 li:hover > ul > li {
@@ -237,7 +240,7 @@
   #cssmenu2 ul ul li a {
     width: 100%;
     border-bottom: 0;
-	padding: 9px 13px;
+    padding: 9px 13px;
   }
   #cssmenu2 > ul > li {
     float: none;
@@ -289,7 +292,7 @@
     width: 20px;
     border-top: 2px solid #fff;
     border-bottom: 2px solid #fff;
-    content: '';
+    content: "";
   }
   #cssmenu2 #menu-button:before {
     position: absolute;
@@ -299,7 +302,7 @@
     height: 2px;
     width: 20px;
     background: #fff;
-    content: '';
+    content: "";
   }
   #cssmenu2 #menu-button.menu-opened:after {
     top: 23px;
@@ -349,7 +352,7 @@
     height: 2px;
     display: block;
     background: #dddddd;
-    content: '';
+    content: "";
   }
   #cssmenu2 ul ul .submenu-button:after {
     top: 15px;
@@ -366,7 +369,7 @@
     width: 2px;
     height: 8px;
     background: #dddddd;
-    content: '';
+    content: "";
   }
   #cssmenu2 ul ul .submenu-button:before {
     top: 12px;

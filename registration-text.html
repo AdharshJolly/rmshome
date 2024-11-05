@@ -20,6 +20,13 @@
       font-weight: 400;
       font-size: medium;
     }
+    .important-date tr:nth-child(2) {
+      background-color: #a1c3e7 !important;
+    }
+
+    .important-date tr:nth-child(1) {
+      background-color: #d1e9fd !important;
+    }
     .text-secondary {
       color: #6c757d;
     }
@@ -55,17 +62,24 @@
       flex: 1 1 auto;
       padding: 1rem 1rem;
     }
-    .card-body > h5 {
-      text-align: justify;
-    }
     h5::first-letter {
       font-size: 2rem;
     }
+
+    thead tr {
+      background-color: #506c92 !important;
+      color: white;
+      font-size: large;
+      font-weight: bold;
+    }
   </style>
   <body>
-    <div class="card scheduleCard m-0 p-0">
-      <div class="card-body m-0">
-        <h5 class="p-2 abot-txt-innr">
+    <div class="">
+      <div
+        class=""
+        style="padding-left: 5%; padding-right: 5%; margin-top: 20px"
+      >
+        <h5 class="p-2 abot-txt-innr" style="text-align: justify">
           <p>
             Interested Faculty members and Researchers from any institution of
             India are encouraged to participate in the conference. All
@@ -108,23 +122,20 @@
                     </td>
                   </tr>
                 </thead>
-                <tbody>
-                  <tr>
-                    <td>Last Date of abstract submission</td>
-                    <td>October 10 , 2024</td>
-                  </tr>
+                <tbody class="important-date">
                   <tr>
                     <td>
-                      Last date of Registration (Including Payment of Fee)
+                      Last date of Abstract Submission and Registration
+                      (Including Payment of Fee)
                     </td>
-                    <td>October 25 , 2024</td>
+                    <td>October 30 , 2024</td>
                   </tr>
                   <tr>
                     <td>
                       Last date of registration for the Conference (Attending
                       Only)
                     </td>
-                    <td>October 26 , 2024</td>
+                    <td>October 30 , 2024</td>
                   </tr>
                 </tbody>
               </table>
@@ -163,7 +174,7 @@
                 </tr>
                 <tr>
                   <th scope="col" class="text-center w-25">Category</th>
-                  <th scope="col" class="text-center" style="width: 100px">
+                  <th scope="col" class="text-center w-45" style="width: 100px">
                     Fees
                   </th>
                   <th scope="col" class="text-center">Remarks</th>
@@ -171,14 +182,29 @@
               </thead>
               <tbody>
                 <tr>
-                  <td>With Accommodation</td>
-                  <td class="text-center fs-6">
-                    <span class="text-danger fw-bold"
+                  <td style="background-color: #d1e9fd !important">
+                    With Accommodation
+                  </td>
+                  <td
+                    style="
+                      background-color: #d1e9fd !important;
+                      width: fit-content;
+                    "
+                    class="text-center fs-6"
+                  >
+                    <span class="fw-bold text-danger"
                       >&#8377; 5250 (Inclusive of GST)</span
                     >
                   </td>
                   <!-- <td>The registration fee includes breakfast, lunch, tea/coffee, and dinner for the three days of the conference.</td> -->
-                  <td rowspan="2">
+                  <td
+                    style="
+                      background-color: #a1c3e7 !important;
+                      text-align: center;
+                      align-content: center;
+                    "
+                    rowspan="2"
+                  >
                     Campus Accommodation (Guest House or Hostel as per
                     availability) is from
                     <strong class="text-danger"
@@ -195,10 +221,15 @@
                   </td>
                 </tr>
                 <tr>
-                  <td>Without Accommodation</td>
-                  <td class="text-center fs-6">
-                    <span class="text-danger fw-bold"
-                      >&#8377; 3150(Inclusive of GST)</span
+                  <td style="background-color: #bddaf5 !important">
+                    Without Accommodation
+                  </td>
+                  <td
+                    style="background-color: #bddaf5 !important"
+                    class="text-center fs-6"
+                  >
+                    <span class="fw-bold text-danger"
+                      >&#8377; 3150 (Inclusive of GST)</span
                     >
                   </td>
 

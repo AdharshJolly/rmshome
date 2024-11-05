@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      tbody tr td:nth-child(1) {
+        width: 45%;
+
+        @media screen and (max-width: 600px) {
+          font-size: medium;
+          font-weight: 500;
+        }
+      }
+      tbody tr td:nth-child(2) {
+        width: 45%;
+
+        @media screen and (max-width: 600px) {
+          font-size: medium;
+          font-weight: 500;
+        }
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+
+      tbody tr:nth-child(3n) {
+        background-color: #a1c3e7 !important;
+      }
+
+      tbody tr:nth-child(3n + 1) {
+        background-color: #d1e9fd !important;
+      }
+
+      tbody tr:nth-child(3n + 2) {
+        background-color: #bddaf5 !important;
+      }
+
+      thead tr {
+        background-color: #506c92 !important;
+        color: white;
+
+        th {
+          padding: 10px;
+        }
+      }
+
+      h2 {
+        color: rgb(45, 45, 106);
+      }
+
+      .temp-table {
+        align-content: center;
+        justify-content: center;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="text-center">
+        <h2>Registered Participants</h2>
+        <br />
+
+        <div
+          style="
+            display: flex;
+            padding-left: 5%;
+            padding-right: 5%;
+            align-items: center;
+            justify-content: center;
+          "
+        >
+          <table>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Institution</th>
+              </tr>
+            </thead>
+
+            <tbody id="participants-data">
+              <tr>
+                <td colspan="2" class="temp-table">
+                  Please wait while the data is loading.......
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
