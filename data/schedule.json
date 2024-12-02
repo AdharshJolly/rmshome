@@ -17,109 +17,120 @@
             "date": "27 Dec",
             "time": "12:00 - 12:30",
             "name": "Sudhir R Ghorpade (IIT Bombay)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:30 - 01:00",
             "name": "Gurmeet K. Bakshi (Punjab University)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:30 - 03:00",
             "name": "Anuradha Sharma (IIIT Delhi)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "03:00 - 03:30",
             "name": "A.V. Jayanthan (IIT Madras)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "",
             "name": "",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "28 Dec",
             "time": "10:45 - 11:15",
             "name": "Ananthnarayan Hariharan (IIT Bombay)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:15 - 11:45",
             "name": "Rajiv Kumar (IIT Jammu)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:55 - 12:25",
             "name": "Arindam Banerjee (IIT Kharagpur)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:25 - 12:55",
             "name": "Mousomi Mandal (IIT Kharagpur)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:20 - 02:50",
             "name": "Parangama Sarkar (IIT Palakkad)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:50 - 03:20",
             "name": "Ambili A A (CUSAT)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "",
             "name": "",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "29 Dec",
             "time": "10:45 - 11:15",
             "name": "Mrinal Kanti Das (ISI Kolkata)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:15 - 11:45",
             "name": "Surjeet Kour (IIT Delhi)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:55 - 12:25",
             "name": "Prosenjit Das (IIST Trivandrum)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:25 - 12:55",
             "name": "Dipankar Ghosh (IIT Kharagpur)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:20 - 02:50",
             "name": "Shreedevi Masuti (IIT Dharwad)",
-            "title": ""
-          },
-          {
-            "date": "",
-            "time": "02:50 - 03:20",
-            "name": "",
-            "title": ""
+            "title": "",
+            "link": ""
           }
         ]
       },
@@ -138,109 +149,127 @@
             "date": "27 Dec",
             "time": "12:00 - 12:30",
             "name": "C R Jayanarayanan (IIT Palakkad)",
-            "title": "Strong proximinality of the unit ball of compact operators on Hilbert spaces"
+            "title": "Strong proximinality of the unit ball of compact operators on Hilbert spaces",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:30 - 01:00",
             "name": "Gargi Ghosh (IIT Roorkee)",
-            "title": "$2$-proper holomorphic images of classical Cartan domains"
+            "title": "$2$-proper holomorphic images of classical Cartan domains",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:30 - 03:00",
             "name": "Vamsinadh Thota (NIT Trichy)",
-            "title": "On Equability and Ball Equability in Banach Spaces"
+            "title": "On Equability and Ball Equability in Banach Spaces",
+            "link": ""
           },
           {
             "date": "",
             "time": "03:00 - 03:30",
             "name": "Arpita Mal (DA-IICT, Gandhinagar)",
-            "title": "Extreme points of the unit ball of ${\\cal L}(X)^*_w$ and best approximation in ${\\cal L}(X)_w$"
+            "title": "Extreme points of the unit ball of ${\\cal L}(X)^*_w$ and best approximation in ${\\cal L}(X)_w$",
+            "link": ""
           },
           {
             "date": "",
             "time": "",
             "name": "",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "28 Dec",
             "time": "10:45 - 11:15",
             "name": "M A Sofi (Kashmir University)",
-            "title": "Bilipschitz Embedding Into Hilbert Spaces"
+            "title": "Bilipschitz Embedding Into Hilbert Spaces",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:15 - 11:45",
             "name": "Susmita Seal (RKMVERI)",
-            "title": "Ball separation characterization of dentability and related properties in Banach spaces"
+            "title": "Ball separation characterization of dentability and related properties in Banach spaces",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:55 - 12:25",
             "name": "Anil Karn (NISER)",
-            "title": "On the geometry of an order unit space"
+            "title": "On the geometry of an order unit space",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:25 - 12:55",
             "name": "P Gayathri (NIT Trichy)",
-            "title": "Generalizations of Hahn-Banach extension property"
+            "title": "Generalizations of Hahn-Banach extension property",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:20 - 02:50",
             "name": "Uday Shankar Chakraborty (Assam Univ Silchar)",
-            "title": "On some Bishop-Phelps-Bollob\\'{a}s type properties of operators with respect to minimum norm and Crawford number"
+            "title": "On some Bishop-Phelps-Bollob\\'{a}s type properties of operators with respect to minimum norm and Crawford number",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:50 - 03:20",
             "name": "Neeru Bala (IIT Dhanbad)",
-            "title": "Nayak's Theorem for exponential of compact operators"
+            "title": "Nayak's Theorem for exponential of compact operators",
+            "link": ""
           },
           {
             "date": "",
             "time": "",
             "name": "",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "29 Dec",
             "time": "10:45 - 11:15",
             "name": "Sudeshna Basu (Loyola University Baltimore)",
-            "title": "Diameter 2 Properties in duals of Ideals in Banach Spaces"
+            "title": "Diameter 2 Properties in duals of Ideals in Banach Spaces",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:15 - 11:45",
             "name": "Aryaman Sensarma (NIT Silchar)",
-            "title": "Russo-Dye type Theorem, Stinespring representation, and Radon Nikod\\'ym derivative for invariant block multilinear completely positive maps"
+            "title": "Russo-Dye type Theorem, Stinespring representation, and Radon Nikod\\'ym derivative for invariant block multilinear completely positive maps",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:55 - 12:25",
             "name": "S Lalithambigai (Madurai Kamaraj University)",
-            "title": "Ball Proximinal Banach Spaces"
+            "title": "Ball Proximinal Banach Spaces",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:25 - 12:55",
             "name": "Soumitra Daptari (Shiv Nadar)",
-            "title": "Uniqueness of Hahn-Banach extensions in renorming spaces"
+            "title": "Uniqueness of Hahn-Banach extensions in renorming spaces",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:20 - 02:50",
             "name": "Priyanka Grover (Shiv Nadar)\\",
-            "title": "Distance problems for tuples of operators"
+            "title": "Distance problems for tuples of operators",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:50 - 03:20",
             "name": "Deepak Gothwal (ISIK)",
-            "title": "Residuality of uniformly smooth norms via ball separation"
+            "title": "Residuality of uniformly smooth norms via ball separation",
+            "link": ""
           }
         ]
       },
@@ -251,109 +280,127 @@
             "date": "27 Dec",
             "time": "12:00 - 12:30",
             "name": "Ajay Singh Thakur (IIT Kanpur)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:30 - 01:00",
             "name": "Madeti Prabhakar (IIT Ropar)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:30 - 03:00",
             "name": "C P Anil Kumar (Krea University)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "03:00 - 03:30",
             "name": "Sushil Bhunia (BITS Pilani Hyderabad)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "",
             "name": "",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "28 Dec",
             "time": "10:45 - 11:15",
             "name": "Prateep Chakraborty (IIT Kharagpur)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:15 - 11:45",
             "name": "Soma Maity (IISER Mohali)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:55 - 12:25",
             "name": "Atreyee Bhattacharya (IISER Bhopal)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:25 - 12:55",
             "name": "Neeraj K. Dhanwani (IISER Mohali)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:20 - 02:50",
             "name": "Sourav Ghosh (Ashoka University)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:50 - 03:20",
             "name": "Bankteshwar Tiwari (BHU, Varanasi)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "",
             "name": "",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "29 Dec",
             "time": "10:45 - 11:15",
             "name": "Gautam Bharali (IISc Bengaluru)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:15 - 11:45",
             "name": "Pratulananda Das (Jadavpur University Kolkata)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:55 - 12:25",
             "name": "Kuldeep Saha (TCG CREST Kolkata)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:25 - 12:55",
             "name": "Shubhabrata Das (Presidency University Kolkata)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:20 - 02:50",
             "name": "Arpan Kabiraj (IIT Palakkad)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:50 - 03:20",
             "name": "Gangotryi Sorcar (Karlsruhe Institute of Technology)",
-            "title": ""
+            "title": "",
+            "link": ""
           }
         ]
       },
@@ -368,109 +415,127 @@
             "date": "27 Dec",
             "time": "12:00 - 12:30",
             "name": "Narayanan E. K. (IISc Bangalore)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:30 - 01:00",
             "name": "Sanjay Parui (NISER Bhubaneswar)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:30 - 03:00",
             "name": "Pradeep Boggarapu (BITS Goa)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "03:00 - 03:30",
             "name": "Samya Kumar Ray (IISER Thiruvananthapuram)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "",
             "name": "",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "28 Dec",
             "time": "10:45 - 11:15",
             "name": "Pratyoosh Kumar (IIT Guwahati)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:15 - 11:45",
             "name": "Suparna Sen (University of Calcutta)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:55 - 12:25",
             "name": "M. Sundari (CMI)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:25 - 12:55",
             "name": "Amit Samanta (RKMVERI)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:20 - 02:50",
             "name": "Muna Naik (IISc Bangalore)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:50 - 03:20",
             "name": "Jayanta Sarkar (IISER Kolkata)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "",
             "name": "",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "29 Dec",
             "time": "10:45 - 11:15",
             "name": "Sayan Bagchi (IISER Kolkata)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:15 - 11:45",
             "name": "Ramesh Manna (NISER Bhubaneswar)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:55 - 12:25",
             "name": "Jotsaroop Kaur (IISER Mohali)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:25 - 12:55",
             "name": "Senthil Raani KS (IISER Berhampur)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:20 - 02:50",
             "name": "Shyam Swarup Mondal (ISI Kolkata)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:50 - 03:20",
             "name": "Somnath Ghosh (IISc Bangalore)",
-            "title": ""
+            "title": "",
+            "link": ""
           }
         ]
       },
@@ -481,109 +546,127 @@
             "date": "27 Dec",
             "time": "12:00 - 12:30",
             "name": "Anup Biswas (IISER Pune)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:30 - 01:00",
             "name": "Prashanta Garain (IISER Berhampur)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:30 - 03:00",
             "name": "Arka Mallick (IISc Bangalore)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "03:00 - 03:30",
             "name": "Indranil Chowdhury (IIT Kanpur)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "",
             "name": "",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "28 Dec",
             "time": "10:45 - 11:15",
             "name": "Tuhin Ghosh (HRI Allahabad)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:15 - 11:45",
             "name": "Divyang Bhimani (IISER Pune)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:55 - 12:25",
             "name": "Debayan Maity (TIFR-CAM Bangalore)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:25 - 12:55",
             "name": "Rajib Dutta (IISER Kolkata)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:20 - 02:50",
             "name": "Shirshendu Chowdhury (IISER Kolkata)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:50 - 03:20",
             "name": "Amrita Ghosh (HRI Allahabad)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "",
             "name": "",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "29 Dec",
             "time": "10:45 - 11:15",
             "name": "Mousomi Bhakta (IISER Pune)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:15 - 11:45",
             "name": "Abhishek Sarkar (IIT Jodhpur)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:55 - 12:25",
             "name": "Debanjan Nandi (IISc Bangalore)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:25 - 12:55",
             "name": "Mayukh Mukherjee (IIT Bombay)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:20 - 02:50",
             "name": "Debabrata Karmakar (TIFR-CAM Bangalore)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:50 - 03:20",
             "name": "Jotsaroop Kaur (IISER Mohali)",
-            "title": ""
+            "title": "",
+            "link": ""
           }
         ]
       },
@@ -594,109 +677,127 @@
             "date": "27 Dec",
             "time": "12:00 - 12:30",
             "name": "Gugan Thoppe (IISc)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:30 - 01:00",
             "name": "Kumarjit Saha (Ashoka University)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:30 - 03:00",
             "name": "Atul Shekhar (TIFR-CAM)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "03:00 - 03:30",
             "name": "Debanjan Nandi (IISc)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "",
             "name": "",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "28 Dec",
             "time": "10:45 - 11:15",
             "name": "Veeraruna Kavitha (IIT Bombay)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:15 - 11:45",
             "name": "Subhamay Saha (IIT Guwahati)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:55 - 12:25",
             "name": "Souvik Roy (ISI Kolkata)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:25 - 12:55",
             "name": "Nishant Chandgotia (TIFR-CAM)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:20 - 02:50",
             "name": "Suprio Bhar (IIT Kanpur)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:50 - 03:20",
             "name": "Ayan Bhattacharya (IIT Bombay)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "",
             "name": "",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "29 Dec",
             "time": "10:45 - 11:15",
             "name": "Debleena Thacker (University of Durham)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:15 - 11:45",
             "name": "Somya Singh (IIT Bombay)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:55 - 12:25",
             "name": "Chetan D. Pahlajani (IIT Gandhinagar)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:25 - 12:55",
             "name": "Chaman Kumar (IIT Roorkee)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:20 - 02:50",
             "name": "Ananya Lahiri (IIT Tirupati)",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:50 - 03:20",
             "name": "Anand Deo (IIM Bangalore)",
-            "title": ""
+            "title": "",
+            "link": ""
           }
         ]
       },
@@ -707,109 +808,127 @@
             "date": "27 Dec",
             "time": "12:00 - 12:30",
             "name": "Shaunak Deo (IISc Bengaluru)",
-            "title": "Level raising for modular forms in the residually reducible case"
+            "title": "Level raising for modular forms in the residually reducible case",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:30 - 01:00",
             "name": "Shalini Bhattacharya (University of Hyderabad)",
-            "title": "Mod p reduction of Galois representations via LLC"
+            "title": "Mod p reduction of Galois representations via LLC",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:30 - 03:00",
             "name": "Veekesh Kumar (IIT Dharwad)",
-            "title": "Rational approximations to linear combinations of powers of algebraic numbers"
+            "title": "Rational approximations to linear combinations of powers of algebraic numbers",
+            "link": ""
           },
           {
             "date": "",
             "time": "03:00 - 03:30",
             "name": "Divyum Sharma (BITS Pilani)",
-            "title": "On Diophantine equations arising from numeration systems"
+            "title": "On Diophantine equations arising from numeration systems",
+            "link": ""
           },
           {
             "date": "",
             "time": "",
             "name": "",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "28 Dec",
             "time": "10:45 - 11:15",
             "name": "Somnath Jha (IIT Kanpur)",
-            "title": "Some cases of the cube sum problem"
+            "title": "Some cases of the cube sum problem",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:15 - 11:45",
             "name": "Balesh Kumar (IIT Ropar)",
-            "title": "Traces of (sesqui)-harmonic Maass forms and its arithmetic"
+            "title": "Traces of (sesqui)-harmonic Maass forms and its arithmetic",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:55 - 12:25",
             "name": "Supriya Pisolkar (IISER Pune)",
-            "title": "Uniform Groups & the Fontaine-Mazur Conjecture"
+            "title": "Uniform Groups & the Fontaine-Mazur Conjecture",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:25 - 12:55",
             "name": "Mihir Sheth (IISc Bangalore)",
-            "title": "Strong linear independence of primitive forms"
+            "title": "Strong linear independence of primitive forms",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:20 - 02:50",
             "name": "Bidisha Roy (IIT Tirupati)",
-            "title": "Geometric interpretation of certain moments of Hypergeometric character sums"
+            "title": "Geometric interpretation of certain moments of Hypergeometric character sums",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:50 - 03:20",
             "name": "Anupam Saikia (IIT Guwahati)",
-            "title": "A criterion for congruent numbers in terms of class number of associated quadratic fields"
+            "title": "A criterion for congruent numbers in terms of class number of associated quadratic fields",
+            "link": ""
           },
           {
             "date": "",
             "time": "",
             "name": "",
-            "title": ""
+            "title": "",
+            "link": ""
           },
           {
             "date": "29 Dec",
             "time": "10:45 - 11:15",
             "name": "Brundaban Sahu (NISER Bhubaneswar)",
-            "title": "Nonvanishing of kernel functions and Poincar ́e series for Jacobi forms"
+            "title": "Nonvanishing of kernel functions and Poincar ́e series for Jacobi forms",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:15 - 11:45",
             "name": "Sudipa Mondal (IIT Madras)",
-            "title": "Quadratic twist of epsilon factor of symmetric power transfers of a modular form"
+            "title": "Quadratic twist of epsilon factor of symmetric power transfers of a modular form",
+            "link": ""
           },
           {
             "date": "",
             "time": "11:55 - 12:25",
             "name": "Ekata Saha (IIT Delhi)",
-            "title": "Arithmetic nature of special values of the incomplete gamma and beta functions"
+            "title": "Arithmetic nature of special values of the incomplete gamma and beta functions",
+            "link": ""
           },
           {
             "date": "",
             "time": "12:25 - 12:55",
             "name": "Biswajyoti Saha (IIT Delhi)",
-            "title": "Convergence of multiple polylogarithm at integer point outside the domain of absolute convergence"
+            "title": "Convergence of multiple polylogarithm at integer point outside the domain of absolute convergence",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:20 - 02:50",
             "name": "Jyothsnaa Sivaraman (IISER Thiruvananthapuram)",
-            "title": "Products of primes in ray classes"
+            "title": "Products of primes in ray classes",
+            "link": ""
           },
           {
             "date": "",
             "time": "02:50 - 03:20",
             "name": "Keshav Aggarwal (IIT Bombay)",
-            "title": "Short second moment bound and subconvexity for GL(3) L-functions"
+            "title": "Short second moment bound and subconvexity for GL(3) L-functions",
+            "link": ""
           }
         ]
       }

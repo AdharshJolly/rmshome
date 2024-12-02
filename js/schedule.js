@@ -28,6 +28,7 @@ fetch("/data/schedule.json")
                       <td>Time</td>
                       <td>Speaker</td>
                       <td>Title of the talk</td>
+                      <td>Link</td>
                     </tr>
                   </thead>
 
@@ -36,11 +37,26 @@ fetch("/data/schedule.json")
 
           sc.data.map((d) => {
             out += `
-            <tr>
-                      <td style="min-width: fit-content; text-wrap: nowrap">${d.date}</td>
-                      <td style="min-width: fit-content; text-wrap: nowrap">${d.time}</td>
-                      <td style="min-width: fit-content; text-wrap: nowrap">${d.name}</td>
+            <tr style="height: 40px">
+                      <td style="min-width: fit-content; text-wrap: nowrap">${
+                        d.date
+                      }</td>
+                      <td style="min-width: fit-content; text-wrap: nowrap">${
+                        d.time
+                      }</td>
+                      <td style="min-width: fit-content; text-wrap: nowrap">${
+                        d.name
+                      }</td>
                       <td>${d.title}</td>
+                      <td>
+                      
+                        ${
+                          item.link
+                            ? `<a class="download-link" href=${item.link}><i class="fa-solid fa-download"></i></a>`
+                            : ``
+                        }
+                      
+                    </td>
                     </tr>
                   
         `;
@@ -64,6 +80,7 @@ fetch("/data/schedule.json")
                   <td>Time</td>
                   <td>Speaker</td>
                   <td>Title of the talk</td>
+                  <td>Link</td>
                 </tr>
               </thead>
 
@@ -75,10 +92,25 @@ fetch("/data/schedule.json")
           out += `
 
                 <tr>
-                  <td style="min-width: fit-content; text-wrap: nowrap">${d.date}</td>
-                  <td style="min-width: fit-content; text-wrap: nowrap">${d.time}</td>
-                  <td style="min-width: fit-content; text-wrap: nowrap">${d.name}</td>
+                  <td style="min-width: fit-content; text-wrap: nowrap">${
+                    d.date
+                  }</td>
+                  <td style="min-width: fit-content; text-wrap: nowrap">${
+                    d.time
+                  }</td>
+                  <td style="min-width: fit-content; text-wrap: nowrap">${
+                    d.name
+                  }</td>
                   <td>${d.title}</td>
+                  <td>
+                      
+                        ${
+                          item.link
+                            ? `<a class="download-link" href=${item.link}><i class="fa-solid fa-download"></i></a>`
+                            : ``
+                        }
+                      
+                    </td>
                 </tr>
 
           `;
