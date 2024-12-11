@@ -675,129 +675,131 @@
         "data": [
           {
             "date": "27 Dec",
+            "chair": "Kumarjit Saha",
+            "time": "10:50 - 11:20",
+            "name": "Nishant Chandgotia (TIFR-CAM)",
+            "title": "Forbidding patterns: Some simple combinatorics and some seemingly difficult questions.",
+            "link": "https://drive.google.com/file/d/14Hz7RKVaHgN3zc0R97TEKEGPqPdZ8hSw/view?usp=drive_link"
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "11:20 - 11:50",
+            "name": "Debanjan Nandi (IISc)",
+            "title": "Random walks in hyperbolic groups, Lyons-Sullivan discretizations and Martin boundaries",
+            "link": "https://drive.google.com/file/d/1po3SJHXuamIE16S2rsxZAkVLSjJYIBrd/view?usp=drive_link"
+          },
+          {
+            "date": "",
+            "chair": "Debleena Thacker",
             "time": "12:00 - 12:30",
             "name": "Gugan Thoppe (IISc)",
-            "title": "",
-            "link": ""
+            "title": "The Shadow Knows: Empirical Distributions of Minimum Spanning Acycles and Persistence Diagrams of Random Complexes.",
+            "link": "https://drive.google.com/file/d/1hyX6RiZmAYpi7j4yMoeMFKyqiGLvzLkI/view?usp=drive_link"
           },
           {
             "date": "",
+            "chair": "",
             "time": "12:30 - 01:00",
             "name": "Kumarjit Saha (Ashoka University)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:30 - 03:00",
-            "name": "Atul Shekhar (TIFR-CAM)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "03:00 - 03:30",
-            "name": "Debanjan Nandi (IISc)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "",
-            "name": "",
-            "title": "",
-            "link": ""
+            "title": "A continuum oriented percolation model.",
+            "link": "https://drive.google.com/file/d/1YuHOF2ttyZkAx-lgmmNG8G3MKKshJQRm/view?usp=drive_link"
           },
           {
             "date": "28 Dec",
+            "chair": "Gugan Thoppe",
             "time": "10:45 - 11:15",
             "name": "Veeraruna Kavitha (IIT Bombay)",
-            "title": "",
-            "link": ""
+            "title": "Behavioral game dynamics with rational and irrational players.",
+            "link": "https://drive.google.com/file/d/1UShc6dv_rHHA8Qg8Q3xvskYpieBMqc2M/view?usp=drive_link"
           },
           {
             "date": "",
+            "chair": "",
             "time": "11:15 - 11:45",
             "name": "Subhamay Saha (IIT Guwahati)",
-            "title": "",
-            "link": ""
+            "title": "Zero Sum Risk-sensitive Semi-Markov Games.",
+            "link": "https://drive.google.com/file/d/1n-LwkeZsNpoOYkA4wN6SzLMMeOXx8jcv/view?usp=drive_link"
           },
           {
             "date": "",
+            "chair": "Subhamay Saha",
             "time": "11:55 - 12:25",
             "name": "Souvik Roy (ISI Kolkata)",
-            "title": "",
-            "link": ""
+            "title": "Aggregation of Choice Functions on Non-rational Domains.",
+            "link": "https://drive.google.com/file/d/1O0tsyDQXBwPavK0LM3MZKQ60ZjeziYKr/view?usp=drive_link"
           },
           {
             "date": "",
+            "chair": "",
             "time": "12:25 - 12:55",
-            "name": "Nishant Chandgotia (TIFR-CAM)",
-            "title": "",
-            "link": ""
+            "name": "Atul Shekhar (TIFR-CAM)",
+            "title": "On the domain of attraction of Branching Brownian motion.",
+            "link": "https://drive.google.com/file/d/1046J9tShgfbHnTLY-GP-NhjlQh5aQilz/view?usp=drive_link"
           },
           {
             "date": "",
+            "chair": "Atul Shekhar",
             "time": "02:20 - 02:50",
             "name": "Suprio Bhar (IIT Kanpur)",
-            "title": "",
-            "link": ""
+            "title": "Kac’s Central Limit Theorem by Stein’s Method.",
+            "link": "https://drive.google.com/file/d/1tFiMCHTaAjIwqNdX8KMi3DnaMmOXMp4R/view?usp=drive_link"
           },
           {
             "date": "",
+            "chair": "",
             "time": "02:50 - 03:20",
             "name": "Ayan Bhattacharya (IIT Bombay)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "",
-            "name": "",
-            "title": "",
-            "link": ""
+            "title": "Persistence exponent of the regular varying random walk.",
+            "link": "https://drive.google.com/file/d/1Nw98fWnwjViGEAlG8JT3p6jqIuNDA8dY/view?usp=drive_link"
           },
           {
             "date": "29 Dec",
+            "chair": "Ayan Bhattacharya",
             "time": "10:45 - 11:15",
             "name": "Debleena Thacker (University of Durham)",
-            "title": "",
-            "link": ""
+            "title": "Long-range one-dimensional internal-diffusion aggregation.",
+            "link": "https://drive.google.com/file/d/1YE2JyOuVFMYXjuLYGduyg2jApMDmoTQb/view?usp=drive_link"
           },
           {
             "date": "",
+            "chair": "",
             "time": "11:15 - 11:45",
             "name": "Somya Singh (IIT Bombay)",
-            "title": "",
-            "link": ""
+            "title": "An interacting network of finite memory P ́olya urns.",
+            "link": "https://drive.google.com/file/d/1_fIvq1XU-zQ7FPxa14ZEba0FjMmBaKoV/view?usp=drive_link"
           },
           {
             "date": "",
+            "chair": " ",
             "time": "11:55 - 12:25",
             "name": "Chetan D. Pahlajani (IIT Gandhinagar)",
-            "title": "",
-            "link": ""
+            "title": "Some limit theorems for stochastic differential equations with small random noise and fast periodic sampling.",
+            "link": "https://drive.google.com/file/d/1aiVMgXcqtVTw3mSlgf3Z3o9TlLjlpOYg/view?usp=drive_link"
           },
           {
             "date": "",
+            "chair": "",
             "time": "12:25 - 12:55",
             "name": "Chaman Kumar (IIT Roorkee)",
-            "title": "",
-            "link": ""
+            "title": "First-order scheme for stochastic differential equations with Markovian switching and L ́evy noise.",
+            "link": "https://drive.google.com/file/d/1Qx3NFWqI1fIcG69qZmRo0VM9jaRk4hn1/view?usp=drive_link"
           },
           {
             "date": "",
+            "chair": "Chaman Kumar",
             "time": "02:20 - 02:50",
             "name": "Ananya Lahiri (IIT Tirupati)",
-            "title": "",
-            "link": ""
+            "title": "A lagged cross correction model for dependent data with memory and its application in finance.",
+            "link": "https://drive.google.com/file/d/1aFfCvjzUOice_R_df371YB4MwET6Z13_/view?usp=drive_link"
           },
           {
             "date": "",
+            "chair": "",
             "time": "02:50 - 03:20",
             "name": "Anand Deo (IIM Bangalore)",
-            "title": "",
-            "link": ""
+            "title": "Quantifying the cost of safe decision making through analysis of chance constrained optimization problems.",
+            "link": "https://drive.google.com/file/d/1hCfQ1jZ9F85bIJhRaZJgoMgomhvUBPRm/view?usp=drive_link"
           }
         ]
       },

@@ -12,6 +12,8 @@ fetch("/data/schedule.json")
         <div class="content">
       `;
       if (item.subcategory) {
+        let colors = ["#a1c3e7", "#d1e9fd", "#bddaf5"];
+        let i = 0;
         item.subcategory.map((sc) => {
           out += `
           
@@ -24,7 +26,7 @@ fetch("/data/schedule.json")
                 <table class="schedule-table table table-bordered align-middle abot-txt-innr">
                   <thead>
                     <tr>
-                      <td>Date</td>
+                      <td>Chair</td>
                       <td>Time</td>
                       <td>Speaker</td>
                       <td>Title of the talk</td>
@@ -36,11 +38,24 @@ fetch("/data/schedule.json")
                     `;
 
           sc.data.map((d) => {
+            if (d.chair) i++;
+            if (i > colors.length - 1) i = 0;
+
+            if (d.date) {
+              out += `<tr style="height: 40px">
+                <td colspan="5" style="text-align: center !important; width: 100%; font-weight: bold;">${d.date}</td>
+              </tr>`;
+            }
+
             out += `
-            <tr style="height: 40px">
-                      <td style="min-width: fit-content; text-wrap: nowrap">${
-                        d.date
-                      }</td>
+            <tr style="height: 40px; background-color: ${colors[i]} !important">
+                      ${
+                        d.chair
+                          ? `<td rowspan="2" style="min-width: fit-content;vertical-align : middle; text-wrap: nowrap; text-align: center !important;">${
+                              d.chair || ` `
+                            }</td>`
+                          : ``
+                      }
                       <td style="min-width: fit-content; text-wrap: nowrap">${
                         d.time
                       }</td>
@@ -51,9 +66,9 @@ fetch("/data/schedule.json")
                       <td>
                       
                         ${
-                          item.link
-                            ? `<a class="download-link" href=${item.link}><i class="fa-solid fa-download"></i></a>`
-                            : ``
+                          d.link
+                            ? `<a class="download-link" href=${d.link}><i class="fa-solid fa-download"></i></a>`
+                            : ` `
                         }
                       
                     </td>
