@@ -15,6 +15,7 @@ fetch("/data/schedule.json")
         let colors = ["#a1c3e7", "#d1e9fd", "#bddaf5"];
         let i = 0;
         item.subcategory.map((sc) => {
+          if (sc.data.length <= 0) return;
           out += `
           
           <div style="padding: 4px 2px">
