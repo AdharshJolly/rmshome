@@ -111,6 +111,18 @@
     .timing-table tr:nth-child(2) {
       background-color: #a1c3e7 !important;
     }
+
+    .card {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      min-width: 0;
+      word-wrap: break-word;
+      background-color: #fff;
+      background-clip: border-box;
+      border: 1px solid rgba(0, 0, 0, 0.125);
+      border-radius: 0.25rem;
+    }
   </style>
 
   <body>
@@ -233,6 +245,33 @@
           </tbody>
         </table>
       </div>
+    </div>
+
+    <div
+      class="p-2 m-0 card mt-2"
+      style="
+        padding: 10px;
+        margin-top: 2px;
+        margin-left: 1.5%;
+        margin-right: 1.5%;
+      "
+    >
+      <p style="font-size: large; font-weight: bold; margin: 5px">
+        <span
+          style="
+            padding: 5px;
+            background-color: orange;
+            color: black;
+            max-width: fit-content;
+            border-radius: 10px;
+          "
+          >Key points</span
+        >
+      </p>
+
+      <p class="m-0 mt-2"><strong>ST</strong>: Symposia talk.</p>
+      <p class="m-0 mt-2"><strong>CT</strong>: Contributory talk.</p>
+      <p class="m-0 mt-2"><strong>GBM</strong>: General body meeting.</p>
     </div>
 
     <div>
