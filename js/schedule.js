@@ -43,15 +43,17 @@ fetch("/data/schedule.json")
 
             if (d.date) {
               out += `<tr style="height: 40px">
-                <td colspan="5" style="text-align: center !important; width: 100%; font-weight: bold;">${d.date}</td>
+                <td colspan="5" style="text-align: center !important; background-color:#FAF9F6 !important; width: 100%; font-weight: bold;">${d.date}</td>
               </tr>`;
+
+              i = 1;
             }
 
             out += `
             <tr style="height: 40px; background-color: ${colors[i]} !important">
                       ${
                         d.chair
-                          ? `<td rowspan="2" style="min-width: fit-content;vertical-align : middle; text-wrap: nowrap; text-align: center !important;">${
+                          ? `<td rowspan="2" style="min-width: fit-content; vertical-align : middle; text-wrap: nowrap; text-align: center !important;">${
                               d.chair || ` `
                             }</td>`
                           : ``

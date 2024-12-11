@@ -1,142 +1,193 @@
 [
   {
     "category": "Plenary Talks",
-    "data": []
+    "data": [
+      {
+        "date": "27 Dec",
+        "chair": " ",
+        "time": "09:20 - 10:20",
+        "name": "Maithilly Ramaswamy (TIFR – CAM, Bangalore)",
+        "title": "",
+        "link": ""
+      },
+      {
+        "date": "27 Dec",
+        "chair": " ",
+        "time": "04:00 - 05:00",
+        "name": "Nikita Agarwal (IISER, Bhopal)",
+        "title": "Symbolic Dynamics, Combinatorics on Words and Escape Rate",
+        "link": ""
+      },
+      {
+        "date": "28 Dec",
+        "chair": " ",
+        "time": "09:15 - 10:15",
+        "name": "Anish Ghosh (TIFR, Mumbai)",
+        "title": "Shrinking targets: geometry, ergodic theory and number theory",
+        "link": ""
+      },
+      {
+        "date": "29 Dec",
+        "chair": " ",
+        "time": "03:50 - 04:50",
+        "name": "Harish Seshadri (IISc, Bangalore)",
+        "title": "Comparison geometry of Kahler manifolds",
+        "link": ""
+      }
+    ]
   },
   {
     "category": "Public Talks",
-    "data": []
+    "data": [
+      {
+        "date": "28 Dec",
+        "chair": " ",
+        "time": "05:00 - 06:00",
+        "name": "B Sury (ISI, Bangalore)",
+        "title": "",
+        "link": ""
+      }
+    ]
   },
   {
     "category": "Symposia Talks",
     "subcategory": [
       {
         "category": "Algebra",
+        "data": []
+      },
+      {
+        "category": "Algebraic Geometry",
         "data": [
           {
             "date": "27 Dec",
+            "chair": "Pranav Pandit",
+            "time": "10:50 - 11:20",
+            "name": "Poornapushkala Narayan (MSE, Chennai)",
+            "title": "Lazarsfeld-Mukai bundles and parabolic structures",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "11:20 - 11:50",
+            "name": "Anoop Singh (IIT BHU)",
+            "title": "On the moduli space of Lie algebroid connections over a compact Riemann surface",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "Mainak Poddar",
             "time": "12:00 - 12:30",
-            "name": "Sudhir R Ghorpade (IIT Bombay)",
-            "title": "",
+            "name": "Sudarshan Gurjar (IIT Bombay)",
+            "title": "Eilenberg MacLane surfaces in Algebraic Geometry",
             "link": ""
           },
           {
             "date": "",
+            "chair": "",
             "time": "12:30 - 01:00",
-            "name": "Gurmeet K. Bakshi (Punjab University)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:30 - 03:00",
-            "name": "Anuradha Sharma (IIIT Delhi)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "03:00 - 03:30",
-            "name": "A.V. Jayanthan (IIT Madras)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "",
-            "name": "",
-            "title": "",
+            "name": "Pranav Pandit (ICTS)",
+            "title": "Towards a categorical Donaldson-Uhlenbeck-Yau correspondence",
             "link": ""
           },
           {
             "date": "28 Dec",
+            "chair": "Anoop Singh",
             "time": "10:45 - 11:15",
-            "name": "Ananthnarayan Hariharan (IIT Bombay)",
-            "title": "",
+            "name": "Parvez Raul (IIT Bombay)",
+            "title": "Irreducibility of some Quot schemes on Nodal curves",
             "link": ""
           },
           {
             "date": "",
+            "chair": "",
             "time": "11:15 - 11:45",
-            "name": "Rajiv Kumar (IIT Jammu)",
-            "title": "",
+            "name": "Samarpita Ray (ISI Bangalore)",
+            "title": "The topological shadow of F1-geometry: congruence spaces",
             "link": ""
           },
           {
             "date": "",
+            "chair": "Sudarshan Gurjar",
             "time": "11:55 - 12:25",
-            "name": "Arindam Banerjee (IIT Kharagpur)",
-            "title": "",
+            "name": "Arijith Mukherjee (IIT Madras)",
+            "title": "Multi Symmetric products of curves and their relevance to the matrix divisors.",
             "link": ""
           },
           {
             "date": "",
+            "chair": "",
             "time": "12:25 - 12:55",
-            "name": "Mousomi Mandal (IIT Kharagpur)",
-            "title": "",
+            "name": "Arijith Dey (IIT Madras)",
+            "title": "Brauer group of moduli spaces.",
             "link": ""
           },
           {
             "date": "",
+            "chair": "Arijith Dey",
             "time": "02:20 - 02:50",
-            "name": "Parangama Sarkar (IIT Palakkad)",
-            "title": "",
+            "name": "Mainak Poddar (IISER Pune)",
+            "title": "Equivariant bundles on toric DM stacks",
             "link": ""
           },
           {
             "date": "",
+            "chair": "",
             "time": "02:50 - 03:20",
-            "name": "Ambili A A (CUSAT)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "",
-            "name": "",
-            "title": "",
+            "name": "Jyoti Dasgupta (IIT Dhanbad)",
+            "title": "Equivariant Vector Bundles on complexity-one T-varieties and Bruhat-Tits buildings",
             "link": ""
           },
           {
             "date": "29 Dec",
+            "chair": "Samarpita Ray",
+            "time": "09:15 - 09:45",
+            "name": "Bivas Khan (CMI)",
+            "title": "Tropical Vector Bundles.",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "09:45 - 10:15",
+            "name": "Pavan Adroja (IIT Gandhinagar)",
+            "title": "On certain Tannakian fundamental group schemes",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "Mandira Mondal",
             "time": "10:45 - 11:15",
-            "name": "Mrinal Kanti Das (ISI Kolkata)",
-            "title": "",
+            "name": "Ashima Bansal (IISER, Tirupati)",
+            "title": "The Nagata Conjecture over characteristic zero fields.",
             "link": ""
           },
           {
             "date": "",
+            "chair": "",
             "time": "11:15 - 11:45",
-            "name": "Surjeet Kour (IIT Delhi)",
-            "title": "",
+            "name": "Gopinath Sahoo (TIFR)",
+            "title": "Tensor t-structures on the derived categories and perversity functions",
             "link": ""
           },
           {
             "date": "",
+            "chair": "Poornapushkala Narayan",
             "time": "11:55 - 12:25",
-            "name": "Prosenjit Das (IIST Trivandrum)",
-            "title": "",
+            "name": "Sreenanda SB (UoH)",
+            "title": "Application Of Polynomials That Exactly Counts Double Exponential",
             "link": ""
           },
           {
             "date": "",
+            "chair": "",
             "time": "12:25 - 12:55",
-            "name": "Dipankar Ghosh (IIT Kharagpur)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:20 - 02:50",
-            "name": "Shreedevi Masuti (IIT Dharwad)",
-            "title": "",
+            "name": "Mandira Mondal (UoH)",
+            "title": "Polynomial invariant rings of finite groups",
             "link": ""
           }
         ]
-      },
-      {
-        "category": "Algebraic Geometry",
-        "data": []
       },
       {
         "category": "Complex Analysis",
@@ -144,265 +195,11 @@
       },
       {
         "category": "Functional Analysis",
-        "data": [
-          {
-            "date": "27 Dec",
-            "time": "12:00 - 12:30",
-            "name": "C R Jayanarayanan (IIT Palakkad)",
-            "title": "Strong proximinality of the unit ball of compact operators on Hilbert spaces",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "12:30 - 01:00",
-            "name": "Gargi Ghosh (IIT Roorkee)",
-            "title": "$2$-proper holomorphic images of classical Cartan domains",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:30 - 03:00",
-            "name": "Vamsinadh Thota (NIT Trichy)",
-            "title": "On Equability and Ball Equability in Banach Spaces",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "03:00 - 03:30",
-            "name": "Arpita Mal (DA-IICT, Gandhinagar)",
-            "title": "Extreme points of the unit ball of ${\\cal L}(X)^*_w$ and best approximation in ${\\cal L}(X)_w$",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "",
-            "name": "",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "28 Dec",
-            "time": "10:45 - 11:15",
-            "name": "M A Sofi (Kashmir University)",
-            "title": "Bilipschitz Embedding Into Hilbert Spaces",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "11:15 - 11:45",
-            "name": "Susmita Seal (RKMVERI)",
-            "title": "Ball separation characterization of dentability and related properties in Banach spaces",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "11:55 - 12:25",
-            "name": "Anil Karn (NISER)",
-            "title": "On the geometry of an order unit space",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "12:25 - 12:55",
-            "name": "P Gayathri (NIT Trichy)",
-            "title": "Generalizations of Hahn-Banach extension property",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:20 - 02:50",
-            "name": "Uday Shankar Chakraborty (Assam Univ Silchar)",
-            "title": "On some Bishop-Phelps-Bollob\\'{a}s type properties of operators with respect to minimum norm and Crawford number",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:50 - 03:20",
-            "name": "Neeru Bala (IIT Dhanbad)",
-            "title": "Nayak's Theorem for exponential of compact operators",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "",
-            "name": "",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "29 Dec",
-            "time": "10:45 - 11:15",
-            "name": "Sudeshna Basu (Loyola University Baltimore)",
-            "title": "Diameter 2 Properties in duals of Ideals in Banach Spaces",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "11:15 - 11:45",
-            "name": "Aryaman Sensarma (NIT Silchar)",
-            "title": "Russo-Dye type Theorem, Stinespring representation, and Radon Nikod\\'ym derivative for invariant block multilinear completely positive maps",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "11:55 - 12:25",
-            "name": "S Lalithambigai (Madurai Kamaraj University)",
-            "title": "Ball Proximinal Banach Spaces",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "12:25 - 12:55",
-            "name": "Soumitra Daptari (Shiv Nadar)",
-            "title": "Uniqueness of Hahn-Banach extensions in renorming spaces",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:20 - 02:50",
-            "name": "Priyanka Grover (Shiv Nadar)\\",
-            "title": "Distance problems for tuples of operators",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:50 - 03:20",
-            "name": "Deepak Gothwal (ISIK)",
-            "title": "Residuality of uniformly smooth norms via ball separation",
-            "link": ""
-          }
-        ]
+        "data": []
       },
       {
         "category": "Geometry and Topology",
-        "data": [
-          {
-            "date": "27 Dec",
-            "time": "12:00 - 12:30",
-            "name": "Ajay Singh Thakur (IIT Kanpur)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "12:30 - 01:00",
-            "name": "Madeti Prabhakar (IIT Ropar)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:30 - 03:00",
-            "name": "C P Anil Kumar (Krea University)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "03:00 - 03:30",
-            "name": "Sushil Bhunia (BITS Pilani Hyderabad)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "",
-            "name": "",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "28 Dec",
-            "time": "10:45 - 11:15",
-            "name": "Prateep Chakraborty (IIT Kharagpur)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "11:15 - 11:45",
-            "name": "Soma Maity (IISER Mohali)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "11:55 - 12:25",
-            "name": "Atreyee Bhattacharya (IISER Bhopal)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "12:25 - 12:55",
-            "name": "Neeraj K. Dhanwani (IISER Mohali)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:20 - 02:50",
-            "name": "Sourav Ghosh (Ashoka University)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:50 - 03:20",
-            "name": "Bankteshwar Tiwari (BHU, Varanasi)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "",
-            "name": "",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "29 Dec",
-            "time": "10:45 - 11:15",
-            "name": "Gautam Bharali (IISc Bengaluru)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "11:15 - 11:45",
-            "name": "Pratulananda Das (Jadavpur University Kolkata)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "11:55 - 12:25",
-            "name": "Kuldeep Saha (TCG CREST Kolkata)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "12:25 - 12:55",
-            "name": "Shubhabrata Das (Presidency University Kolkata)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:20 - 02:50",
-            "name": "Arpan Kabiraj (IIT Palakkad)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:50 - 03:20",
-            "name": "Gangotryi Sorcar (Karlsruhe Institute of Technology)",
-            "title": "",
-            "link": ""
-          }
-        ]
+        "data": []
       },
       {
         "category": "Groups and their Representations",
@@ -413,262 +210,137 @@
         "data": [
           {
             "date": "27 Dec",
-            "time": "12:00 - 12:30",
+            "chair": " ",
+            "time": "10:50 - 11:20",
             "name": "Narayanan E. K. (IISc Bangalore)",
-            "title": "",
+            "title": "Homogeneous operators and Mackey’s imprimitivity theorem",
             "link": ""
           },
           {
             "date": "",
-            "time": "12:30 - 01:00",
+            "chair": "",
+            "time": "11:20 - 11:50",
+            "name": "Sayan Bagchi (IISER Kolkata)",
+            "title": "On pseudo-multipliers associated to Grushin operators.",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": " ",
+            "time": "12:00 - 12:30",
             "name": "Sanjay Parui (NISER Bhubaneswar)",
-            "title": "",
+            "title": "Boundedness of Differential Transforms for Dunkl Heat Semigroups",
             "link": ""
           },
           {
             "date": "",
-            "time": "02:30 - 03:00",
+            "chair": "",
+            "time": "12:30 - 01:00",
             "name": "Pradeep Boggarapu (BITS Goa)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "03:00 - 03:30",
-            "name": "Samya Kumar Ray (IISER Thiruvananthapuram)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "",
-            "name": "",
-            "title": "",
+            "title": "Strichartz inequalities in Dunkl setting",
             "link": ""
           },
           {
             "date": "28 Dec",
+            "chair": " ",
             "time": "10:45 - 11:15",
-            "name": "Pratyoosh Kumar (IIT Guwahati)",
-            "title": "",
+            "name": "Samya Kumar Ray (IISER Thiruvananthapuram)",
+            "title": "Weighted weak (1, 1) estimate for non-commutative square function",
             "link": ""
           },
           {
             "date": "",
+            "chair": "",
             "time": "11:15 - 11:45",
-            "name": "Suparna Sen (University of Calcutta)",
-            "title": "",
+            "name": "Senthil Raani KS (IISER Berhampur)",
+            "title": "Szemeredi type theorems",
             "link": ""
           },
           {
             "date": "",
+            "chair": " ",
             "time": "11:55 - 12:25",
-            "name": "M. Sundari (CMI)",
-            "title": "",
+            "name": "Suparna Sen (University of Calcutta)",
+            "title": "Beurling’s theorem and radiality",
             "link": ""
           },
           {
             "date": "",
+            "chair": "",
             "time": "12:25 - 12:55",
             "name": "Amit Samanta (RKMVERI)",
-            "title": "",
+            "title": "Paley-Wiener theorem for Weyl transform of radial function",
             "link": ""
           },
           {
             "date": "",
+            "chair": " ",
             "time": "02:20 - 02:50",
             "name": "Muna Naik (IISc Bangalore)",
-            "title": "",
+            "title": "Lp-asymptotic behaviour of approximate identities on homogeneous groups",
             "link": ""
           },
           {
             "date": "",
+            "chair": "",
             "time": "02:50 - 03:20",
             "name": "Jayanta Sarkar (IISER Kolkata)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "",
-            "name": "",
-            "title": "",
+            "title": "Lp-asymptotic behaviour of solutions of the heat equation on Riemannian symmetric spaces of non-compact type",
             "link": ""
           },
           {
             "date": "29 Dec",
-            "time": "10:45 - 11:15",
-            "name": "Sayan Bagchi (IISER Kolkata)",
-            "title": "",
+            "chair": " ",
+            "time": "09:15 - 09:45",
+            "name": "M. Sundari (CMI)",
+            "title": "Benedicks theorem and the Heisenberg group",
             "link": ""
           },
           {
             "date": "",
-            "time": "11:15 - 11:45",
+            "chair": "",
+            "time": "09:45 - 10:15",
             "name": "Ramesh Manna (NISER Bhubaneswar)",
-            "title": "",
+            "title": "The square function related to Fourier integral operator",
             "link": ""
           },
           {
             "date": "",
-            "time": "11:55 - 12:25",
+            "chair": " ",
+            "time": "10:45 - 11:15",
             "name": "Jotsaroop Kaur (IISER Mohali)",
             "title": "",
             "link": ""
           },
           {
             "date": "",
-            "time": "12:25 - 12:55",
-            "name": "Senthil Raani KS (IISER Berhampur)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:20 - 02:50",
-            "name": "Shyam Swarup Mondal (ISI Kolkata)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:50 - 03:20",
+            "chair": "",
+            "time": "11:15 - 11:45",
             "name": "Somnath Ghosh (IISc Bangalore)",
-            "title": "",
+            "title": "Density of exponentials and Perron-Frobenius operators.",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": " ",
+            "time": "11:55 - 12:25",
+            "name": "Shyam Swarup Mondal (ISI Kolkata)",
+            "title": "Szeg ̈o limit theorems for Anharmonic oscillators",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "12:25 - 12:55",
+            "name": "Pratyoosh Kumar (IIT Guwahati)",
+            "title": "Eigen function of the Laplace- Beltrami operator",
             "link": ""
           }
         ]
       },
       {
         "category": "Partial Differential Equation",
-        "data": [
-          {
-            "date": "27 Dec",
-            "time": "12:00 - 12:30",
-            "name": "Anup Biswas (IISER Pune)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "12:30 - 01:00",
-            "name": "Prashanta Garain (IISER Berhampur)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:30 - 03:00",
-            "name": "Arka Mallick (IISc Bangalore)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "03:00 - 03:30",
-            "name": "Indranil Chowdhury (IIT Kanpur)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "",
-            "name": "",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "28 Dec",
-            "time": "10:45 - 11:15",
-            "name": "Tuhin Ghosh (HRI Allahabad)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "11:15 - 11:45",
-            "name": "Divyang Bhimani (IISER Pune)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "11:55 - 12:25",
-            "name": "Debayan Maity (TIFR-CAM Bangalore)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "12:25 - 12:55",
-            "name": "Rajib Dutta (IISER Kolkata)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:20 - 02:50",
-            "name": "Shirshendu Chowdhury (IISER Kolkata)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:50 - 03:20",
-            "name": "Amrita Ghosh (HRI Allahabad)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "",
-            "name": "",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "29 Dec",
-            "time": "10:45 - 11:15",
-            "name": "Mousomi Bhakta (IISER Pune)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "11:15 - 11:45",
-            "name": "Abhishek Sarkar (IIT Jodhpur)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "11:55 - 12:25",
-            "name": "Debanjan Nandi (IISc Bangalore)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "12:25 - 12:55",
-            "name": "Mayukh Mukherjee (IIT Bombay)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:20 - 02:50",
-            "name": "Debabrata Karmakar (TIFR-CAM Bangalore)",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:50 - 03:20",
-            "name": "Jotsaroop Kaur (IISER Mohali)",
-            "title": "",
-            "link": ""
-          }
-        ]
+        "data": []
       },
       {
         "category": "Probability Theory",
@@ -679,7 +351,7 @@
             "time": "10:50 - 11:20",
             "name": "Nishant Chandgotia (TIFR-CAM)",
             "title": "Forbidding patterns: Some simple combinatorics and some seemingly difficult questions.",
-            "link": "https://drive.google.com/file/d/14Hz7RKVaHgN3zc0R97TEKEGPqPdZ8hSw/view?usp=drive_link"
+            "link": "https://drive.google.com/file/d/1GJzvPJjHMmeXQ0GIFnZm7EBpC_2BBvY0/view?usp=drive_link"
           },
           {
             "date": "",
@@ -687,7 +359,7 @@
             "time": "11:20 - 11:50",
             "name": "Debanjan Nandi (IISc)",
             "title": "Random walks in hyperbolic groups, Lyons-Sullivan discretizations and Martin boundaries",
-            "link": "https://drive.google.com/file/d/1po3SJHXuamIE16S2rsxZAkVLSjJYIBrd/view?usp=drive_link"
+            "link": "https://drive.google.com/file/d/12Cx_qP2KRB1wAQJp4N0RWoy9HcrdvdTl/view?usp=drive_link"
           },
           {
             "date": "",
@@ -695,7 +367,7 @@
             "time": "12:00 - 12:30",
             "name": "Gugan Thoppe (IISc)",
             "title": "The Shadow Knows: Empirical Distributions of Minimum Spanning Acycles and Persistence Diagrams of Random Complexes.",
-            "link": "https://drive.google.com/file/d/1hyX6RiZmAYpi7j4yMoeMFKyqiGLvzLkI/view?usp=drive_link"
+            "link": "https://drive.google.com/file/d/1YUYy8G-cXEAwwTIXXZEDvDJVWsMWeFBV/view?usp=drive_link"
           },
           {
             "date": "",
@@ -703,7 +375,7 @@
             "time": "12:30 - 01:00",
             "name": "Kumarjit Saha (Ashoka University)",
             "title": "A continuum oriented percolation model.",
-            "link": "https://drive.google.com/file/d/1YuHOF2ttyZkAx-lgmmNG8G3MKKshJQRm/view?usp=drive_link"
+            "link": "https://drive.google.com/file/d/13ldyOWWOTA26BNpgxCvF4zn3OYE3bjyR/view?usp=drive_link"
           },
           {
             "date": "28 Dec",
@@ -711,7 +383,7 @@
             "time": "10:45 - 11:15",
             "name": "Veeraruna Kavitha (IIT Bombay)",
             "title": "Behavioral game dynamics with rational and irrational players.",
-            "link": "https://drive.google.com/file/d/1UShc6dv_rHHA8Qg8Q3xvskYpieBMqc2M/view?usp=drive_link"
+            "link": "https://drive.google.com/file/d/1xFGY-0jQBEGCGaGLdNjbeU-F_tIF3rwT/view?usp=drive_link"
           },
           {
             "date": "",
@@ -719,7 +391,7 @@
             "time": "11:15 - 11:45",
             "name": "Subhamay Saha (IIT Guwahati)",
             "title": "Zero Sum Risk-sensitive Semi-Markov Games.",
-            "link": "https://drive.google.com/file/d/1n-LwkeZsNpoOYkA4wN6SzLMMeOXx8jcv/view?usp=drive_link"
+            "link": "https://drive.google.com/file/d/1W-jGqHgz_vX0pcPIPEyOx4emddlt0M_P/view?usp=drive_link"
           },
           {
             "date": "",
@@ -727,7 +399,7 @@
             "time": "11:55 - 12:25",
             "name": "Souvik Roy (ISI Kolkata)",
             "title": "Aggregation of Choice Functions on Non-rational Domains.",
-            "link": "https://drive.google.com/file/d/1O0tsyDQXBwPavK0LM3MZKQ60ZjeziYKr/view?usp=drive_link"
+            "link": "https://drive.google.com/file/d/1ftMmDtL8RJB46QJyddfCFTYn4QXB0FL_/view?usp=drive_link"
           },
           {
             "date": "",
@@ -735,7 +407,7 @@
             "time": "12:25 - 12:55",
             "name": "Atul Shekhar (TIFR-CAM)",
             "title": "On the domain of attraction of Branching Brownian motion.",
-            "link": "https://drive.google.com/file/d/1046J9tShgfbHnTLY-GP-NhjlQh5aQilz/view?usp=drive_link"
+            "link": "https://drive.google.com/file/d/1W3F6TvvrLPRovToYYZWgUA8VYGiuGLIl/view?usp=drive_link"
           },
           {
             "date": "",
@@ -743,7 +415,7 @@
             "time": "02:20 - 02:50",
             "name": "Suprio Bhar (IIT Kanpur)",
             "title": "Kac’s Central Limit Theorem by Stein’s Method.",
-            "link": "https://drive.google.com/file/d/1tFiMCHTaAjIwqNdX8KMi3DnaMmOXMp4R/view?usp=drive_link"
+            "link": "https://drive.google.com/file/d/1GRyaIi7FzT2FFe-WcOZB4vGWlfWfdMAB/view?usp=drive_link"
           },
           {
             "date": "",
@@ -751,188 +423,61 @@
             "time": "02:50 - 03:20",
             "name": "Ayan Bhattacharya (IIT Bombay)",
             "title": "Persistence exponent of the regular varying random walk.",
-            "link": "https://drive.google.com/file/d/1Nw98fWnwjViGEAlG8JT3p6jqIuNDA8dY/view?usp=drive_link"
+            "link": "https://drive.google.com/file/d/1Tdb3bdykQZyN_wDLxWdrGcqe9KT_b9ju/view?usp=drive_link"
           },
           {
             "date": "29 Dec",
             "chair": "Ayan Bhattacharya",
-            "time": "10:45 - 11:15",
+            "time": "09:15 - 09:45",
             "name": "Debleena Thacker (University of Durham)",
             "title": "Long-range one-dimensional internal-diffusion aggregation.",
-            "link": "https://drive.google.com/file/d/1YE2JyOuVFMYXjuLYGduyg2jApMDmoTQb/view?usp=drive_link"
+            "link": "https://drive.google.com/file/d/1g5yNOcyLuZKNOJITI47AQML44dFLU6ND/view?usp=drive_link"
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "09:45 - 10:15",
+            "name": "Somya Singh (IIT Bombay)",
+            "title": "An interacting network of finite memory P ́olya urns.",
+            "link": "https://drive.google.com/file/d/19LoJTzR5uysrpO01q7umZ7sQbA_3sfAp/view?usp=drive_link"
+          },
+          {
+            "date": "",
+            "chair": " ",
+            "time": "10:45 - 11:15",
+            "name": "Chetan D. Pahlajani (IIT Gandhinagar)",
+            "title": "Some limit theorems for stochastic differential equations with small random noise and fast periodic sampling.",
+            "link": "https://drive.google.com/file/d/1-eJfoNq5H7ihvNPE1K2_uzjpUo9QrYrK/view?usp=drive_link"
           },
           {
             "date": "",
             "chair": "",
             "time": "11:15 - 11:45",
-            "name": "Somya Singh (IIT Bombay)",
-            "title": "An interacting network of finite memory P ́olya urns.",
-            "link": "https://drive.google.com/file/d/1_fIvq1XU-zQ7FPxa14ZEba0FjMmBaKoV/view?usp=drive_link"
+            "name": "Chaman Kumar (IIT Roorkee)",
+            "title": "First-order scheme for stochastic differential equations with Markovian switching and L ́evy noise.",
+            "link": "https://drive.google.com/file/d/1NNrr6vG2Tn7BHY377WPkXaGyapLovqDy/view?usp=drive_link"
           },
           {
             "date": "",
-            "chair": " ",
+            "chair": "Chaman Kumar",
             "time": "11:55 - 12:25",
-            "name": "Chetan D. Pahlajani (IIT Gandhinagar)",
-            "title": "Some limit theorems for stochastic differential equations with small random noise and fast periodic sampling.",
-            "link": "https://drive.google.com/file/d/1aiVMgXcqtVTw3mSlgf3Z3o9TlLjlpOYg/view?usp=drive_link"
+            "name": "Ananya Lahiri (IIT Tirupati)",
+            "title": "A lagged cross correction model for dependent data with memory and its application in finance.",
+            "link": "https://drive.google.com/file/d/1qX8dI_fIUBrIHw_PdVxrYq2Bh4mPtBgl/view?usp=drive_link"
           },
           {
             "date": "",
             "chair": "",
             "time": "12:25 - 12:55",
-            "name": "Chaman Kumar (IIT Roorkee)",
-            "title": "First-order scheme for stochastic differential equations with Markovian switching and L ́evy noise.",
-            "link": "https://drive.google.com/file/d/1Qx3NFWqI1fIcG69qZmRo0VM9jaRk4hn1/view?usp=drive_link"
-          },
-          {
-            "date": "",
-            "chair": "Chaman Kumar",
-            "time": "02:20 - 02:50",
-            "name": "Ananya Lahiri (IIT Tirupati)",
-            "title": "A lagged cross correction model for dependent data with memory and its application in finance.",
-            "link": "https://drive.google.com/file/d/1aFfCvjzUOice_R_df371YB4MwET6Z13_/view?usp=drive_link"
-          },
-          {
-            "date": "",
-            "chair": "",
-            "time": "02:50 - 03:20",
             "name": "Anand Deo (IIM Bangalore)",
             "title": "Quantifying the cost of safe decision making through analysis of chance constrained optimization problems.",
-            "link": "https://drive.google.com/file/d/1hCfQ1jZ9F85bIJhRaZJgoMgomhvUBPRm/view?usp=drive_link"
+            "link": "https://drive.google.com/file/d/1Xt7mFGqIOwHmHYiQS0NEpHuKrtrumgN2/view?usp=drive_link"
           }
         ]
       },
       {
         "category": "Number Theory",
-        "data": [
-          {
-            "date": "27 Dec",
-            "time": "12:00 - 12:30",
-            "name": "Shaunak Deo (IISc Bengaluru)",
-            "title": "Level raising for modular forms in the residually reducible case",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "12:30 - 01:00",
-            "name": "Shalini Bhattacharya (University of Hyderabad)",
-            "title": "Mod p reduction of Galois representations via LLC",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:30 - 03:00",
-            "name": "Veekesh Kumar (IIT Dharwad)",
-            "title": "Rational approximations to linear combinations of powers of algebraic numbers",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "03:00 - 03:30",
-            "name": "Divyum Sharma (BITS Pilani)",
-            "title": "On Diophantine equations arising from numeration systems",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "",
-            "name": "",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "28 Dec",
-            "time": "10:45 - 11:15",
-            "name": "Somnath Jha (IIT Kanpur)",
-            "title": "Some cases of the cube sum problem",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "11:15 - 11:45",
-            "name": "Balesh Kumar (IIT Ropar)",
-            "title": "Traces of (sesqui)-harmonic Maass forms and its arithmetic",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "11:55 - 12:25",
-            "name": "Supriya Pisolkar (IISER Pune)",
-            "title": "Uniform Groups & the Fontaine-Mazur Conjecture",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "12:25 - 12:55",
-            "name": "Mihir Sheth (IISc Bangalore)",
-            "title": "Strong linear independence of primitive forms",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:20 - 02:50",
-            "name": "Bidisha Roy (IIT Tirupati)",
-            "title": "Geometric interpretation of certain moments of Hypergeometric character sums",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:50 - 03:20",
-            "name": "Anupam Saikia (IIT Guwahati)",
-            "title": "A criterion for congruent numbers in terms of class number of associated quadratic fields",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "",
-            "name": "",
-            "title": "",
-            "link": ""
-          },
-          {
-            "date": "29 Dec",
-            "time": "10:45 - 11:15",
-            "name": "Brundaban Sahu (NISER Bhubaneswar)",
-            "title": "Nonvanishing of kernel functions and Poincar ́e series for Jacobi forms",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "11:15 - 11:45",
-            "name": "Sudipa Mondal (IIT Madras)",
-            "title": "Quadratic twist of epsilon factor of symmetric power transfers of a modular form",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "11:55 - 12:25",
-            "name": "Ekata Saha (IIT Delhi)",
-            "title": "Arithmetic nature of special values of the incomplete gamma and beta functions",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "12:25 - 12:55",
-            "name": "Biswajyoti Saha (IIT Delhi)",
-            "title": "Convergence of multiple polylogarithm at integer point outside the domain of absolute convergence",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:20 - 02:50",
-            "name": "Jyothsnaa Sivaraman (IISER Thiruvananthapuram)",
-            "title": "Products of primes in ray classes",
-            "link": ""
-          },
-          {
-            "date": "",
-            "time": "02:50 - 03:20",
-            "name": "Keshav Aggarwal (IIT Bombay)",
-            "title": "Short second moment bound and subconvexity for GL(3) L-functions",
-            "link": ""
-          }
-        ]
+        "data": []
       }
     ]
   },
