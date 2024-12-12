@@ -701,7 +701,7 @@
           },
           {
             "date": "",
-            "chair": "",
+            "chair": " ",
             "time": "10:45 - 11:15",
             "name": "Chetan D. Pahlajani (IIT Gandhinagar)",
             "title": "Some limit theorems for stochastic differential equations with small random noise and fast periodic sampling.",
