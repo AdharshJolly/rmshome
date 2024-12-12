@@ -20,6 +20,10 @@
     "institute": "Manipal Institute of Technology"
   },
   {
+    "name": "Agnihotri Roy",
+    "institute": "Pondicherry University"
+  },
+  {
     "name": "Aishwarya Jaiswal",
     "institute": "IIT BHU"
   },
@@ -30,6 +34,10 @@
   {
     "name": "Akanksha",
     "institute": "IIT Delhi"
+  },
+  {
+    "name": "Amar Deep Sarkar",
+    "institute": "IIT Bhubaneswar"
   },
   {
     "name": "Ambily A A",
@@ -54,6 +62,10 @@
   {
     "name": "Ananya Lahiri",
     "institute": "IIT Tirupati"
+  },
+  {
+    "name": "Ananya Pal",
+    "institute": "ISI, Kolkata"
   },
   {
     "name": "Anil Kumar Karn",
@@ -122,6 +134,10 @@
   {
     "name": "Arijit Mukherjee",
     "institute": "IIT Madras"
+  },
+  {
+    "name": "Arindam Banerjee",
+    "institute": "IIT Kharagpur"
   },
   {
     "name": "Arindam Mandal",
@@ -336,8 +352,16 @@
     "institute": "IIT Madras"
   },
   {
+    "name": "G V Krishna Teja",
+    "institute": "ISI Bangalore"
+  },
+  {
     "name": "Gangotryi Sorcar",
-    "institute": "Krea University"
+    "institute": "Krea University"
+  },
+  {
+    "name": "Gautam Bharali",
+    "institute": "Indian Institute of Science"
   },
   {
     "name": "Gayathri P",
@@ -370,6 +394,10 @@
   {
     "name": "Himanshu Kumar Dwivedi",
     "institute": "IIT BHU"
+  },
+  {
+    "name": "Husna V",
+    "institute": "Presidency University"
   },
   {
     "name": "Indranath Sengupta",
@@ -405,7 +433,7 @@
   },
   {
     "name": "Jaydeb Sarkar",
-    "institute": "Indian Statistical Institute"
+    "institute": "Indian Statistical Institute, Bangalore"
   },
   {
     "name": "Jebasingh R",
@@ -426,6 +454,14 @@
   {
     "name": "Joydwip Singh",
     "institute": "Indian Institute of Science Education and Research Kolkata"
+  },
+  {
+    "name": "Jugal Kishore Verma",
+    "institute": "IIT Gandhinagar"
+  },
+  {
+    "name": "Jyothsnaa S",
+    "institute": "IISER Thiruvananthapuram"
   },
   {
     "name": "Jyoti Dasgupta",
@@ -460,6 +496,14 @@
     "institute": "IIT Bombay"
   },
   {
+    "name": "KIRAN ANTONY",
+    "institute": "NIT Karnataka"
+  },
+  {
+    "name": "Krishnendu Gongopadhyay",
+    "institute": "IISER Mohali"
+  },
+  {
     "name": "Kuldeep Saha",
     "institute": "TCG CREST Kolkata"
   },
@@ -492,6 +536,10 @@
     "institute": "IISER Pune"
   },
   {
+    "name": "Mandira Mondal",
+    "institute": "University of Hyderabad"
+  },
+  {
     "name": "Manish Chaurasia",
     "institute": "IISER Berhampur"
   },
@@ -512,8 +560,24 @@
     "institute": "Charotar University of Science and Technology"
   },
   {
+    "name": "Mansi Goyal",
+    "institute": "IIT Roorkee"
+  },
+  {
     "name": "Manu Rohilla",
     "institute": "J.C. Bose University of Science and Technology"
+  },
+  {
+    "name": "Maria Mathew",
+    "institute": "IISER Pune"
+  },
+  {
+    "name": "Mayukh Mukherjee",
+    "institute": "IIT Bombay"
+  },
+  {
+    "name": "Md Firoz Ali",
+    "institute": "NIT Durgapur"
   },
   {
     "name": "Meghana Bhat",
@@ -564,6 +628,10 @@
     "institute": "Indian Institute of Technology, Delhi"
   },
   {
+    "name": "Neeraj Kumar",
+    "institute": "IIT Hyderabad"
+  },
+  {
     "name": "Neeraj Kumar Dhanwani",
     "institute": "IISER Mohali"
   },
@@ -604,6 +672,10 @@
     "institute": "IIT Bombay"
   },
   {
+    "name": "Omprakash Atale",
+    "institute": "Pune University"
+  },
+  {
     "name": "Parangama Sarkar",
     "institute": "IIT Palakkad"
   },
@@ -630,6 +702,10 @@
   {
     "name": "Pradipta Bandyopadhyay",
     "institute": "ISI Bangalore"
+  },
+  {
+    "name": "Pranav Pandit",
+    "institute": "ICTS-TIFR Bengaluru"
   },
   {
     "name": "Prashanta Garain",
@@ -684,6 +760,18 @@
     "institute": "Indian Institute of Space Science and Technology, Trivandrum"
   },
   {
+    "name": "Purvi Gupta",
+    "institute": "Indian Institute of Science"
+  },
+  {
+    "name": "R. Vijayakumar",
+    "institute": "NIT Calicut"
+  },
+  {
+    "name": "Radhika Ganapathy",
+    "institute": "IISc, Bangalore"
+  },
+  {
     "name": "Rajesh Kumar Srivastava",
     "institute": "Dept of Naths, IIT Guwahati"
   },
@@ -692,8 +780,16 @@
     "institute": "IISER Kolkata"
   },
   {
+    "name": "Rajiv Kumar",
+    "institute": "IIT Jammu"
+  },
+  {
     "name": "Raju Kumar Gupta",
     "institute": "Indian Institute of Technology Delhi"
+  },
+  {
+    "name": "Rakesh Kumar Parmar",
+    "institute": "Pondicherry University"
   },
   {
     "name": "Ramesh Kumar",
@@ -724,6 +820,14 @@
     "institute": "IIT BHU"
   },
   {
+    "name": "Rijubrata Kundu",
+    "institute": "IMSc, Chennai"
+  },
+  {
+    "name": "Ritam Halder",
+    "institute": "IIT Kharagpur"
+  },
+  {
     "name": "Ritesh Kumar Pandey",
     "institute": "IIT Kanpur"
   },
@@ -736,12 +840,20 @@
     "institute": "Shiv Nadar Institute of Eminence"
   },
   {
+    "name": "Rohit Kumar",
+    "institute": "IIT Jodhpur"
+  },
+  {
     "name": "Rohit Nageshwar",
     "institute": "University of Delhi"
   },
   {
     "name": "Roobia A",
     "institute": "PRESIDENCY UNIVERSITY"
+  },
+  {
+    "name": "S Pirivina",
+    "institute": "Pondicherry University"
   },
   {
     "name": "S Ponnusamy",
@@ -760,6 +872,10 @@
     "institute": "Indian Institute of Technology Kanpur"
   },
   {
+    "name": "Sahil Gehlawat",
+    "institute": "TIFR - CAM Bangalore"
+  },
+  {
     "name": "Sai Rasmi Ranjan Mohanty",
     "institute": "Shiv Nadar Institution of Eminence (Deemed to be University)"
   },
@@ -770,6 +886,10 @@
   {
     "name": "Samarendra Sahoo",
     "institute": "IIT Bombay"
+  },
+  {
+    "name": "Samarpita Ray",
+    "institute": null
   },
   {
     "name": "Samya Kumar Ray",
@@ -786,6 +906,10 @@
   {
     "name": "Sanjeev Singh",
     "institute": "IIT Indore"
+  },
+  {
+    "name": "Santosh Nadimpalli",
+    "institute": "IIT Kanpur"
   },
   {
     "name": "Santosh Singh Negi",
@@ -818,6 +942,10 @@
   {
     "name": "Shashi Ranjan Sinha",
     "institute": "IIT Hyderabad"
+  },
+  {
+    "name": "Shaunak Deo",
+    "institute": "IISc, Bengaluru"
   },
   {
     "name": "Shilpa Gupta",
@@ -856,8 +984,16 @@
     "institute": "University of Calcutta"
   },
   {
+    "name": "Shushma Rani",
+    "institute": "IISc Bengaluru"
+  },
+  {
     "name": "Shyam Swarup Mondal",
     "institute": "IISER Kolkata"
+  },
+  {
+    "name": "Sivaguru",
+    "institute": "TIFR CAM"
   },
   {
     "name": "Soma Maity",
@@ -886,6 +1022,14 @@
   {
     "name": "Soumya Dey",
     "institute": "KREA University"
+  },
+  {
+    "name": "Sourav Ghosh",
+    "institute": "Ashoka University"
+  },
+  {
+    "name": "Souvik Roy",
+    "institute": "ISI Kolkata"
   },
   {
     "name": "Sreenanda S B",
@@ -920,6 +1064,10 @@
     "institute": "IIT Madras"
   },
   {
+    "name": "Sugandha Maheshwary",
+    "institute": "IIT Roorkee"
+  },
+  {
     "name": "Suman Kanungo",
     "institute": "Indian Institute of Technology Bhilai"
   },
@@ -952,8 +1100,16 @@
     "institute": "Indian Institute of Technology, Delhi"
   },
   {
+    "name": "Surjeet Kour",
+    "institute": "IIT, Delhi"
+  },
+  {
     "name": "Sushil Bhunia",
     "institute": "BITS Pilani, Hyderabad"
+  },
+  {
+    "name": "Sushil Gorai",
+    "institute": "IISER Kolkata"
   },
   {
     "name": "Susmita Seal",
@@ -972,6 +1128,10 @@
     "institute": "Sardar Vallabhbhai National Institute of Technology"
   },
   {
+    "name": "Toshiyuki Sugawa",
+    "institute": "Tohoku University, Japan"
+  },
+  {
     "name": "Tuhin Ghosh",
     "institute": "Harish-Chandra Research Institute"
   },
@@ -988,6 +1148,14 @@
     "institute": "NIT Tiruchirappalli"
   },
   {
+    "name": "Uthara S",
+    "institute": "Pondicherry University"
+  },
+  {
+    "name": "Vasudeva Rao Allu",
+    "institute": "IIT Bhubaneswar"
+  },
+  {
     "name": "Veekesh Kumar",
     "institute": "IIT Dharwad"
   },
@@ -996,8 +1164,16 @@
     "institute": "IIT Bombay"
   },
   {
+    "name": "Venketasubramanian C G",
+    "institute": "IISER Tirupati"
+  },
+  {
     "name": "Vibhuti Arora",
     "institute": "National Institute of Technology Calicut"
+  },
+  {
+    "name": "Vidya Sagar",
+    "institute": "ISI Bangalore"
   },
   {
     "name": "Vikas Kashinath Wakode",
