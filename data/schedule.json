@@ -320,11 +320,269 @@
       },
       {
         "category": "Complex Analysis",
-        "data": []
+        "data": [
+          {
+            "date": "27 Dec",
+            "chair": "Amar Deep Sarkar",
+            "time": "10:50 - 11:20",
+            "name": "Toshiyuki Sugawa (Tohoku University, Japan)",
+            "title": "Hypergeometric functions and Hausdorff moment sequences",
+            "link": "https://drive.google.com/file/d/1V1AQ3FnFU0QGGtL5yVBlRqECfcE5yXQ6/view?usp=drive_link"
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "11:20 - 11:50",
+            "name": "Purvi Gupta (IISc Bangalore)",
+            "title": "A characterization of rational convexity in Stein and projective manifolds",
+            "link": "https://drive.google.com/file/d/1R2s5UmsVr6eaGc3gyjHjJLjF76r4iFik/view?usp=drive_link"
+          },
+          {
+            "date": "",
+            "chair": "S Ponnusamy",
+            "time": "12:00 - 12:30",
+            "name": "Md. Firoz Ali (NIT Durgapur)",
+            "title": "The Pre-Schwarzian and Schwarzian norm of harmonic and logharmonic functions",
+            "link": "https://drive.google.com/file/d/1s7hWhvYbi8cIdHFCfgJZZRWzBgtmrUjJ/view?usp=drive_link"
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "12:30 - 01:00",
+            "name": "Vikramjeet Singh Chandel (IIT Kanpur)",
+            "title": "Continuous extension of biholomorphisms using the geometry of horospheres",
+            "link": "https://drive.google.com/file/d/1nsTmHVW0LQO2aCMrz_zZy0jrYjjfkVNA/view?usp=drive_link"
+          },
+          {
+            "date": "28 Dec",
+            "chair": "Toshiyuki Sugawa",
+            "time": "10:45 - 11:15",
+            "name": "Gautam Bharali (IISc Bangalore)",
+            "title": "The squeezing function: exact computations and a new application",
+            "link": "https://drive.google.com/file/d/1_XD4TYPjkPlpQNb_L-5QHk28AvEWF4b0/view?usp=drive_link"
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "11:15 - 11:45",
+            "name": "Bappaditya Bhowmik (IIT Kharagpur)",
+            "title": "Criteria for quasiconformal extensions of certain classes of functions",
+            "link": "https://drive.google.com/file/d/1vJOxLwmFpWQ2DvMovpzG1BDnvMB3KHyv/view?usp=drive_link"
+          },
+          {
+            "date": "",
+            "chair": "Bappaditya Bhowmik",
+            "time": "11:55 - 12:25",
+            "name": "P. Muthukumar (IIT Kanpur)",
+            "title": "Automorphisms of subalgebras of bounded analytic functions",
+            "link": "https://drive.google.com/file/d/1uNVGSWpX06P13XD2geez48Ze2223ih_f/view?usp=drive_link"
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "12:25 - 12:55",
+            "name": "Sushil Gorai (IISER Kolkata)",
+            "title": "Polynomial convexity of the closure of certain pseudoconvex domains",
+            "link": "https://drive.google.com/file/d/1AqVqRX620lEmlh9_ymZKqOpq7mgwpeTb/view?usp=drive_link"
+          },
+          {
+            "date": "",
+            "chair": "Gautam Bharali",
+            "time": "02:20 - 02:50",
+            "name": "Sanjeev Singh (IIT Indore)",
+            "title": "On starlikeness of regular Coulomb wave functions",
+            "link": "https://drive.google.com/file/d/1nd50Sd1LUknldV89bpvSp85j0nccjo3a/view?usp=drive_link"
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "02:50 - 03:20",
+            "name": "Jugal Kishore Prajapat",
+            "title": "A family of analytic functions defined by differential inequality and its Applications",
+            "link": "https://drive.google.com/file/d/1lmffi0eCqajrYHd0abF8YqdRUpBm2d2J/view?usp=drive_link"
+          },
+          {
+            "date": "29 Dec",
+            "chair": "Sushil Gorai",
+            "time": "09:15 - 09:45",
+            "name": "Vasudevarao Allu (IIT Bhubaneswar)",
+            "title": "Landau-Bloch type theorem for elliptic and quasiregular harmonic mappings",
+            "link": "https://drive.google.com/file/d/1lRYVfhUVkQOtYizH6t1gyxNvzF2QuaVB/view?usp=drive_link"
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "09:45 - 10:15",
+            "name": "Vibhuti Arora (NIT Calicut)",
+            "title": "Bohr-Rogosinski type inequalities for concave univalent functions",
+            "link": "https://drive.google.com/file/d/1NaJGitYcUeGVFT2UUtu_x_We6zb6DROG/view?usp=drive_link"
+          },
+          {
+            "date": "",
+            "chair": "Vikramjeet Singh Chandel",
+            "time": "10:45 - 11:15",
+            "name": "Amar Deep Sarkar (IIT Bhubaneswar)",
+            "title": "Visibility of the Kobayashi Distance and Applications",
+            "link": "https://drive.google.com/file/d/1E_H5H9s2v6QaKBTSjy_qTuqKtfidzfdu/view?usp=drive_link"
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "11:15 - 11:45",
+            "name": "Sivaguru (TIFR-CAM Bangalore)",
+            "title": "Holomorphic extension of a class of CR functions near a CR singularity",
+            "link": "https://drive.google.com/file/d/1d-aU_aDtyGUmYyX48idxbQqxJFD5UDdZ/view?usp=drive_link"
+          },
+          {
+            "date": "",
+            "chair": "Vasudevarao Allu",
+            "time": "11:55 - 12:25",
+            "name": "R. Vijayakumar (NIT Calicut)",
+            "title": "Refinements in Bohr-Type Inequalities for Analytic Functions on Shifted Disks",
+            "link": "https://drive.google.com/file/d/1IZwUk8ydS5O1evtdTJAN2MnK1MaMbphY/view?usp=drive_link"
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "12:25 - 12:55",
+            "name": "Rakesh K. Parmar (Pondicherry University)",
+            "title": "On Extended Exton's Triple and Horn's Double Hypergeometric Functions and Related Bounds",
+            "link": "https://drive.google.com/file/d/1qZLB_JBc9baSVXR0SBfdF0tm5HCOqHvS/view?usp=drive_link"
+          }
+        ]
       },
       {
         "category": "Functional Analysis",
-        "data": []
+        "data": [
+          {
+            "date": "27 Dec",
+            "chair": " ",
+            "time": "10:50 - 11:20",
+            "name": "Vamsinadh Thota (NIT Trichy)",
+            "title": "On Equability and Ball Equability in Banach Spaces",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "11:20 - 11:50",
+            "name": "Arpita Mal (DA-IICT, Gandhinagar)",
+            "title": "Extreme points of the unit ball of ${\\cal L}(X)^*_w$ and best approximation in ${\\cal L}(X)_w$",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": " ",
+            "time": "12:00 - 12:30",
+            "name": "C R Jayanarayanan (IIT Palakkad)",
+            "title": "Strong proximinality of the unit ball of compact operators on Hilbert spaces",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "12:30 - 01:00",
+            "name": "Gargi Ghosh (IIT Roorkee)",
+            "title": "$2$-proper holomorphic images of classical Cartan domains",
+            "link": ""
+          },
+          {
+            "date": "28 Dec",
+            "chair": " ",
+            "time": "10:45 - 11:15",
+            "name": "M A Sofi (Kashmir University)",
+            "title": "Bilipschitz Embedding Into Hilbert Spaces",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "11:15 - 11:45",
+            "name": "Susmita Seal (RKMVERI)",
+            "title": "Ball separation characterization of dentability and related properties in Banach spaces",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": " ",
+            "time": "11:55 - 12:25",
+            "name": "Anil Kumar Karn (NISER)",
+            "title": "On the geometry of an order unit space",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "12:25 - 12:55",
+            "name": "P Gayathri (NIT Trichy)",
+            "title": "Generalizations of Hahn-Banach extension property",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": " ",
+            "time": "02:20 - 02:50",
+            "name": "Sudeshna Basu (Loyola University Baltimore)",
+            "title": "Diameter 2 Properties in duals of Ideals in Banach Spaces",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "02:50 - 03:20",
+            "name": "Neeru Bala (IIT Dhanbad)",
+            "title": "Nayak's Theorem for exponential of compact operators",
+            "link": ""
+          },
+          {
+            "date": "29 Dec",
+            "chair": " ",
+            "time": "09:15 - 09:45",
+            "name": "Uday Shankar Chakraborty (Assam Univ Silchar)",
+            "title": "On some Bishop-Phelps-Bollob\\'{a}s type properties of operators with respect to minimum norm and Crawford number",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "09:45 - 10:15",
+            "name": "Aryaman Sensarma (NIT Silchar)",
+            "title": "Russo-Dye type Theorem, Stinespring representation, and Radon Nikod\\'ym derivative for invariant block multilinear completely positive maps",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": " ",
+            "time": "10:45 - 11:15",
+            "name": "S Lalithambigai (Madurai Kamaraj University)",
+            "title": "Ball Proximinal Banach Spaces",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "11:15 - 11:45",
+            "name": "Soumitra Daptari (Shiv Nadar)",
+            "title": "Uniqueness of Hahn-Banach extensions in renorming spaces",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": " ",
+            "time": "11:55 - 12:25",
+            "name": "Priyanka Grover (Shiv Nadar)",
+            "title": "Distance problems for tuples of operators",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "12:25 - 12:55",
+            "name": "Deepak Gothwal (ISIK)",
+            "title": "Residuality of uniformly smooth norms via ball separation",
+            "link": ""
+          }
+        ]
       },
       {
         "category": "Geometry and Topology",
@@ -461,7 +719,136 @@
       },
       {
         "category": "Groups and their Representations",
-        "data": []
+        "data": [
+          {
+            "date": "27 Dec",
+            "chair": " ",
+            "time": "10:50 - 11:20",
+            "name": "Santosh Nadimpalli (IIT Kanpur)",
+            "title": "Twisted Jacquet modules of GL(2, D)",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "11:20 - 11:50",
+            "name": "Manju Khan (IIT Ropar)",
+            "title": "On the units in group rings over Zn",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": " ",
+            "time": "12:00 - 12:30",
+            "name": "Ashish Mishra (LNMIIT Jaipur)",
+            "title": "Gelfand models for finite complex reflection groups",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "12:30 - 01:00",
+            "name": "Shushma Rani  (IISc Bangalore)",
+            "title": "Filtration of tensor product of local Weyl modules by fusion modules",
+            "link": ""
+          },
+          {
+            "date": "28 Dec",
+            "chair": " ",
+            "time": "10:45 - 11:15",
+            "name": "Sunil K Prajapati (IIT Bhubaneswar)",
+            "title": "Character Codegrees and Exceptional Groups",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "11:15 - 11:45",
+            "name": "Sugandha Maheshwari (IIT Kharagpur)",
+            "title": "Cut groups: progress and problems",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": " ",
+            "time": "11:55 - 12:25",
+            "name": "Krishnendu Gongopadhyay (IISER Mohali)",
+            "title": "Character variety of Anosov representations",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "12:25 - 12:55",
+            "name": "Shradha Srivastava (IIT Dharwad)",
+            "title": "On Kostant’s problem",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": " ",
+            "time": "02:20 - 02:50",
+            "name": "B Sury (ISI Bangalore)",
+            "title": "Unitriangular factorization, and Commutator Width for Chevalley groups and Applications to Kazhdan’s Property T for Holomorphic Matrices.",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "02:50 - 03:20",
+            "name": "Rijubrata Kundu (IMSc, Chennai)",
+            "title": "Covering Numbers of Some Irreducible Characters of the Symmetric Group",
+            "link": ""
+          },
+          {
+            "date": "29 Dec",
+            "chair": " ",
+            "time": "09:15 - 09:45",
+            "name": "G Krishna Teja",
+            "title": "Weyl Character Type Formulas",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "09:45 - 10:15",
+            "name": "Manoj K. Yadav (HRI Allahabad)",
+            "title": "Isoclinism of algebraic structures: then and now",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": " ",
+            "time": "10:45 - 11:15",
+            "name": "Radhika Ganapathy (IISc Bangalore)",
+            "title": "An Iwahori variant of the Kazhdan isomorphism",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "11:15 - 11:45",
+            "name": "Sandip Singh (IIT Bombay)",
+            "title": "Lattices in Rn ⋊ SL2(R)",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": " ",
+            "time": "11:55 - 12:25",
+            "name": "Venketasubramanian C. G. (IIT Tirupati)",
+            "title": "Twisted Jacquet modules of principal series representations of p-adic groups",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "12:25 - 12:55",
+            "name": "Jyotirmoy Ganguly",
+            "title": "Spinoral Representations of the Symmetric Groups",
+            "link": ""
+          }
+        ]
       },
       {
         "category": "Harmonic Analysis",
@@ -598,7 +985,136 @@
       },
       {
         "category": "Partial Differential Equation",
-        "data": []
+        "data": [
+          {
+            "date": "27 Dec",
+            "chair": " ",
+            "time": "10:50 - 11:20",
+            "name": "Arka Mallick (IISc Bangalore)",
+            "title": "Excess Decay for quasilinear equations in the Heisenberg Group and consequences",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "11:20 - 11:50",
+            "name": "Indranil Chowdhury (IIT Kanpur)",
+            "title": "Degenerate Fully Nonlinear Mean Field Game with Nonlocal Diffusion",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": " ",
+            "time": "12:00 - 12:30",
+            "name": "Anup Biswas (IISER Pune)",
+            "title": "On the solutions of local Hamilton-Jacobi Equations with Gradient Nonlinearity.",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "12:30 - 01:00",
+            "name": "Prashanta Garain (IISER Berhampur)",
+            "title": "Weak Harnack inequality for a mixed local and nonlocal parabolic equation",
+            "link": ""
+          },
+          {
+            "date": "28 Dec",
+            "chair": " ",
+            "time": "10:45 - 11:15",
+            "name": "Tuhin Ghosh (HRI Allahabad)",
+            "title": "Inverse Scattering problem for the fractional Schr ̈odinger equation",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "11:15 - 11:45",
+            "name": "Divyang Bhimani (IISER Pune)",
+            "title": "Low-Regularity global solution of the inhomogeneous nonlinear Schr ̈odinger equation in modulation spaces",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": " ",
+            "time": "11:55 - 12:25",
+            "name": "Debayan Maity (TIFR-CAM Bangalore)",
+            "title": "Solids moving in a viscous fluid",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "12:25 - 12:55",
+            "name": "Rajib Dutta (IISER Kolkata)",
+            "title": "Global approximate controllability of the Camssa-Holm equation in one dimension",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": " ",
+            "time": "02:20 - 02:50",
+            "name": "Shirshendu Chowdhury (IISER Kolkata)",
+            "title": "Null-controllability of compressible Navier-Stokes equations in one dimension",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "02:50 - 03:20",
+            "name": "Amrita Ghosh (HRI Allahabad)",
+            "title": "A thin film model of a meniscus evolution",
+            "link": ""
+          },
+          {
+            "date": "29 Dec",
+            "chair": " ",
+            "time": "09:15 - 09:45",
+            "name": "Mousomi Bhakta (IISER Pune)",
+            "title": "Fractional Schr ̈odinger equations with mixed nonlinearities",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "09:45 - 10:15",
+            "name": "Abhishek Sarkar (IIT Jodhpur)",
+            "title": "Degenerate Schr ̈odinger-Kirchhoff (p, N)- Laplacian with singular Trudinger-Moser nonlinearity in Rn",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": " ",
+            "time": "10:45 - 11:15",
+            "name": "Debanjan Nandi (IISc Bangalore)",
+            "title": "A general Doob transform for diffusion processes",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "11:15 - 11:45",
+            "name": "Mayukh Mukherjee (IIT Bombay)",
+            "title": "Spectra of negatively curved Riemannian manifolds",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": " ",
+            "time": "11:55 - 12:25",
+            "name": "Debabrata Karmakar (TIFR-CAM Bangalore)",
+            "title": "Quantitative stability of the Poincar ́e-Sobolev inequality on the hyperbolic space",
+            "link": ""
+          },
+          {
+            "date": "",
+            "chair": "",
+            "time": "12:25 - 12:55",
+            "name": "Jotsaroop Kaur (IISER Mohali)",
+            "title": "",
+            "link": ""
+          }
+        ]
       },
       {
         "category": "Probability Theory",
