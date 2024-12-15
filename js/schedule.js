@@ -12,11 +12,12 @@ fetch("/data/schedule.json")
         <div class="content">
       `;
       if (item.subcategory) {
-        let colors = ["#a1c3e7", "#d1e9fd", "#bddaf5"];
-        let i = 0;
-        item.subcategory.map((sc) => {
-          if (sc.data.length <= 0) return;
-          out += `
+        if (item.category == "Symposia Talks") {
+          let colors = ["#a1c3e7", "#d1e9fd", "#bddaf5"];
+          let i = 0;
+          item.subcategory.map((sc) => {
+            if (sc.data.length <= 0) return;
+            out += `
           
           <div style="padding: 4px 2px">
             <button type="button" class="collapsible sub-collapsible" id="sub-collapsible">
@@ -38,19 +39,19 @@ fetch("/data/schedule.json")
                   <tbody>
                     `;
 
-          sc.data.map((d) => {
-            if (d.chair) i++;
-            if (i > colors.length - 1) i = 0;
+            sc.data.map((d) => {
+              if (d.chair) i++;
+              if (i > colors.length - 1) i = 0;
 
-            if (d.date) {
-              out += `<tr style="height: 40px">
+              if (d.date) {
+                out += `<tr style="height: 40px">
                 <td colspan="5" style="text-align: center !important; background-color:#FAF9F6 !important; width: 100%; font-weight: bold;">${d.date}</td>
               </tr>`;
 
-              i = 1;
-            }
+                i = 1;
+              }
 
-            out += `
+              out += `
             <tr style="height: 40px; background-color: ${colors[i]} !important">
                       ${
                         d.chair
@@ -78,16 +79,120 @@ fetch("/data/schedule.json")
                     </tr>
                   
         `;
-          });
+            });
 
-          out += `
+            out += `
             </tbody>
                 </table>
               </div>
             </div>
           </div>
           `;
-        });
+          });
+        } else if (item.category == "Contributory Talks") {
+          let colors = ["#a1c3e7", "#d1e9fd", "#bddaf5"];
+          let i = 0;
+          let j = 0;
+          item.subcategory.map((sc) => {
+            if (sc.data.length <= 0) return;
+
+            out += `
+            <div style="padding: 4px 2px">
+            <button type="button" class="collapsible sub-collapsible" id="sub-collapsible">
+              ${sc.category}
+            </button>
+            <div class="content" style="padding: 0;">
+            `;
+
+            sc.data.map((d) => {
+              if (d.chair) i++;
+              if (i > colors.length - 1) i = 0;
+
+              if (d.date) {
+                if (j == 1) {
+                  out += `
+                    </tbody>
+                    </table>
+                    </div>
+
+                    </br>
+                  `;
+                }
+                out += `
+                    </br>
+                <h2 style="background-color: #506c92; margin: 1px; padding: 5px; text-align: center; color: white">
+                  ${d.date}
+                </h2>
+
+                <div class="table-responsive" style="padding: 4px">
+                <table class="schedule-table table table-bordered align-middle abot-txt-innr">
+                  <thead>
+                    <tr>
+                      <td>Chair</td>
+                      <td>Time</td>
+                      <td>Speaker</td>
+                      <td>Title of the talk</td>
+                      <td>Link</td>
+                    </tr>
+                  </thead>
+
+                  <tbody>
+                `;
+                j = 1;
+              }
+
+              if (d.venue) {
+                out += `<tr style="height: 40px">
+                <td colspan="5" style="text-align: center !important; background-color:#FAF9F6 !important; width: 100%; font-weight: bold;">${d.venue}</td>
+              </tr>`;
+
+                i = 1;
+              }
+
+              out += `
+                    <tr style="height: 40px; background-color: ${
+                      colors[i]
+                    } !important">
+                      ${
+                        d.chair
+                          ? `<td rowspan=${
+                              d.speakers
+                            } style="min-width: fit-content; vertical-align : middle; text-wrap: nowrap; text-align: center !important;">${
+                              d.chair || ` `
+                            }</td>`
+                          : ``
+                      }
+                      ${
+                        d.time
+                          ? `<td rowspan=${
+                              d.speakers
+                            } style="min-width: fit-content; vertical-align : middle; text-wrap: nowrap; text-align: center !important;">${
+                              d.time || ` `
+                            }</td>`
+                          : ``
+                      }
+                      <td style="min-width: fit-content;">${d.name}</td>
+                      <td>${d.title}</td>
+                      <td>
+                      
+                        ${
+                          d.link
+                            ? `<a class="download-link" href=${d.link}><i class="fa-solid fa-download"></i></a>`
+                            : ` `
+                        }
+                      
+                    </td>
+                    </tr>
+                  
+              `;
+            });
+
+            out += `
+            </div>
+            </div>
+            `;
+          });
+        }
       } else {
         out += `
           <div class="table-responsive table-div" style="padding: 4px 0">

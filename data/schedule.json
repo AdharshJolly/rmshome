@@ -1389,7 +1389,258 @@
     "subcategory": [
       {
         "category": "Algebra",
-        "data": []
+        "data": [
+          {
+            "date": "27 Dec",
+            "speakers": "3",
+            "venue": "Classroom No. 254, Block II, Third Floor",
+            "chair": "A.V. Jayanthan",
+            "time": "02:30 - 03:30",
+            "name": "Jebasingh R (IISER Kolkata)",
+            "title": "On vanishing of the Euler cycles under sub integral extensions",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "",
+            "venue": "",
+            "chair": "",
+            "time": "",
+            "name": "Shruti Priya (IIT Kharagpur)",
+            "title": "Bounds on the Castelnuovo-Mumford regularity",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "",
+            "venue": "",
+            "chair": "",
+            "time": "",
+            "name": "Chaithra B J (MIT, Manipal)",
+            "title": "On radicals in hyperrings",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "3",
+            "venue": "Classroom No. 255, Block II, Third Floor",
+            "chair": "Prosenjit das",
+            "time": "02:30 - 03:30",
+            "name": "Suraj Kumar (IIT Delhi)",
+            "title": "Linearly presented ideals and (G_{d-2}) condition",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "",
+            "venue": "",
+            "chair": "",
+            "time": "",
+            "name": "Gayathry Pradeep (CUSAT)",
+            "title": "Equality of DSER elementary orthogonal group and Eichler-Siegel-Dickson transvection group",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "",
+            "venue": "",
+            "chair": "",
+            "time": "",
+            "name": "Dev Karan Singh (MNNIT Allahabad)",
+            "title": "Tensor square and isoclinic extensions of multiplicative Lie algebras",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "3",
+            "venue": "Classroom No. 256, Block II, Third Floor",
+            "chair": "Neeraj Kumar",
+            "time": "02:30 - 03:30",
+            "name": "Jitender (MNNIT Allahabad)",
+            "title": "Majid algebra structure on division algebras",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "",
+            "venue": "",
+            "chair": "",
+            "time": "",
+            "name": "Astha Agrawal (IISc Bangalore)",
+            "title": "Additive one-rank hull codes over finite fields",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "",
+            "venue": "",
+            "chair": "",
+            "time": "",
+            "name": "Tushar Singh (MNNIT Allahabad)",
+            "title": "Characterization of s-Artiain rings",
+            "link": ""
+          },
+          {
+            "date": "28 Dec",
+            "speakers": "3",
+            "venue": "Classroom No. 254, Block II, Third Floor",
+            "chair": "Mousomi Mandal",
+            "time": "03:50 - 04:50",
+            "name": "Theophilus Gera (Sardar Vallabhbhai National Institute of Technology)",
+            "title": "Modules with descending chain conditions on principal ideals",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "",
+            "venue": "",
+            "chair": "",
+            "time": "",
+            "name": "Prativa Biswas (IIT Kharagpur)",
+            "title": "Asymptotic behaviour and stability index of v-numbers of graded ideals",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "",
+            "venue": "",
+            "chair": "",
+            "time": "",
+            "name": "Samarendra Sahoo",
+            "title": "Quasi-pure resolutions and some lower bounds of Hilbert coefficients of Cohen-Macaulay modules",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "3",
+            "venue": "Classroom No. 255, Block II, Third Floor",
+            "chair": "Ambily A.A.",
+            "time": "03:50 - 04:50",
+            "name": "Anuj Kumar Bhagat (IIT Delhi)",
+            "title": "Cyclic locally recoverable LCD codes with the help of cyclotomic polynomials",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "",
+            "venue": "",
+            "chair": "",
+            "time": "",
+            "name": "Ankit Yadav (IIT Delhi)",
+            "title": "ACD codes and cyclic codes over Z2Rk",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "",
+            "venue": "",
+            "chair": "",
+            "time": "",
+            "name": "Ritesh Kumar Pandey (IIT Kanpur)",
+            "title": "Weyl modules for twisted toroidal Lie algebras",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "3",
+            "venue": "Classroom No. 256, Block II, Third Floor",
+            "chair": "Anuradha Sharma",
+            "time": "03:50 - 04:50",
+            "name": "Praveen Manju (IIT Delhi)",
+            "title": "Twisted derivations of group algebras with coding theory applications",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "",
+            "venue": "",
+            "chair": "",
+            "time": "",
+            "name": "Akanksha (IIT Delhi)",
+            "title": "Generalizations of cyclic codes over product rings",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "",
+            "venue": "",
+            "chair": "",
+            "time": "",
+            "name": "Deivanai Jaisankar (Shiv Nadar University Chennai)",
+            "title": "Generalized m-polar fuzzy outerplanar graphs and its application in social network",
+            "link": ""
+          },
+          {
+            "date": "29 Dec",
+            "speakers": "3",
+            "venue": "Classroom No. 254, Block II, Third Floor",
+            "chair": "Ananthnarayan H.",
+            "time": "02:20 - 03:40",
+            "name": "Nupur Patanker (IISc Bangalore)",
+            "title": "Next-to-minimal weight of Toric codes defined over hypersimplices",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "",
+            "venue": "",
+            "chair": "",
+            "time": "",
+            "name": "Om Prakash (IIT Bombay)",
+            "title": "Type of finite-complement submonoids of an affine cone",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "",
+            "venue": "",
+            "chair": "",
+            "time": "",
+            "name": "Shashi Ranjan Sinha (IIT Hyderabad)",
+            "title": "On a relative dependency formula",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "4",
+            "venue": "Classroom No. 256, Block II, Third Floor",
+            "chair": "Dipankar Ghosh",
+            "time": "02:20 - 03:40",
+            "name": "Javadekar Omkar Deepak (IIT Bombay)",
+            "title": "Linear Quotients of Connected Ideals of Graphs",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "",
+            "venue": "",
+            "chair": "",
+            "time": "",
+            "name": "Meghana Bhat (IIT Dharwad)",
+            "title": "Symmetric decomposition of the Hilbert function of an m-Primary ideal",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "",
+            "venue": "",
+            "chair": "",
+            "time": "",
+            "name": "Vidya Sagar (IISc Bangalore)",
+            "title": "Linear Codes with Low-Dimensional Hull",
+            "link": ""
+          },
+          {
+            "date": "",
+            "speakers": "",
+            "venue": "",
+            "chair": "",
+            "time": "",
+            "name": "Mansi Goyal (IIT Roorkee)",
+            "title": "Computation Friendly Multi-key Fully Homomorphic Encryption without Ciphertext Extension Algorithm",
+            "link": ""
+          }
+        ]
       },
       {
         "category": "Algebraic Geometry",
