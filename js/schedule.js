@@ -120,7 +120,7 @@ fetch("/data/schedule.json")
                 }
                 out += `
                     </br>
-                <h2 style="background-color: #506c92; margin: 1px; padding: 5px; text-align: center; color: white">
+                <h2 style="color: #2f5179; margin: 1px; padding: 5px; text-align: center;">
                   ${d.date}
                 </h2>
 
@@ -171,7 +171,7 @@ fetch("/data/schedule.json")
                             }</td>`
                           : ``
                       }
-                      <td style="min-width: fit-content;">${d.name}</td>
+                      <td style="">${d.name}</td>
                       <td>${d.title}</td>
                       <td>
                       
