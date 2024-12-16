@@ -23,7 +23,7 @@ fetch("/data/schedule.json")
             <button type="button" class="collapsible sub-collapsible" id="sub-collapsible">
               ${sc.category}
             </button>
-            <div class="content" style="padding: 0 8px; background-color: #d3d3d3">
+            <div class="content" style="padding: 0 8px; background-color: white">
               <div class="table-responsive" style="padding: 4px">
                 <table class="schedule-table table table-bordered align-middle abot-txt-innr">
                   <thead>
@@ -101,7 +101,7 @@ fetch("/data/schedule.json")
             <button type="button" class="collapsible sub-collapsible" id="sub-collapsible">
               ${sc.category}
             </button>
-            <div class="content" style="padding: 0 8px; background-color: #d3d3d3">
+            <div class="content" style="padding: 0 8px; background-color: white">
             `;
 
             sc.data.map((d) => {
@@ -192,7 +192,7 @@ fetch("/data/schedule.json")
             </table>
             </div>
             </div>
-
+            </div>
             `;
           });
         }
