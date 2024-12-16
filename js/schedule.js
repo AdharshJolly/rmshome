@@ -9,7 +9,7 @@ fetch("/data/schedule.json")
       out += `
       <div style="margin-top: 5px">
         <button type="button" class="collapsible">${item.category}</button>
-        <div class="content">
+        <div class="content" style="background-color: #e3e8e9">
       `;
       if (item.subcategory) {
         if (item.category == "Symposia Talks") {
@@ -23,7 +23,7 @@ fetch("/data/schedule.json")
             <button type="button" class="collapsible sub-collapsible" id="sub-collapsible">
               ${sc.category}
             </button>
-            <div class="content" style="padding: 0;">
+            <div class="content" style="padding: 0 8px; background-color: #d3d3d3">
               <div class="table-responsive" style="padding: 4px">
                 <table class="schedule-table table table-bordered align-middle abot-txt-innr">
                   <thead>
@@ -92,16 +92,16 @@ fetch("/data/schedule.json")
         } else if (item.category == "Contributory Talks") {
           let colors = ["#a1c3e7", "#d1e9fd", "#bddaf5"];
           let i = 0;
-          let j = 0;
           item.subcategory.map((sc) => {
             if (sc.data.length <= 0) return;
+            let j = 0;
 
             out += `
             <div style="padding: 4px 2px">
             <button type="button" class="collapsible sub-collapsible" id="sub-collapsible">
               ${sc.category}
             </button>
-            <div class="content" style="padding: 0;">
+            <div class="content" style="padding: 0 8px; background-color: #d3d3d3">
             `;
 
             sc.data.map((d) => {
@@ -143,7 +143,7 @@ fetch("/data/schedule.json")
 
               if (d.venue) {
                 out += `<tr style="height: 40px">
-                <td colspan="5" style="text-align: center !important; background-color:#FAF9F6 !important; width: 100%; font-weight: bold;">${d.venue}</td>
+                <td colspan="5" style="text-align: center !important; background-color:#FAF9F6 !important; width: 100%; font-weight: bold; color: #FF6961">${d.venue}</td>
               </tr>`;
 
                 i = 1;
@@ -187,9 +187,12 @@ fetch("/data/schedule.json")
               `;
             });
 
-            out += `
+            out += ` 
+            </tbody>
+            </table>
             </div>
             </div>
+
             `;
           });
         }
