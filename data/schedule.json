@@ -3,6 +3,7 @@
     "category": "Plenary Talks",
     "data": [
       {
+        "venue": "Auditorium, Block I",
         "date": "27 Dec",
         "chair": "E K Narayanan",
         "time": "09:20 - 10:20",
@@ -40,6 +41,7 @@
     "category": "Public Talks",
     "data": [
       {
+        "venue": "Auditorium, Block I",
         "date": "28 Dec",
         "chair": "Jugal Kishore Verma",
         "time": "05:00 - 06:00",
@@ -54,6 +56,7 @@
     "subcategory": [
       {
         "category": "Algebra",
+        "venue": "Classroom No. 256, Block II, Third Floor",
         "data": [
           {
             "date": "Friday 27 December, 2024",
@@ -187,6 +190,7 @@
       },
       {
         "category": "Algebraic Geometry",
+        "venue": "Classroom No. 002, Block I, Ground Floor",
         "data": [
           {
             "date": "Friday 27 December, 2024",
@@ -320,6 +324,7 @@
       },
       {
         "category": "Complex Analysis",
+        "venue": "Classroom No. 225, Block II, First Floor",
         "data": [
           {
             "date": "Friday 27 December, 2024",
@@ -453,6 +458,7 @@
       },
       {
         "category": "Functional Analysis",
+        "venue": "Classroom No. 201, Block II, Ground Floor",
         "data": [
           {
             "date": "Friday 27 December, 2024",
@@ -586,6 +592,7 @@
       },
       {
         "category": "Geometry and Topology",
+        "venue": "Classroom No. 238, Block II, Second Floor",
         "data": [
           {
             "date": "Friday 27 December, 2024",
@@ -719,6 +726,7 @@
       },
       {
         "category": "Groups and their Representations",
+        "venue": "Classroom No. 004, Block I, Ground Floor",
         "data": [
           {
             "date": "Friday 27 December, 2024",
@@ -852,6 +860,7 @@
       },
       {
         "category": "Harmonic Analysis",
+        "venue": "Classroom No. 213, Block II, Ground Floor",
         "data": [
           {
             "date": "Friday 27 December, 2024",
@@ -985,6 +994,7 @@
       },
       {
         "category": "Partial Differential Equation",
+        "venue": "Classroom No. 203, Block II, Ground Floor",
         "data": [
           {
             "date": "Friday 27 December, 2024",
@@ -1118,6 +1128,7 @@
       },
       {
         "category": "Probability Theory",
+        "venue": "Classroom No. 111, Block I, Ground Floor",
         "data": [
           {
             "date": "Friday 27 December, 2024",
@@ -1251,6 +1262,7 @@
       },
       {
         "category": "Number Theory",
+        "venue": "Classroom No. 205, Block II, Ground Floor",
         "data": [
           {
             "date": "Friday 27 December, 2024",

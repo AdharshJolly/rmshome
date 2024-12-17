@@ -24,6 +24,11 @@ fetch("/data/schedule.json")
               ${sc.category}
             </button>
             <div class="content" style="padding: 0 8px; background-color: white">
+              ${
+                sc.venue
+                  ? `<h3 style="text-align: center; height: 40px; width: 100%; font-weight: bold; color: #FF6961">Venue: ${sc.venue}</h3>`
+                  : ``
+              }
               <div class="table-responsive" style="padding: 4px">
                 <table class="schedule-table table table-bordered align-middle abot-txt-innr">
                   <thead>
@@ -141,7 +146,7 @@ fetch("/data/schedule.json")
 
               if (d.venue) {
                 out += `<tr style="height: 40px">
-                <td colspan="5" style="text-align: center !important; background-color:#FAF9F6 !important; width: 100%; font-weight: bold; color: #FF6961">${d.venue}</td>
+                <td colspan="5" style="text-align: center !important; background-color:#FAF9F6 !important; width: 100%; font-weight: bold; color: #FF6961">Venue: ${d.venue}</td>
               </tr>`;
 
                 i = 1;
@@ -213,8 +218,12 @@ fetch("/data/schedule.json")
       `;
 
         item.data.map((d) => {
+          if (d.venue) {
+            out += `<tr style="height: 40px">
+                <td colspan="5" style="text-align: center !important; background-color:#FAF9F6 !important; width: 100%; font-weight: bold; color: #FF6961">Venue: ${d.venue}</td>
+              </tr>`;
+          }
           out += `
-
                 <tr>
                   <td style="min-width: fit-content; text-wrap: nowrap">${
                     d.date
