@@ -63,9 +63,7 @@ fetch("/data/schedule.json")
                       <td style="min-width: fit-content; text-wrap: nowrap">${
                         d.time
                       }</td>
-                      <td style="min-width: fit-content; text-wrap: nowrap">${
-                        d.name
-                      }</td>
+                      <td style="min-width: fit-content;">${d.name}</td>
                       <td>${d.title}</td>
                       <td>
                       
@@ -224,9 +222,7 @@ fetch("/data/schedule.json")
                   <td style="min-width: fit-content; text-wrap: nowrap">${
                     d.time
                   }</td>
-                  <td style="min-width: fit-content; text-wrap: nowrap">${
-                    d.name
-                  }</td>
+                  <td style="min-width: fit-content;">${d.name}</td>
                   <td>${d.title}</td>
                   <td>
                       

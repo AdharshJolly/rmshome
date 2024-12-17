@@ -1254,7 +1254,7 @@
         "data": [
           {
             "date": "Friday 27 December, 2024",
-            "chair": " ",
+            "chair": "Shalini Bhattacharya",
             "time": "10:50 - 11:20",
             "name": "Veekesh Kumar (IIT Dharwad)",
             "title": "Rational approximations to linear combinations of powers of algebraic numbers",
@@ -1270,7 +1270,7 @@
           },
           {
             "date": "",
-            "chair": " ",
+            "chair": "Veekesh Kumar",
             "time": "12:00 - 12:30",
             "name": "Shaunak Deo (IISc Bengaluru)",
             "title": "Level raising for modular forms in the residually reducible case",
@@ -1286,7 +1286,7 @@
           },
           {
             "date": "Saturday 28 December, 2024",
-            "chair": " ",
+            "chair": "Brundaban Sahu",
             "time": "10:45 - 11:15",
             "name": "Somnath Jha (IIT Kanpur)",
             "title": "Some cases of the cube sum problem",
@@ -1302,7 +1302,7 @@
           },
           {
             "date": "",
-            "chair": " ",
+            "chair": "Anupam Saikia",
             "time": "11:55 - 12:25",
             "name": "Supriya Pisolkar (IISER Pune)",
             "title": "Uniform Groups & the Fontaine-Mazur Conjecture",
@@ -1314,11 +1314,11 @@
             "time": "12:25 - 12:55",
             "name": "Mihir Sheth (IISc Bangalore)",
             "title": "Strong linear independence of primitive forms",
-            "link": " "
+            "link": ""
           },
           {
             "date": "",
-            "chair": " ",
+            "chair": "Somnath Jha",
             "time": "02:20 - 02:50",
             "name": "Bidisha Roy (IIT Tirupati)",
             "title": "Geometric interpretation of certain moments of Hypergeometric character sums",
@@ -1334,7 +1334,7 @@
           },
           {
             "date": "Sunday 29 December, 2024",
-            "chair": " ",
+            "chair": "Supriya Pisolkar",
             "time": "09:15 - 09:45",
             "name": "Brundaban Sahu (NISER Bhubaneswar)",
             "title": "Nonvanishing of kernel functions and Poincar ́e series for Jacobi forms",
@@ -1350,7 +1350,7 @@
           },
           {
             "date": "",
-            "chair": " ",
+            "chair": "Balesh Kumar",
             "time": "10:45 - 11:15",
             "name": "Ekata Saha (IIT Delhi)",
             "title": "Arithmetic nature of special values of the incomplete gamma and beta functions",
@@ -1366,7 +1366,7 @@
           },
           {
             "date": "",
-            "chair": " ",
+            "chair": "Ekata Saha",
             "time": "11:55 - 12:25",
             "name": "Jyothsnaa Sivaraman (IISER Thiruvananthapuram)",
             "title": "Products of primes in ray classes",
@@ -2459,7 +2459,7 @@
             "date": "Friday 27 December, 2024",
             "speakers": 3,
             "venue": "Classroom No. 205, Block II, Ground Floor",
-            "chair": "  ",
+            "chair": "Divyum Sharma",
             "time": "02:30 - 03:30",
             "name": "Ashish Kumar Pandey (University of Allahabad)",
             "title": "On inequalities related to the Jordan totient function and some Lucas sequences",
@@ -2489,7 +2489,7 @@
             "date": "Saturday 28 December, 2024",
             "speakers": 3,
             "venue": "Classroom No. 205, Block II, Ground Floor",
-            "chair": "  ",
+            "chair": "Bidisha Roy",
             "time": "03:50 - 04:50",
             "name": "Vrikshavardhana Hebbar N (National Institute of Engineering Mysuru)",
             "title": "On the distribution of quadratic residues and nonresidues modulo prime p",
