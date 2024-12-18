@@ -596,7 +596,7 @@
         "data": [
           {
             "date": "Friday 27 December, 2024",
-            "chair": " ",
+            "chair": "Soumya Dey",
             "time": "10:50 - 11:20",
             "name": "Ajay Singh Thakur (IIT Kanpur)",
             "title": "On KO-groups of complex Milnor hypersurface",
@@ -612,7 +612,7 @@
           },
           {
             "date": "",
-            "chair": " ",
+            "chair": "Krishshnendu Gongopadhyay",
             "time": "12:00 - 12:30",
             "name": "C P Anil Kumar (Krea University)",
             "title": "Combinatorics and Topology of Hyperplane Arrangements",
@@ -628,7 +628,7 @@
           },
           {
             "date": "Saturday 28 December, 2024",
-            "chair": " ",
+            "chair": "Bankteshwar Tiwari",
             "time": "10:45 - 11:15",
             "name": "Prateep Chakraborty (IIT Kharagpur)",
             "title": "A structure theorem and left orderability of a quotient of quasi-isometry group of the real line",
@@ -644,7 +644,7 @@
           },
           {
             "date": "",
-            "chair": " ",
+            "chair": "C P Anil Kumar",
             "time": "11:55 - 12:25",
             "name": "Atreyee Bhattacharya (IISER Bhopal)",
             "title": "On Geometric realizations of cyclic actions on surfaces",
@@ -660,7 +660,7 @@
           },
           {
             "date": "",
-            "chair": " ",
+            "chair": "Ajay Singh Thakur",
             "time": "02:20 - 02:50",
             "name": "Sourav Ghosh (Ashoka University)",
             "title": "Flat affine manifolds with free fundamental group",
@@ -676,27 +676,27 @@
           },
           {
             "date": "Sunday 29 December, 2024",
-            "chair": " ",
+            "chair": "Krishshnendu Gongopadhyay",
             "time": "09:15 - 09:45",
-            "name": "Gautam Bharali (IISc Bengaluru)",
-            "title": "A metrical notion of negative curvature and applications to the Kobayashi metric",
-            "link": "https://drive.google.com/file/d/1RCnnJWc-7hqOiE-L78hLiU5jssuVmIdq/view?usp=drive_link"
+            "name": "Kuldeep Saha (TCG CREST Kolkata)",
+            "title": "Topology of Matching complex via discrete Morse theory",
+            "link": "https://drive.google.com/file/d/1tFrQ0YjhK2QnKOTK_EH-C_ZjdwIyyAVF/view?usp=drive_link"
           },
           {
             "date": "",
             "chair": "",
             "time": "09:45 - 10:15",
-            "name": "Pratulananda Das (Jadavpur University Kolkata)",
+            "name": "Pratulananda Das (Jadavpur University Kolkata) ",
             "title": "On certain observations of characterized subgroups for arithmetic and related sequences",
             "link": "https://drive.google.com/file/d/150GR-GDxCa2FclVvgt2wbBlZHuMC-sID/view?usp=drive_link"
           },
           {
             "date": "",
-            "chair": " ",
+            "chair": "Arpan Kabiraj",
             "time": "10:45 - 11:15",
-            "name": "Kuldeep Saha (TCG CREST Kolkata)",
-            "title": "Topology of Matching complex via discrete Morse theory",
-            "link": "https://drive.google.com/file/d/1tFrQ0YjhK2QnKOTK_EH-C_ZjdwIyyAVF/view?usp=drive_link"
+            "name": "Gangotryi Sorcar (Krea University)",
+            "title": "High dimensional hyperbolic virtually fibered right-angled Coxeter groups",
+            "link": "https://drive.google.com/file/d/1jeYIaHkhrxpEvBUSP16OGIXjAOx6DZBS/view?usp=drive_link"
           },
           {
             "date": "",
@@ -708,7 +708,7 @@
           },
           {
             "date": "",
-            "chair": " ",
+            "chair": "Soumya Dey",
             "time": "11:55 - 12:25",
             "name": "Arpan Kabiraj (IIT Palakkad)",
             "title": "Lifting criteria of closed curves to finite covers",
@@ -718,9 +718,9 @@
             "date": "",
             "chair": "",
             "time": "12:25 - 12:55",
-            "name": "Gangotryi Sorcar (Krea University)",
-            "title": "High dimensional hyperbolic virtually fibered right-angled Coxeter groups",
-            "link": "https://drive.google.com/file/d/1jeYIaHkhrxpEvBUSP16OGIXjAOx6DZBS/view?usp=drive_link"
+            "name": "Gautam Bharali (IISc Bengaluru)",
+            "title": "A metrical notion of negative curvature and applications to the Kobayashi metric",
+            "link": "https://drive.google.com/file/d/1RCnnJWc-7hqOiE-L78hLiU5jssuVmIdq/view?usp=drive_link"
           }
         ]
       },
@@ -730,7 +730,7 @@
         "data": [
           {
             "date": "Friday 27 December, 2024",
-            "chair": " ",
+            "chair": "Ashish Mishra",
             "time": "10:50 - 11:20",
             "name": "Santosh Nadimpalli (IIT Kanpur)",
             "title": "Twisted Jacquet modules of GL(2, D)",
@@ -746,7 +746,7 @@
           },
           {
             "date": "",
-            "chair": " ",
+            "chair": "Pooja Singh",
             "time": "12:00 - 12:30",
             "name": "Ashish Mishra (LNMIIT Jaipur)",
             "title": "Gelfand models for finite complex reflection groups",
@@ -762,7 +762,7 @@
           },
           {
             "date": "Saturday 28 December, 2024",
-            "chair": " ",
+            "chair": "Manoj Kumar Yadav",
             "time": "10:45 - 11:15",
             "name": "Sunil K Prajapati (IIT Bhubaneswar)",
             "title": "Character Codegrees and Exceptional Groups",
@@ -778,7 +778,7 @@
           },
           {
             "date": "",
-            "chair": " ",
+            "chair": "B. Sury",
             "time": "11:55 - 12:25",
             "name": "Krishnendu Gongopadhyay (IISER Mohali)",
             "title": "Character variety of Anosov representations",
@@ -794,7 +794,7 @@
           },
           {
             "date": "",
-            "chair": " ",
+            "chair": "Krishnendu Gongopadhyay",
             "time": "02:20 - 02:50",
             "name": "B Sury (ISI Bangalore)",
             "title": "Unitriangular factorization, and Commutator Width for Chevalley groups and Applications to Kazhdan’s Property T for Holomorphic Matrices.",
@@ -810,7 +810,7 @@
           },
           {
             "date": "Sunday 29 December, 2024",
-            "chair": " ",
+            "chair": "Shradha Srivastava",
             "time": "09:15 - 09:45",
             "name": "G Krishna Teja (ISI Bangalore)",
             "title": "Weyl Character Type Formulas",
@@ -826,7 +826,7 @@
           },
           {
             "date": "",
-            "chair": " ",
+            "chair": "Venketasubramanian C. G.",
             "time": "10:45 - 11:15",
             "name": "Radhika Ganapathy (IISc Bangalore)",
             "title": "An Iwahori variant of the Kazhdan isomorphism",
@@ -842,7 +842,7 @@
           },
           {
             "date": "",
-            "chair": " ",
+            "chair": "Sandip Singh",
             "time": "11:55 - 12:25",
             "name": "Venketasubramanian C. G. (IIT Tirupati)",
             "title": "Twisted Jacquet modules of principal series representations of p-adic groups",
