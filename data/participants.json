@@ -4,6 +4,10 @@
     "institute": "IIT Madras"
   },
   {
+    "name": "Abhishek Ghosh",
+    "institute": "IIT Jammu"
+  },
+  {
     "name": "Abhishek Sarkar",
     "institute": "IIT Jodhpur"
   },
@@ -80,6 +84,10 @@
     "institute": "Indian Institute of Technology Indore"
   },
   {
+    "name": "Anish Ghosh",
+    "institute": "TIFR Mumbai"
+  },
+  {
     "name": "Ankit Kumar",
     "institute": "Punjab Engineering College (Deemed to be University)"
   },
@@ -141,7 +149,7 @@
   },
   {
     "name": "Arindam Mandal",
-    "institute": "NISER"
+    "institute": "National Institute of Science Education and Research"
   },
   {
     "name": "Arka Mallick",
@@ -272,10 +280,6 @@
     "institute": "Manipal Institute of Technology"
   },
   {
-    "name": "Chaman Kumar",
-    "institute": "Indian Institute of Technology Roorkee"
-  },
-  {
     "name": "Chetan D. Pahlajani",
     "institute": "IIT Gandhinagar"
   },
@@ -310,6 +314,10 @@
   {
     "name": "Debleena Thacker",
     "institute": "University of Durham"
+  },
+  {
+    "name": "Deblina Das",
+    "institute": "IIT Palakkad"
   },
   {
     "name": "Deepak Gothwal",
@@ -360,6 +368,10 @@
     "institute": "Krea University"
   },
   {
+    "name": "Gargi Ghosh",
+    "institute": "IIT Roorkee"
+  },
+  {
     "name": "Gautam Bharali",
     "institute": "Indian Institute of Science"
   },
@@ -386,6 +398,10 @@
   {
     "name": "Gurleen Kaur",
     "institute": "IIT Ropar"
+  },
+  {
+    "name": "Harish Seshadri",
+    "institute": "IISc Bengaluru"
   },
   {
     "name": "Himanshu Chandrakar",
@@ -456,6 +472,10 @@
     "institute": "Indian Institute of Science Education and Research Kolkata"
   },
   {
+    "name": "Jugal Kishore Prajapat",
+    "institute": "Central University of Rajasthan"
+  },
+  {
     "name": "Jugal Kishore Verma",
     "institute": "IIT Gandhinagar"
   },
@@ -496,7 +516,7 @@
     "institute": "IIT Bombay"
   },
   {
-    "name": "KIRAN ANTONY",
+    "name": "Kiran Anthony",
     "institute": "NIT Karnataka"
   },
   {
@@ -506,6 +526,10 @@
   {
     "name": "Kuldeep Saha",
     "institute": "TCG CREST Kolkata"
+  },
+  {
+    "name": "Kuldeep Singh Charak",
+    "institute": "University of Jammu"
   },
   {
     "name": "Kumarjit Saha",
@@ -536,6 +560,10 @@
     "institute": "IISER Pune"
   },
   {
+    "name": "Maithilly Ramaswamy",
+    "institute": "TIFR – CAM Bengaluru"
+  },
+  {
     "name": "Mandira Mondal",
     "institute": "University of Hyderabad"
   },
@@ -554,6 +582,10 @@
   {
     "name": "Manjunatha M R",
     "institute": "IIT Indore"
+  },
+  {
+    "name": "Manoj Kumar Yadav",
+    "institute": "HRI Allahabad"
   },
   {
     "name": "Manoj Prajapati",
@@ -764,6 +796,10 @@
     "institute": "Indian Institute of Science"
   },
   {
+    "name": "R. Balakrishnan",
+    "institute": "Bharathidasan University Tiruchirappalli"
+  },
+  {
     "name": "R. Vijayakumar",
     "institute": "NIT Calicut"
   },
@@ -889,7 +925,7 @@
   },
   {
     "name": "Samarpita Ray",
-    "institute": ""
+    "institute": "Barclays Mumbai"
   },
   {
     "name": "Samya Kumar Ray",
@@ -1000,10 +1036,6 @@
     "institute": "IISER Mohali"
   },
   {
-    "name": "Somnath Gandal",
-    "institute": "IIT Bombay"
-  },
-  {
     "name": "Somnath Ghosh",
     "institute": "IISc Bangalore"
   },
@@ -1072,12 +1104,12 @@
     "institute": "Indian Institute of Technology Bhilai"
   },
   {
-    "name": "Sumit Kumar",
-    "institute": "Jawaharlal Nehru University"
+    "name": "Sumana Alladi",
+    "institute": "Madras School of Economics"
   },
   {
-    "name": "Sundaram Thangavelu",
-    "institute": "IISc Bangalore"
+    "name": "Sumit Kumar",
+    "institute": "Jawaharlal Nehru University"
   },
   {
     "name": "Sunil Kumar Prajapati",
@@ -1144,12 +1176,12 @@
     "institute": "Assam University"
   },
   {
-    "name": "Uday Shankar Chakraborty",
-    "institute": "NIT Tiruchirappalli"
-  },
-  {
     "name": "Uthara S",
     "institute": "Pondicherry University"
+  },
+  {
+    "name": "Vamsinadh Thota",
+    "institute": "NIT Tiruchirappalli"
   },
   {
     "name": "Vasudeva Rao Allu",
